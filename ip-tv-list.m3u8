@@ -18,7 +18,7 @@ http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:AB:2D:0E&stream=1395
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/QFdBLvpHYS0o.jpg",6. Teleon
 http://trrt.site/6991fc66ssf1282e/teleon.m3u8
 
-#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/CbJmpD.jpg?ts=1661510257",8. Play TV
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/6lcSk0Fsx.jpg?ts=1661510257",8. Play TV
 https://ip100.radyotelekomtv.com:3784/stream/play.m3u8
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://www.logovector.org/wp-content/uploads/logos/png/c/cine5_logo.png",10. Cine 5
@@ -338,6 +338,7 @@ http://74214be9.edemist.com/iptv/WUX6STDKBG73GKNYAF5U3KMF/19084/index.m3u8
 
 #EXTINF:-1 group-title="Yabancı" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/2/29/Rai_World_Premium_%282017-.n.v.%29.png/revision/latest?cb=20170627122650",592. Rai World Premium
 https://ilglobotv-live.akamaized.net/channels/RAIPremium/events(1000)/RAIPremium-video=699968.m3u8
+
 
 
 
