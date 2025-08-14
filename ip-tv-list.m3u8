@@ -15,16 +15,16 @@ https://mediaserver1.castpin.com/hls/filbox/1_2/index.m3u8
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/thumb/4/4c/FILMBOX_HD.png/250px-FILMBOX_HD.png",5. FilmBox Yerli
 http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:AB:2D:0E&stream=1395483&extension=m3u8
 
-#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/6/6b/Teleon_logosu.jpg",6. Teleon
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/QFdBLvpHYS0o.jpg",6. Teleon
 http://trrt.site/6991fc66ssf1282e/teleon.m3u8
 
-#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://d1csarkz8obe9u.cloudfront.net/posterpreviews/play-tv-logos-design-template-50a0ca955857a7b17031eac0de23e83c_screen.jpg?ts=1661510257",8. Play TV
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/CbJmpD.jpg?ts=1661510257",8. Play TV
 https://ip100.radyotelekomtv.com:3784/stream/play.m3u8
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://www.logovector.org/wp-content/uploads/logos/png/c/cine5_logo.png",10. Cine 5
 https://cdn-cine5.yayin.com.tr/cine5/cine5/chunklist_w1443635736.m3u8
 
-#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/b/bb/T%C3%BCrkmax_logosu.png",11. Max Türk
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/phTdPozUQfu.jpg",11. Max Türk
 https://host.onlineradyotv.net:8081/sdmtv/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://www.sdmvideo.com/upload/photos/2025/02/Ihhn9QYN6jn2BW5tL8Jz_08_bb9fd41790386666b1c32ce49a3b1b2c_image.png",18. SDM Sinema
@@ -338,5 +338,6 @@ http://74214be9.edemist.com/iptv/WUX6STDKBG73GKNYAF5U3KMF/19084/index.m3u8
 
 #EXTINF:-1 group-title="Yabancı" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/2/29/Rai_World_Premium_%282017-.n.v.%29.png/revision/latest?cb=20170627122650",592. Rai World Premium
 https://ilglobotv-live.akamaized.net/channels/RAIPremium/events(1000)/RAIPremium-video=699968.m3u8
+
 
 
