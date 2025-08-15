@@ -16,7 +16,7 @@ https://mediaserver1.castpin.com/hls/filbox/1_2/index.m3u8
 http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:AB:2D:0E&stream=1395483&extension=m3u8
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/QFdBLvpHYS0o.jpg",6. Teleon
-http://trrt.site/6991fc66ssf1282e/teleon.m3u8
+https://tx.flv.nimo.tv/live/su2039517909034rf8359a329f989836f0e5bfafa23b25c2.flv
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/6lcSk0Fsx.jpg?ts=1661510257",8. Play TV
 https://ip100.radyotelekomtv.com:3784/stream/play.m3u8
@@ -352,6 +352,7 @@ https://familyhls.persiana.live/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://r.resimlink.com/Hl9O5JKDd.jpg",596. Persina Science
 https://scihls.persiana.live/hls/stream.m3u8
+
 
 
 
