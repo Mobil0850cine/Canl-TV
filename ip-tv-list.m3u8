@@ -339,6 +339,17 @@ http://74214be9.edemist.com/iptv/WUX6STDKBG73GKNYAF5U3KMF/19084/index.m3u8
 #EXTINF:-1 group-title="Yabancı" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/2/29/Rai_World_Premium_%282017-.n.v.%29.png/revision/latest?cb=20170627122650",592. Rai World Premium
 https://ilglobotv-live.akamaized.net/channels/RAIPremium/events(1000)/RAIPremium-video=699968.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/tqkV2sn/irflag.png",PERSIANA CINEMA
+https://cinehls.persiana.live/hls/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/tqkV2sn/irflag.png",PERSIANA FAMILY
+https://familyhls.persiana.live/hls/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/tqkV2sn/irflag.png",PERSIANA SCIENCE
+https://scihls.persiana.live/hls/stream.m3u8
+
+
+
 
 
 
