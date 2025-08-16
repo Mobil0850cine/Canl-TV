@@ -255,8 +255,14 @@ https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago/minikago_720p.m3u8
 #EXTINF:-1 group-title="Çocuk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/69/MinikaCOCUK.png",174. Minika Cocuk
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago_cocuk/minikago_cocuk_720p.m3u8
 
-#EXTINF:-1 group-title="Çocuk" tvg-logo="https://r.resimlink.com/D6WOiEma.png",180. Carac 1 HD
+#EXTINF:-1 group-title="Çocuk" tvg-logo="https://r.resimlink.com/vO9raF3GT.png",180. Carac 1 HD
 https://edge15.vedge.infomaniak.com/livecast/event/chunklist_w227348517.m3u8
+
+#EXTINF:-1 group-title="Çocuk" tvg-logo="https://r.resimlink.com/tHBkq-Y8Nch.png",180. Carac 2 HD
+https://edge21.vedge.infomaniak.com/livecast/onefmmd/chunklist_w195408683.m3u8
+
+#EXTINF:-1 group-title="Çocuk" tvg-logo="https://r.resimlink.com/7u9tkyvfFJ21.png",180. Carac 3 HD
+https://edge17.vedge.infomaniak.com/livecast/lfmmd/chunklist_w1754903278.m3u8
 
 #EXTINF:-1 group-title="Yabancı" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/Ictimai_TV_yeni_logo_2019.png",184. İçtimal TV
 https://live.itv.az/itv.m3u8
@@ -266,6 +272,9 @@ https://thema-vivekanald-rakuten.amagi.tv/1080p-vtt/index.m3u8
 
 #EXTINF:-1 group-title="Yabancı" tvg-logo="https://ichef.bbci.co.uk/images/ic/1920xn/p09xtmrp.jpg",186. BBC Drama
 https://amg00793-amg00793c41-rakuten-it-5445.playouts.now.amagi.tv/1080p/index.m3u8
+
+#EXTINF:-1 group-title="Çocuk" tvg-logo="https://r.resimlink.com/wVzqXfSt79E2.png",187. Show Plus
+https://rtmp.showplus.tv/hls/myshow.m3u8
 
 #EXTINF:-1 group-title="Diğer" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Canal_6_TCS.png/250px-Canal_6_TCS.png",250. Chennal 6
 https://cdn4.yayin.com.tr/channel6tv/index.m3u8
@@ -355,6 +364,7 @@ https://familyhls.persiana.live/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://r.resimlink.com/Hl9O5JKDd.jpg",596. Persina Science
 https://scihls.persiana.live/hls/stream.m3u8
+
 
 
 
