@@ -102,6 +102,9 @@ https://tv8-live.daioncdn.net/tv8bucuk/tv8bucuk_1080p.m3u8
 #EXTINF:-1 group-title="Yabancı" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/34/AzTV_%282005-2009%29.png/revision/latest?cb=20170831053034",59. Az TV
 https://str.yodacdn.net/aztv/index.m3u8
 
+#EXTINF:-1 group-title="Yabancı" tvg-logo="https://r.resimlink.com/0Zne4.jpg/revision/latest?cb=20170831053034",70. TR Spor TV
+http://116.202.117.244/gzcspor/gzcspor/playlist.m3u8
+
 #EXTINF:-1 group-title="Spor" tvg-logo="https://pbs.twimg.com/profile_images/1884171440934563840/8PAU1gpT_200x200.jpg",71. Ekol Sports
 https://kablosistem.vercel.app/index.m3u8?id=112
 
@@ -173,6 +176,9 @@ http://cb286df8.rossteleccom.net/iptv/ZCWPCL9K3LR827/2506/index.m3u8
 
 #EXTINF:-1 group-title="Spor" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Rai_Sport_-_Logo_2022.svg/1200px-Rai_Sport_-_Logo_2022.svg.png",98. Rai Sport
 http://cb286df8.rossteleccom.net/iptv/ZCWPCL9K3LR827/19106/index.m3u8
+
+#EXTINF:-1 group-title="Spor" tvg-logo="https://r.resimlink.com/4mf0hVJHjwzs.jpg",106. Solh Sports
+https://solhtvhls.wns.live/hls/stream.m3u8
 
 #EXTINF:-1 group-title="Spor" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/TraceSSLogo.png/1200px-TraceSSLogo.png",107. Trace Sports
 https://trace-sportstars-samsungnz.amagi.tv/playlist.m3u8
@@ -367,6 +373,7 @@ https://scihls.persiana.live/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://r.resimlink.com/oLAyVpfTJH.jpg",777. Test TV
 https://beert7sqimrk0bfdupfgn6qew.medya.trt.com.tr/master.m3u8
+
 
 
 
