@@ -309,7 +309,7 @@ https://live.artidijitalmedya.com/artidijital_powerturktv/powerturktv/playlist.m
 #EXTINF:-1 group-title="Müzik" tvg-logo="https://cdn.powergroup.com.tr/image/500x500/powerapp/channels/v3/logo_2450.png?v=4",258. Power Türk Slow
 http://livetv.powerapp.com.tr/pturkslow/slow.smil/playlist.m3u8
 
-#EXTINF:-1 group-title="Çocuk" tvg-logo="https://r.resimlink.com/qtiGyoCcPJaR.png",565. Rakuten Sinema
+#EXTINF:-1 group-title="Çocuk" tvg-logo="https://r.resimlink.com/qtiGyoCcPJaR.png",565. Rakuten Drama
 https://01ac9352fbfa4204998783d41f9b1a2e.mediatailor.eu-west-1.amazonaws.com/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6068/6678ec50-7d41-47ae-8a1a-734b9225d623/4.m3u8
 
 #EXTINF:-1 group-title="Çocuk" tvg-logo="https://r.resimlink.com/m27ce_huPD-S.png",566. Rakuten Gerilim
@@ -382,6 +382,7 @@ https://scihls.persiana.live/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://r.resimlink.com/oLAyVpfTJH.jpg",777. Test TV
 https://beert7sqimrk0bfdupfgn6qew.medya.trt.com.tr/master.m3u8
+
 
 
 
