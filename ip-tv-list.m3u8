@@ -183,7 +183,7 @@ https://solhtvhls.wns.live/hls/stream.m3u8
 #EXTINF:-1 group-title="Spor" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/TraceSSLogo.png/1200px-TraceSSLogo.png",107. Trace Sports
 https://trace-sportstars-samsungnz.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 group-title="Spor" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/ad/Logo_of_French_sports_television_channel_Sport_en_France.png",108. Fransa Sports
+#EXTINF:-1 group-title="Spor" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/ad/Logo_of_French_sports_television_channel_Sport_en_France.png",108. Sport EN
 https://sp1564435593.mytvchain.info/live/sp1564435593/index.m3u8
 
 #EXTINF:-1 group-title="Belgesel & Yaşam" tvg-logo="https://naturetimetv.com/wp-content/uploads/2023/09/NatureTime_Primary-Logo.png",115. Nature Time
@@ -309,8 +309,14 @@ https://live.artidijitalmedya.com/artidijital_powerturktv/powerturktv/playlist.m
 #EXTINF:-1 group-title="Müzik" tvg-logo="https://cdn.powergroup.com.tr/image/500x500/powerapp/channels/v3/logo_2450.png?v=4",258. Power Türk Slow
 http://livetv.powerapp.com.tr/pturkslow/slow.smil/playlist.m3u8
 
-#EXTINF:-1 group-title="Çocuk" tvg-logo="https://r.resimlink.com/m27ce_huPD-S.png",567. Rakuten Sinema
+#EXTINF:-1 group-title="Çocuk" tvg-logo="https://r.resimlink.com/qtiGyoCcPJaR.png",565. Rakuten Sinema
 https://01ac9352fbfa4204998783d41f9b1a2e.mediatailor.eu-west-1.amazonaws.com/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6068/6678ec50-7d41-47ae-8a1a-734b9225d623/4.m3u8
+
+#EXTINF:-1 group-title="Çocuk" tvg-logo="https://r.resimlink.com/m27ce_huPD-S.png",566. Rakuten Gerilim
+https://thriller-rakuten-tv-fr.fast.rakuten.tv/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6479/2cd428eb-3354-4af6-a275-cc757f5aa942/4.m3u8
+
+#EXTINF:-1 group-title="Çocuk" tvg-logo="https://r.resimlink.com/m27ce_huPD-S.png",565. Rakuten Drama
+https://f396f4db84a54f7bb496b2541477b626.mediatailor.eu-west-1.amazonaws.com/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6095/3afc77bb-469b-4930-b4e9-61b11e0ea922/4.m3u8
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/2560px-HBO_logo.svg.png",568. HBO 1
 http://74214be9.edemist.com/iptv/WUX6STDKBG73GKNYAF5U3KMF/6986/index.m3u8
@@ -376,6 +382,7 @@ https://scihls.persiana.live/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://r.resimlink.com/oLAyVpfTJH.jpg",777. Test TV
 https://beert7sqimrk0bfdupfgn6qew.medya.trt.com.tr/master.m3u8
+
 
 
 
