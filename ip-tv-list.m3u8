@@ -6,14 +6,14 @@ https://cine6.cine6tv.com.tr:3614/stream/play.m3u8
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/ghwQOe.jpg",2. Cine Max
 https://max.cinemax6.com:3118/stream/play.m3u8
 
-#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/xikD7.png",3. Novamax Actıon
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/9wVDq0ILpHRS.png",3. Novamax Premier
 https://tv191.radyotelekom.com.tr:3006/stream/play.m3u8
 
-#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/3/30/FilTV_Logo.png",4. Fil TV
-https://mediaserver1.castpin.com/hls/filbox/1_2/index.m3u8
-
-#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/thumb/4/4c/FILMBOX_HD.png/250px-FILMBOX_HD.png",5. FilmBox Yerli
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/zK1R83.png",4. Moviemax Actıon
 http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:AB:2D:0E&stream=1395483&extension=m3u8
+
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/3/30/FilTV_Logo.png",5. Fil TV
+https://mediaserver1.castpin.com/hls/filbox/1_2/index.m3u8
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/QFdBLvpHYS0o.jpg",6. Teleon
 https://tx.flv.nimo.tv/live/su2039517909034rf8359a329f989836f0e5bfafa23b25c2.flv
@@ -394,6 +394,7 @@ https://scihls.persiana.live/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://r.resimlink.com/oLAyVpfTJH.jpg",777. Test TV
 https://beert7sqimrk0bfdupfgn6qew.medya.trt.com.tr/master.m3u8
+
 
 
 
