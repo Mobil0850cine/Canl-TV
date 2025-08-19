@@ -10,7 +10,7 @@ https://max.cinemax6.com:3118/stream/play.m3u8
 https://tv191.radyotelekom.com.tr:3006/stream/play.m3u8
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/zK1R83.png",4. Moviemax Actıon
-http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:AB:2D:0E&stream=1395483&extension=m3u8
+https://novamax.cinemax6.com:3760/stream/play.m3u8
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/3/30/FilTV_Logo.png",5. Fil TV
 https://mediaserver1.castpin.com/hls/filbox/1_2/index.m3u8
@@ -394,6 +394,7 @@ https://scihls.persiana.live/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://r.resimlink.com/oLAyVpfTJH.jpg",777. Test TV
 https://beert7sqimrk0bfdupfgn6qew.medya.trt.com.tr/master.m3u8
+
 
 
 
