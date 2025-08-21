@@ -12,23 +12,29 @@ https://tv191.radyotelekom.com.tr:3006/stream/play.m3u8
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/zK1R83.png",4. Moviemax Actıon
 https://novamax.cinemax6.com:3760/stream/play.m3u8
 
-#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/3/30/FilTV_Logo.png",5. Fil TV
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/3/30/FilTV_Logo.png",6. Fil TV
 https://mediaserver1.castpin.com/hls/filbox/1_2/index.m3u8
 
-#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/QFdBLvpHYS0o.jpg",6. Teleon
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/QFdBLvpHYS0o.jpg",7. Tele 10
 https://tx.flv.nimo.tv/live/su2039517909034rf8359a329f989836f0e5bfafa23b25c2.flv
 
-#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/6lcSk0Fsx.jpg?ts=1661510257",8. Play TV
-https://ip100.radyotelekomtv.com:3784/stream/play.m3u8
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/zUKjeS.png",7. Teleon HD
+http://208.79.153.42/akamaissh101/ssh101/TEBER_10/playlist.m3u8  
+
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/V5p4oI6bUa9.png",8. Sinema 6
+http://208.79.153.42/akamaissh101/ssh101/kral6/playlist.m3u8
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://www.logovector.org/wp-content/uploads/logos/png/c/cine5_logo.png",10. Cine 5
 https://cdn-cine5.yayin.com.tr/cine5/cine5/chunklist_w1443635736.m3u8
 
-#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/phTdPozUQfu.jpg",11. Max Türk
-http://hottest.vip:80/play/live.php?mac=00:1A:79:1A:2D:A3&stream=913319&extension=ts
-
-#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/9Oi3v.png",17. Gala Sinema
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/9Oi3v.png",11. Gala Sinema
 https://live20.bozztv.com/akamaissh101/ssh101/galatv/playlist.m3u8
+
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/mLfaNXZ.png",12. Gala Türk
+http://208.79.153.42/akamaissh101/ssh101/GALA_TÜRK_TV/playlist.m3u8
+
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/6lcSk0Fsx.jpg?ts=1661510257",17. Play TV
+https://ip100.radyotelekomtv.com:3784/stream/play.m3u8
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://www.sdmvideo.com/upload/photos/2025/02/Ihhn9QYN6jn2BW5tL8Jz_08_bb9fd41790386666b1c32ce49a3b1b2c_image.png",18. SDM Sinema
 https://host.onlineradyotv.net:8081/sdmtv/tracks-v1a1/mono.m3u8
@@ -83,6 +89,9 @@ https://live.artidijitalmedya.com/artidijital_tivi6/tivi6/chunks.m3u8
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://www.trt.net.tr/logos/our-logos/corporate/trt.png",35. TRT Nostalji
 https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/dizi-tv/playlist/0.m3u8
+
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/1JfgwmRS_qex.png",36. Hbb HD
+http://208.79.153.42/akamaissh101/ssh101/HBBTV/playlist.m3u8
 
 #EXTINF:-1 group-title="Diğer" tvg-logo="https://www.isvicretv.com/upload/tema/20150623__1150018573.jpg",39. İsviçre TV
 https://i41.ozelip.com:3269/hybrid/play.m3u8
@@ -400,6 +409,7 @@ https://scihls.persiana.live/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://r.resimlink.com/oLAyVpfTJH.jpg",777. Test TV
 https://beert7sqimrk0bfdupfgn6qew.medya.trt.com.tr/master.m3u8
+
 
 
 
