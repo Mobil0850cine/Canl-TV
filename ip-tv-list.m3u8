@@ -21,7 +21,7 @@ https://mediaserver1.castpin.com/hls/filbox/1_2/index.m3u8
 https://tx.flv.nimo.tv/live/su2039517909034rf8359a329f989836f0e5bfafa23b25c2.flv
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/zUKjeS.png",8. Teleon HD
-http://208.79.153.42/akamaissh101/ssh101/TEBER_10/playlist.m3u8 
+http://208.79.153.42/akamaissh101/ssh101/TEBER_10/playlist.m3u8
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/V5p4oI6bUa9.png",9. Sinema 6
 http://208.79.153.42/akamaissh101/ssh101/kral6/playlist.m3u8
@@ -417,6 +417,7 @@ https://scihls.persiana.live/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://r.resimlink.com/oLAyVpfTJH.jpg",777. Test TV
 https://beert7sqimrk0bfdupfgn6qew.medya.trt.com.tr/master.m3u8
+
 
 
 
