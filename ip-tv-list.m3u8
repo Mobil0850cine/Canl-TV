@@ -12,8 +12,6 @@ https://tv191.radyotelekom.com.tr:3006/stream/play.m3u8
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/zK1R83.png",4. Noviemax Actıon
 https://novamax.cinemax6.com:3760/stream/play.m3u8
 
-#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/xlonEyWG.png",5. Moviemax Premiere
-
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/_fozi2.png",6. Fil TV
 https://mediaserver1.castpin.com/hls/filbox/1_2/index.m3u8
 
@@ -22,9 +20,6 @@ https://tx.flv.nimo.tv/live/su2039517909034rf8359a329f989836f0e5bfafa23b25c2.flv
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/zUKjeS.png",8. Teleon HD
 http://208.79.153.42/akamaissh101/ssh101/TEBER_10/playlist.m3u8
-
-#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/V5p4oI6bUa9.png",9. Sinema 6
-http://208.79.153.42/akamaissh101/ssh101/kral6/playlist.m3u8
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://www.logovector.org/wp-content/uploads/logos/png/c/cine5_logo.png",10. Cine 5
 https://cdn-cine5.yayin.com.tr/cine5/cine5/chunklist_w1443635736.m3u8
@@ -41,10 +36,13 @@ http://208.79.153.42/akamaissh101/ssh101/tbrt_star1/playlist.m3u8
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/B1de4Z.png",14. Star Sinema 2
 http://208.79.153.42/akamaissh101/ssh101/tbrt_star2/playlist.m3u8
 
-#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/Uy0XL-_Fzc.png",16. Sinema HD
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/Uy0XL-_Fzc.png",15. Sinema HD
 http://208.79.153.42/akamaissh101/ssh101/ysmtvmedya/chunks.m3u8
 
-#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/JhZ4a.png",17. Play TV
+#EXTINF:-1 group-title="Diğer" tvg-logo="https://r.resimlink.com/Y4gAE-Vpc6.png",16. Play Cinema
+https://a8.radyotelekom.com.tr:3899/stream/play.m3u8
+
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/JhZ4a.png",17. Play Sinema
 https://ip100.radyotelekomtv.com:3784/stream/play.m3u8
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://www.sdmvideo.com/upload/photos/2025/02/Ihhn9QYN6jn2BW5tL8Jz_08_bb9fd41790386666b1c32ce49a3b1b2c_image.png",18. SDM Sinema
@@ -58,9 +56,6 @@ http://75.119.144.48/SUPERTURK_TV_STREAM/index.m3u8
 
 #EXTINF:-1 group-title="Diğer" tvg-logo="https://pbs.twimg.com/media/F-QH1TMXQAAHhKy.png",21. Süper Türk Max
 http://75.119.144.48/SUPERTURK_MAX_HD/index.m3u8
-
-#EXTINF:-1 group-title="Diğer" tvg-logo="https://r.resimlink.com/TZNs4WoHy.png",22. Cine Türk
-http://208.79.153.42/akamaissh101/ssh101/playtvsinema/playlist.m3u8
 
 #EXTINF:-1 group-title="Ulusal Kanallar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/TRT_1_logo_%282012-2021%29.png",23. TRT 1
 https://tv-trt1.medya.trt.com.tr/master.m3u8
@@ -103,6 +98,9 @@ https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/dizi-tv/playlist/0.m3u8
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/1JfgwmRS_qex.png",36. Hbb HD
 http://208.79.153.42/akamaissh101/ssh101/HBBTV/playlist.m3u8
+
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/V5p4oI6bUa9.png",37. Sinema 6
+http://208.79.153.42/akamaissh101/ssh101/kral6/playlist.m3u8
 
 #EXTINF:-1 group-title="Diğer" tvg-logo="https://www.isvicretv.com/upload/tema/20150623__1150018573.jpg",39. İsviçre TV
 https://i41.ozelip.com:3269/hybrid/play.m3u8
@@ -344,6 +342,9 @@ https://amg01131-tracetv-tracelatina-glewed-vtnk7.amagi.tv/playlist1080P.m3u8
 #EXTINF:-1 group-title="Çocuk" tvg-logo="https://r.resimlink.com/QePFqLnvl5G.png",262. Trace Urban
 https://amg01131-tracetv-tracelatina-glewed-vtnk7.amagi.tv/playlist1080P.m3u8
 
+#EXTINF:-1 group-title="Çocuk" tvg-logo="https://r.resimlink.com/C3WTeRX.png",263. Plat Music
+https://a8.radyotelekom.com.tr:3877/stream/play.m3u8
+
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/hPX1YA.png",563. Movies Actıon
 https://shls-live-enc.edgenextcdn.net/out/v1/46079e838e65490c8299f902a7731168/index.m3u8
 
@@ -423,6 +424,7 @@ https://scihls.persiana.live/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://r.resimlink.com/oLAyVpfTJH.jpg",777. Test TV
 https://beert7sqimrk0bfdupfgn6qew.medya.trt.com.tr/master.m3u8
+
 
 
 
