@@ -33,10 +33,10 @@ http://208.79.153.42/akamaissh101/ssh101/galatv/playlist.m3u8
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/mLfaNXZ.png",12. Gala Türk
 http://208.79.153.42/akamaissh101/ssh101/GALA_TURK_TV/playlist.m3u8
 
-#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/MIqzD.png",13. Star Sinema
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/JZMdgri5.png",13. Star Sinema
 http://208.79.153.42/akamaissh101/ssh101/tbrt_star1/playlist.m3u8 
 
-#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/B1de4Z.png",14. Star Sinema 2
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/QaKBhpbUXC6.png",14. Star Sinema 2
 http://208.79.153.42/akamaissh101/ssh101/tbrt_star2/playlist.m3u8
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/Uy0XL-_Fzc.png",15. Sinema HD
@@ -427,6 +427,7 @@ https://scihls.persiana.live/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://r.resimlink.com/oLAyVpfTJH.jpg",777. Test TV
 https://beert7sqimrk0bfdupfgn6qew.medya.trt.com.tr/master.m3u8
+
 
 
 
