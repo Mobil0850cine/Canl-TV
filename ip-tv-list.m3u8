@@ -18,9 +18,6 @@ https://novamax.cinemax6.com:3760/stream/play.m3u8
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/_fozi2.png",6. Fil TV
 https://mediaserver1.castpin.com/hls/filbox/1_2/index.m3u8
 
-#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/lB4YZ9dKaIO.png",7. Tele 10
-https://al.flv.nimo.tv/live/su2039517909034rf8359a329f989836f0e5bfafa23b25c2.flv?
-
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/zUKjeS.png",8. Teleon HD
 http://208.79.153.42/akamaissh101/ssh101/TEBER_10/playlist.m3u8
 
@@ -32,9 +29,6 @@ https://cdn-cine5.yayin.com.tr/cine5/cine5/chunklist_w1443635736.m3u8
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/9Oi3v.png",11. Gala Sinema
 http://208.79.153.42/akamaissh101/ssh101/galatv/playlist.m3u8
-
-#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/mLfaNXZ.png",12. Gala Türk
-http://208.79.153.42/akamaissh101/ssh101/GALA_TURK_TV/playlist.m3u8
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/JZMdgri5.png",13. Star Sinema
 http://208.79.153.42/akamaissh101/ssh101/tbrt_star1/playlist.m3u8 
@@ -430,6 +424,7 @@ https://scihls.persiana.live/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://r.resimlink.com/oLAyVpfTJH.jpg",777. Test TV
 https://beert7sqimrk0bfdupfgn6qew.medya.trt.com.tr/master.m3u8
+
 
 
 
