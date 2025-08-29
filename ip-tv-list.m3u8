@@ -129,6 +129,54 @@ https://beyaztv-live.daioncdn.net/beyaztv/beyaztv_1080p.m3u8
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Tabii_logo.svg/250px-Tabii_logo.svg.png",45. Tabii TV
 https://ceokzokgtd.erbvr.com/tabiitv/tabiitv.m3u8
 
+#EXTINF:-1 group-title="Yabancı" tvg-logo="https://r.resimlink.com/CwFxbTL.png",50. Byzbox Aksiyon 1
+http://ufosat.xyz:8080/P8TBMUHffV/VBUzFzSzj2Rq/152661
+
+#EXTINF:-1 group-title="Yabancı" tvg-logo="https://r.resimlink.com/K6UPxNeR.png",51. Byzbox Aksiyon 2
+http://ufosat.xyz:8080/P8TBMUHffV/VBUzFzSzj2Rq/152662
+
+#EXTINF:-1 group-title="Yabancı" tvg-logo="https://r.resimlink.com/LPVov-KGkm0.png",52. Byzbox Aksiyon 3
+http://ufosat.xyz:8080/P8TBMUHffV/VBUzFzSzj2Rq/152663
+
+#EXTINF:-1 group-title="Yabancı" tvg-logo="https://r.resimlink.com/LG-Xz.png",53. Byzbox Aksiyon 4
+http://ufosat.xyz:8080/P8TBMUHffV/VBUzFzSzj2Rq/152664
+
+#EXTINF:-1 group-title="Yabancı" tvg-logo="https://r.resimlink.com/-2CnxT.png",54. Byzbox Aksiyon 5
+http://ufosat.xyz:8080/P8TBMUHffV/VBUzFzSzj2Rq/152665
+
+#EXTINF:-1 group-title="Yabancı" tvg-logo="https://r.resimlink.com/CnZxSlk8T.png",55. Byzbox Aksiyon 6
+http://ufosat.xyz:8080/P8TBMUHffV/VBUzFzSzj2Rq/152666
+
+#EXTINF:-1 group-title="Yabancı" tvg-logo="https://r.resimlink.com/HqXFwL1Ru.png",56. Byzbox Romantik 1
+http://ufosat.xyz:8080/P8TBMUHffV/VBUzFzSzj2Rq/152667
+
+#EXTINF:-1 group-title="Yabancı" tvg-logo="https://r.resimlink.com/Nrt2RUd1.png",57. TByzbox Romantik 2
+http://ufosat.xyz:8080/P8TBMUHffV/VBUzFzSzj2Rq/152668
+
+#EXTINF:-1 group-title="Yabancı" tvg-logo="https://r.resimlink.com/0Zne4.jpg",58. TByzbox Drama 1
+http://ufosat.xyz:8080/P8TBMUHffV/VBUzFzSzj2Rq/152681
+
+#EXTINF:-1 group-title="Yabancı" tvg-logo="https://r.resimlink.com/0Zne4.jpg",59. TByzbox Drama 2
+http://ufosat.xyz:8080/P8TBMUHffV/VBUzFzSzj2Rq/152682
+
+#EXTINF:-1 group-title="Yabancı" tvg-logo="https://r.resimlink.com/0Zne4.jpg",60. TByzbox Drama 3
+http://ufosat.xyz:8080/P8TBMUHffV/VBUzFzSzj2Rq/152683
+
+#EXTINF:-1 group-title="Yabancı" tvg-logo="https://r.resimlink.com/0Zne4.jpg",61. TByzbox Drama 4
+http://ufosat.xyz:8080/P8TBMUHffV/VBUzFzSzj2Rq/152684
+
+#EXTINF:-1 group-title="Yabancı" tvg-logo="https://r.resimlink.com/0Zne4.jpg",62. TByzbox Drama 5
+http://ufosat.xyz:8080/P8TBMUHffV/VBUzFzSzj2Rq/152685
+
+#EXTINF:-1 group-title="Yabancı" tvg-logo="https://r.resimlink.com/xXwFUpdz_o9.png",63. TByzbox Komedi 1
+http://ufosat.xyz:8080/P8TBMUHffV/VBUzFzSzj2Rq/152674
+
+#EXTINF:-1 group-title="Yabancı" tvg-logo="https://r.resimlink.com/e7qvWn0ldbLF.png",57. TByzbox Komedi 2
+http://ufosat.xyz:8080/P8TBMUHffV/VBUzFzSzj2Rq/152675
+
+#EXTINF:-1 group-title="Yabancı" tvg-logo="https://r.resimlink.com/FCndt-4H6IS.png",57. TByzbox Komedi 3
+http://ufosat.xyz:8080/P8TBMUHffV/VBUzFzSzj2Rq/152676
+
 #EXTINF:-1 group-title="Yabancı" tvg-logo="https://r.resimlink.com/0Zne4.jpg",70. TR Spor TV
 http://116.202.117.244/gzcspor/gzcspor/playlist.m3u8
 
@@ -439,6 +487,7 @@ https://scihls.persiana.live/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://r.resimlink.com/oLAyVpfTJH.jpg",777. Test TV
 https://beert7sqimrk0bfdupfgn6qew.medya.trt.com.tr/master.m3u8
+
 
 
 
