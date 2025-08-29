@@ -129,21 +129,6 @@ https://beyaztv-live.daioncdn.net/beyaztv/beyaztv_1080p.m3u8
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Tabii_logo.svg/250px-Tabii_logo.svg.png",45. Tabii TV
 https://ceokzokgtd.erbvr.com/tabiitv/tabiitv.m3u8
 
-#EXTINF:-1 group-title="Ulusal Kanallar" tvg-logo="https://w7.pngwing.com/pngs/796/1017/png-transparent-cnbc-e-hd-logo-thumbnail.png",50. Cnbc-e
-https://uzunmuhalefet.serv00.net/canlitv2.php?id=13406&.m3u8
-
-#EXTINF:-1 group-title="Diğer" tvg-logo="https://logowik.com/content/uploads/images/tv-362156.logowik.com.webp",51. TV 36
-http://cdn4.yayin.com.tr/tv36/video.m3u8
-
-#EXTINF:-1 group-title="Diğer" tvg-logo="https://i.hizliresim.com/bwsicew.png",52. Tivi Türk
-https://stream.tiviturk.de/live/tiviturk.m3u8
-
-#EXTINF:-1 group-title="Ulusal Kanallar" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1f/TV8.5_Logosu.png/revision/latest?cb=20170827103605",53. TV8.5
-https://tv8-live.daioncdn.net/tv8bucuk/tv8bucuk_1080p.m3u8
-
-#EXTINF:-1 group-title="Yabancı" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/34/AzTV_%282005-2009%29.png/revision/latest?cb=20170831053034",59. Az TV
-https://str.yodacdn.net/aztv/index.m3u8
-
 #EXTINF:-1 group-title="Yabancı" tvg-logo="https://r.resimlink.com/0Zne4.jpg",70. TR Spor TV
 http://116.202.117.244/gzcspor/gzcspor/playlist.m3u8
 
@@ -243,9 +228,6 @@ http://cb286df8.rossteleccom.net/iptv/ZCWPCL9K3LR827/6100/index.m3u8
 #EXTINF:-1 group-title="Belgesel & Yaşam" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/54/Animal_Planet_logo_%28black_and_green_with_TM%29.png",120. Animal Planet
 http://cb286df8.rossteleccom.net/iptv/ZCWPCL9K3LR827/31284/index.m3u8
 
-#EXTINF: group-title="Belgesel & Yaşam" tvg-logo="https://www.viasatexplore.com.tr/assets/images/ex-header-logo.png"-1,124. Viasat Explore
-http://vip.qruzetv.site:8080/play/live.php?mac=00:2A:01:90:E8:FA&stream=594657&extension=m3u8
-
 #EXTINF:-1 group-title="Belgesel & Yaşam" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Discovery_Life_logo_2016.svg/1200px-Discovery_Life_logo_2016.svg.png",126. Disvovery Life
 http://cb286df8.rossteleccom.net/iptv/ZCWPCL9K3LR827/30056/index.m3u8
 
@@ -258,110 +240,125 @@ https://streams2.sofast.tv/sofastplayout/33c31ac4-51fa-46ae-afd0-0d1fe5e60a80_0_
 #EXTINF:-1 group-title="Belgesel & Yaşam" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/HGTV_logo.png/1024px-HGTV_logo.png",131. HG TV
 http://cb286df8.rossteleccom.net/iptv/ZCWPCL9K3LR827/1084/index.m3u8
 
-#EXTINF:-1 group-title="Belgesel & Yaşam" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/3/38/Yabantv_logo.png?20150615101642",133. Yaban TV
+#EXTINF:-1 group-title="Belgesel & Yaşam" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/3/38/Yabantv_logo.png?20150615101642",147. Yaban TV
 http://vip.qruzetv.site:8080/play/live.php?mac=00:2A:01:90:E8:FA&stream=594647&extension=m3u8
 
-#EXTINF:-1 group-title="Belgesel & Yaşam" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/TRT_Belgesel_logo_%282019-%29.svg/2560px-TRT_Belgesel_logo_%282019-%29.svg.png",134. TRT Belgesel
+#EXTINF:-1 group-title="Belgesel & Yaşam" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/TRT_Belgesel_logo_%282019-%29.svg/2560px-TRT_Belgesel_logo_%282019-%29.svg.png",148. TRT Belgesel
 https://tv-trtbelgesel.medya.trt.com.tr/master.m3u8
 
-#EXTINF:-1 group-title="Belgesel & Yaşam" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/TLC-Logo_2016.png",135. TLC
+#EXTINF:-1 group-title="Belgesel & Yaşam" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/TLC-Logo_2016.png",149. TLC
 https://dogus-live.daioncdn.net/tlc/tlc.m3u8
 
-#EXTINF:-1 group-title="Belgesel & Yaşam" tvg-logo="https://img.favpng.com/11/2/15/logo-brand-isuzu-d-max-font-product-png-favpng-8iQ4SVQdjaTX8ETJHtVZihMuj.jpg",136. D-Max
+#EXTINF:-1 group-title="Belgesel & Yaşam" tvg-logo="https://img.favpng.com/11/2/15/logo-brand-isuzu-d-max-font-product-png-favpng-8iQ4SVQdjaTX8ETJHtVZihMuj.jpg",150. D-Max
 https://dogus-live.daioncdn.net/dmax/dmax.m3u8
 
-#EXTINF:-1 group-title="Çocuk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/2015_Disney_XD_logo.svg/2560px-2015_Disney_XD_logo.svg.png",160. Disney XD
+#EXTINF:-1 group-title="Çocuk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/2015_Disney_XD_logo.svg/2560px-2015_Disney_XD_logo.svg.png",412. Disney XD
 http://cb286df8.rossteleccom.net/iptv/ZCWPCL9K3LR827/1082/index.m3u8
 
-#EXTINF:-1 group-title="Çocuk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Nick_Jr._logo_2009.svg/2560px-Nick_Jr._logo_2009.svg.png",162. Nick JR
+#EXTINF:-1 group-title="Çocuk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Nick_Jr._logo_2009.svg/2560px-Nick_Jr._logo_2009.svg.png",413. Nick JR
 http://hottest.vip:80/play/live.php?mac=00:1A:79:1A:2D:A3&stream=913121&extension=ts
 
-#EXTINF:-1 group-title="Çocuk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/Nicktoons_2023_Outlined_Logo.png",163. Nicktoons
+#EXTINF:-1 group-title="Çocuk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/Nicktoons_2023_Outlined_Logo.png",414. Nicktoons
 http://vip.qruzetv.site:8080/play/live.php?mac=00:2A:01:90:E8:FA&stream=165&extension=m3u8
 
-#EXTINF:-1 group-title="Çocuk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Nickelodeon_2009_logo.svg/2560px-Nickelodeon_2009_logo.svg.png",164. Nickelodeon
+#EXTINF:-1 group-title="Çocuk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Nickelodeon_2009_logo.svg/2560px-Nickelodeon_2009_logo.svg.png",415. Nickelodeon
 http://vip.qruzetv.site:8080/play/live.php?mac=00:2A:01:90:E8:FA&stream=481400&extension=m3u8
 
-#EXTINF:-1 group-title="Çocuk" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/b/b1/Babyfirst.png",165. Baby First
+#EXTINF:-1 group-title="Çocuk" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/b/b1/Babyfirst.png",416. Baby First
 http://cb286df8.rossteleccom.net/iptv/ZCWPCL9K3LR827/30012/index.m3u8
 
-#EXTINF:-1 group-title="Çocuk" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/9/98/Bebe_tv.jpg",167. Duck TV
+#EXTINF:-1 group-title="Çocuk" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/9/98/Bebe_tv.jpg",417. Duck TV
 https://jmp2.uk/sam-ESBC4700001GR.m3u8
 
-#EXTINF:-1 group-title="Çocuk" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/2/2b/Spacetoon_logo.png?20250618011617",170. Spacetoon
+#EXTINF:-1 group-title="Çocuk" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/2/2b/Spacetoon_logo.png?20250618011617",426. Spacetoon
 http://vip.qruzetv.site:8080/play/live.php?mac=00:2A:01:90:E8:FA&stream=594812&extension=m3u8
 
-#EXTINF:-1 group-title="Çocuk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/250px-Cartoon_Network_2010_logo.svg.png",171. Cartoon Network
+#EXTINF:-1 group-title="Çocuk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/250px-Cartoon_Network_2010_logo.svg.png",427. Cartoon Network
 http://vip.qruzetv.site:8080/play/live.php?mac=00:2A:01:90:E8:FA&stream=481403&extension=m3u8
 
-#EXTINF:-1 group-title="Çocuk" tvg-logo="https://img.piri.net/resim/upload/2021/11/01/01/20/48742a9etrt_cocuk_ana_logo1.jpg",172. TRT Çocuk
+#EXTINF:-1 group-title="Çocuk" tvg-logo="https://img.piri.net/resim/upload/2021/11/01/01/20/48742a9etrt_cocuk_ana_logo1.jpg",428. TRT Çocuk
 https://tv-trtcocuk.medya.trt.com.tr/master.m3u8
 
-#EXTINF:-1 group-title="Çocuk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/MinikaGO.png",173. Minika GO
+#EXTINF:-1 group-title="Çocuk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/MinikaGO.png",429. Minika GO
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago/minikago_720p.m3u8
 
-#EXTINF:-1 group-title="Çocuk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/69/MinikaCOCUK.png",174. Minika Cocuk
+#EXTINF:-1 group-title="Çocuk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/69/MinikaCOCUK.png",430. Minika Cocuk
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago_cocuk/minikago_cocuk_720p.m3u8
 
-#EXTINF:-1 group-title="Çocuk" tvg-logo="https://r.resimlink.com/vO9raF3GT.png",180. Carac 1 HD
-https://edge15.vedge.infomaniak.com/livecast/event/chunklist_w227348517.m3u8
-
-#EXTINF:-1 group-title="Çocuk" tvg-logo="https://r.resimlink.com/tHBkq-Y8Nch.png",180. Carac 2 HD
-https://edge21.vedge.infomaniak.com/livecast/onefmmd/chunklist_w195408683.m3u8
-
-#EXTINF:-1 group-title="Çocuk" tvg-logo="https://r.resimlink.com/7u9tkyvfFJ21.png",180. Carac 3 HD
-https://edge17.vedge.infomaniak.com/livecast/lfmmd/chunklist_w1754903278.m3u8
-
-#EXTINF:-1 group-title="Yabancı" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/Ictimai_TV_yeni_logo_2019.png",184. İçtimal TV
-https://live.itv.az/itv.m3u8
-
-#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://tring.al/wp-content/uploads/2024/03/LOGO-KKANAL-D_00299_dark.png",185. Kanal D Drama
-https://thema-vivekanald-rakuten.amagi.tv/1080p-vtt/index.m3u8
-
-#EXTINF:-1 group-title="Yabancı" tvg-logo="https://ichef.bbci.co.uk/images/ic/1920xn/p09xtmrp.jpg",186. BBC Drama
-https://amg00793-amg00793c41-rakuten-it-5445.playouts.now.amagi.tv/1080p/index.m3u8
-
-#EXTINF:-1 group-title="Çocuk" tvg-logo="https://r.resimlink.com/wVzqXfSt79E2.png",187. Show Plus
-https://rtmp.showplus.tv/hls/myshow.m3u8
-
-#EXTINF:-1 group-title="Diğer" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Canal_6_TCS.png/250px-Canal_6_TCS.png",250. Chennal 6
+#EXTINF:-1 group-title="Diğer" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Canal_6_TCS.png/250px-Canal_6_TCS.png",440. Chennal 6
 https://cdn4.yayin.com.tr/channel6tv/index.m3u8
 
-#EXTINF:-1 group-title="Müzik" tvg-logo="https://pic.rutube.ru/video/a0/75/a075757aa5433c764f49cb9636b8443f.png",251. Türk Pop TV
+#EXTINF:-1 group-title="Müzik" tvg-logo="https://pic.rutube.ru/video/a0/75/a075757aa5433c764f49cb9636b8443f.png",441. Türk Pop TV
 https://cdn-4turkpop.yayin.com.tr/4turkpop/4turkpop/playlist.m3u8
 
-#EXTINF:-1 group-title="Müzik" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/thumb/9/9f/Kral_Pop_logosu.png/250px-Kral_Pop_logosu.png",252. Kral Pop
+#EXTINF:-1 group-title="Müzik" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/thumb/9/9f/Kral_Pop_logosu.png/250px-Kral_Pop_logosu.png",442. Kral Pop
 https://dogus-live.daioncdn.net/kralpoptv/kralpoptv_720p.m3u8
 
-#EXTINF:-1 group-title="Müzik" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/archive/b/bc/20200411150543%21Dream_T%C3%BCrk_logosu.png",253. Dream Türk
+#EXTINF:-1 group-title="Müzik" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/archive/b/bc/20200411150543%21Dream_T%C3%BCrk_logosu.png",443. Dream Türk
 https://live.duhnet.tv//S2/HLS_LIVE/dreamturknp/track_4_1250/playlist.m3u8
 
-#EXTINF:-1 group-title="Müzik" tvg-logo="https://pbs.twimg.com/profile_images/1225330672853602307/IhN3v0s7_400x400.jpg",254. NR 1
+#EXTINF:-1 group-title="Müzik" tvg-logo="https://pbs.twimg.com/profile_images/1225330672853602307/IhN3v0s7_400x400.jpg",444. NR 1
 https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e187770143.smil/playlist.m3u8
 
-#EXTINF:-1 group-title="Müzik" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Nr1_logo_vector.svg/220px-Nr1_logo_vector.svg.png",255. NR 1 Damar
+#EXTINF:-1 group-title="Müzik" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Nr1_logo_vector.svg/220px-Nr1_logo_vector.svg.png",445. NR 1 Damar
 http://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e198784bdc_1/playlist.m3u8
 
-#EXTINF:-1 group-title="Müzik" tvg-logo="https://www.numberone.com.tr/wp-content/uploads/2017/10/ask-tv-web.jpg",256. NR 1 Aşk
+#EXTINF:-1 group-title="Müzik" tvg-logo="https://www.numberone.com.tr/wp-content/uploads/2017/10/ask-tv-web.jpg",446. NR 1 Aşk
 http://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e18f9cea15_1/playlist.m3u8
 
-#EXTINF:-1 group-title="Müzik" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/2/24/Powert%C3%BCrk_FM_logosu.png",257. Power Türk
+#EXTINF:-1 group-title="Müzik" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/2/24/Powert%C3%BCrk_FM_logosu.png",447. Power Türk
 https://live.artidijitalmedya.com/artidijital_powerturktv/powerturktv/playlist.m3u8
 
-#EXTINF:-1 group-title="Müzik" tvg-logo="https://cdn.powergroup.com.tr/image/500x500/powerapp/channels/v3/logo_2450.png?v=4",258. Power Türk Slow
+#EXTINF:-1 group-title="Müzik" tvg-logo="https://cdn.powergroup.com.tr/image/500x500/powerapp/channels/v3/logo_2450.png?v=4",448. Power Türk Slow
 http://livetv.powerapp.com.tr/pturkslow/slow.smil/playlist.m3u8
 
-#EXTINF:-1 group-title="Çocuk" tvg-logo="https://r.resimlink.com/PfqWdKc5-y.png",260. CTV Azerbaycan 
+#EXTINF:-1 group-title="Çocuk" tvg-logo="https://r.resimlink.com/PfqWdKc5-y.png",449. CTV Azerbaycan 
 https://cdn-ctvazerbaycan.yayin.com.tr/ctvazerbaycan/ctvazerbaycan/playlist.m3u8
 
-#EXTINF:-1 group-title="Çocuk" tvg-logo="https://r.resimlink.com/0ec2Y9ov.png",261. Trace Latına
+#EXTINF:-1 group-title="Çocuk" tvg-logo="https://r.resimlink.com/0ec2Y9ov.png",450. Trace Latına
 https://amg01131-tracetv-tracelatina-glewed-vtnk7.amagi.tv/playlist1080P.m3u8
 
-#EXTINF:-1 group-title="Çocuk" tvg-logo="https://r.resimlink.com/QePFqLnvl5G.png",262. Trace Urban
+#EXTINF:-1 group-title="Çocuk" tvg-logo="https://r.resimlink.com/QePFqLnvl5G.png",451. Trace Urban
 https://amg01131-tracetv-tracelatina-glewed-vtnk7.amagi.tv/playlist1080P.m3u8
 
-#EXTINF:-1 group-title="Çocuk" tvg-logo="https://r.resimlink.com/C3WTeRX.png",263. Play Music
+#EXTINF:-1 group-title="Çocuk" tvg-logo="https://r.resimlink.com/C3WTeRX.png",452. Play Music
 https://a8.radyotelekom.com.tr:3877/stream/play.m3u8
+
+#EXTINF:-1 group-title="Ulusal Kanallar" tvg-logo="https://w7.pngwing.com/pngs/796/1017/png-transparent-cnbc-e-hd-logo-thumbnail.png",543. Cnbc-e
+https://uzunmuhalefet.serv00.net/canlitv2.php?id=13406&.m3u8
+
+#EXTINF:-1 group-title="Diğer" tvg-logo="https://i.hizliresim.com/bwsicew.png",544. Tivi Türk
+https://stream.tiviturk.de/live/tiviturk.m3u8
+
+#EXTINF:-1 group-title="Ulusal Kanallar" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1f/TV8.5_Logosu.png/revision/latest?cb=20170827103605",545. TV8.5
+https://tv8-live.daioncdn.net/tv8bucuk/tv8bucuk_1080p.m3u8
+
+#EXTINF:-1 group-title="Diğer" tvg-logo="https://logowik.com/content/uploads/images/tv-362156.logowik.com.webp",550. TV 36
+http://cdn4.yayin.com.tr/tv36/video.m3u8
+
+#EXTINF:-1 group-title="Yabancı" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/34/AzTV_%282005-2009%29.png/revision/latest?cb=20170831053034",551. Az TV
+https://str.yodacdn.net/aztv/index.m3u8
+
+#EXTINF:-1 group-title="Yabancı" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/Ictimai_TV_yeni_logo_2019.png",552. İçtimal TV
+https://live.itv.az/itv.m3u8
+
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://tring.al/wp-content/uploads/2024/03/LOGO-KKANAL-D_00299_dark.png",553. Kanal D Drama
+https://thema-vivekanald-rakuten.amagi.tv/1080p-vtt/index.m3u8
+
+#EXTINF:-1 group-title="Yabancı" tvg-logo="https://ichef.bbci.co.uk/images/ic/1920xn/p09xtmrp.jpg",554. BBC Drama
+https://amg00793-amg00793c41-rakuten-it-5445.playouts.now.amagi.tv/1080p/index.m3u8
+
+#EXTINF:-1 group-title="Çocuk" tvg-logo="https://r.resimlink.com/wVzqXfSt79E2.png",555. Show Plus
+https://rtmp.showplus.tv/hls/myshow.m3u8
+
+#EXTINF:-1 group-title="Çocuk" tvg-logo="https://r.resimlink.com/vO9raF3GT.png",558. Carac 1 HD
+https://edge15.vedge.infomaniak.com/livecast/event/chunklist_w227348517.m3u8
+
+#EXTINF:-1 group-title="Çocuk" tvg-logo="https://r.resimlink.com/tHBkq-Y8Nch.png",559. Carac 2 HD
+https://edge21.vedge.infomaniak.com/livecast/onefmmd/chunklist_w195408683.m3u8
+
+#EXTINF:-1 group-title="Çocuk" tvg-logo="https://r.resimlink.com/7u9tkyvfFJ21.png",560. Carac 3 HD
+https://edge17.vedge.infomaniak.com/livecast/lfmmd/chunklist_w1754903278.m3u8
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/hPX1YA.png",563. Movies Actıon
 https://shls-live-enc.edgenextcdn.net/out/v1/46079e838e65490c8299f902a7731168/index.m3u8
@@ -442,6 +439,7 @@ https://scihls.persiana.live/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://r.resimlink.com/oLAyVpfTJH.jpg",777. Test TV
 https://beert7sqimrk0bfdupfgn6qew.medya.trt.com.tr/master.m3u8
+
 
 
 
