@@ -39,7 +39,7 @@ http://spy17.eu:80/ozkanshmx/06.02.22/317212
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/IbV6Exw_lJg.png",13. Filmbox Yeşilçam
 http://spy17.eu:80/ozkanshmx/06.02.22/317213
 
-#EXTINF:-1 group-title="Yabancı" tvg-logo="https://r.resimlink.com/EROuUDAL.png",66. Now Movies 
+#EXTINF:-1 group-title="Yabancı" tvg-logo="https://r.resimlink.com/EROuUDAL.png",15. Now Movies 
 https://a8.radyotelekom.com.tr:3800/hybrid/play.m3u8
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/zUKjeS.png",16. Teleon HD
@@ -490,6 +490,7 @@ https://scihls.persiana.live/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://r.resimlink.com/oLAyVpfTJH.jpg",777. Test TV
 https://beert7sqimrk0bfdupfgn6qew.medya.trt.com.tr/master.m3u8
+
 
 
 
