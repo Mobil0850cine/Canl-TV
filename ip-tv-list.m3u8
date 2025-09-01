@@ -100,7 +100,7 @@ http://cdn18.yayin.com.tr/nowplay/video.m3u8
 http://75.119.144.48/SUPERTURK_TV_STREAM/index.m3u8
 
 #EXTINF:-1 group-title="Diğer" tvg-logo="https://pbs.twimg.com/media/F-QH1TMXQAAHhKy.png",49. Süper Türk Max
-http://75.119.144.48/SUPERTURK_MAX_HD/index.m3u8
+http://75.119.144.48/SUPERTURK_MAXTV_HD/index.m3u8
 
 #EXTINF:-1 group-title="Ulusal Kanallar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/TRT_1_logo_%282012-2021%29.png",50. TRT 1
 https://tv-trt1.medya.trt.com.tr/master.m3u8
@@ -466,6 +466,7 @@ https://scihls.persiana.live/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://r.resimlink.com/oLAyVpfTJH.jpg",777. Test TV
 https://beert7sqimrk0bfdupfgn6qew.medya.trt.com.tr/master.m3u8
+
 
 
 
