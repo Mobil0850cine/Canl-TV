@@ -64,10 +64,10 @@ http://ufosat.xyz:8080/P8TBMUHffV/VBUzFzSzj2Rq/152667
 http://ufosat.xyz:8080/P8TBMUHffV/VBUzFzSzj2Rq/152674
 
 #EXTINF:-1 group-title="Yabancı" tvg-logo="https://r.resimlink.com/Z80H4OAkTmcC.png",36. Cinemax 1
-http://front-main.eagle-4k.me/play/live.php?mac=00%3A1A%3A79%3ABD%3A42%3AAC&stream=314939&extension.m3u8
+http://front-main.eagle-4k.me/play/live.php?mac=00%3A1A%3A79%3ABD%3A42%3AAC&stream=314939&extension=m3u8
 
 #EXTINF:-1 group-title="Yabancı" tvg-logo="https://r.resimlink.com/eu-JOU.png",37. Cinemax Türk
-http://front-main.eagle-4k.me/play/live.php?mac=00%3A1A%3A79%3ABD%3A42%3AAC&stream=314932&extension.m3u8
+http://front-main.eagle-4k.me/play/live.php?mac=00%3A1A%3A79%3ABD%3A42%3AAC&stream=314932&extension=m3u8
 
 #EXTINF:-1 group-title="Yabancı" tvg-logo="https://r.resimlink.com/yx2qKJUAD.png",38. Film Max Türk
 http://sembolpanel.pro:8080/play/live.php?mac=00:1A:79:A2:6A:C5&stream=387&extension.m3u8
@@ -466,6 +466,7 @@ http://vipxx.p-0101.pw:8080/live/seferk245/j2HHew2TXz/316897.m3u8
 
 #EXTINF:-1 tvg-logo="https://r.resimlink.com/oLAyVpfTJH.jpg",779. Fix Drama
 http://vipxx.p-0101.pw:8080/live/seferk245/j2HHew2TXz/316900.m3u8
+
 
 
 
