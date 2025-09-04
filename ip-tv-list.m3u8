@@ -196,7 +196,7 @@ http://74214be9.edemist.com/iptv/WUX6STDKBG73GKNYAF5U3KMF/7332/index.m3u8
 http://74214be9.edemist.com/iptv/WUX6STDKBG73GKNYAF5U3KMF/7333/index.m3u8
 
 #EXTINF:-1 group-title="Spor" tvg-logo="https://epg.pw/media/images/epg/2024/11/28/20241128022430237756_40.png",91. Arena Sport 6
-http://front-main.eagle-4k.me/play/live.php?mac=00%3A1A%3A79%3ABD%3A42%3AAC&stream=227220&extension=m3u8
+http://front-main.eagle-4k.me/play/live.php?mac=00%3A1A%3A79%3ABD%3A42%3AAC&stream=227220&extension.m3u8
 
 #EXTINF:-1 group-title="Spor" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1b/Sky_Sports_UK_logo_2020.png",92. Sky Sport PL
 http://cb286df8.rossteleccom.net/iptv/ZCWPCL9K3LR827/9334/index.m3u8
@@ -461,8 +461,12 @@ https://beert7sqimrk0bfdupfgn6qew.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-logo="https://r.resimlink.com/oLAyVpfTJH.jpg",778. Test TV
 https://edge-e3.evrideo.tv/f2dcbecf-5af0-47db-a82e-032112050a23_1000027346_HLS/manifest.m3u8
 
-#EXTINF:-1 tvg-logo="https://r.resimlink.com/oLAyVpfTJH.jpg",779. Test TV
+#EXTINF:-1 tvg-logo="https://r.resimlink.com/oLAyVpfTJH.jpg",779. Fix HD
 http://vipxx.p-0101.pw:8080/live/seferk245/j2HHew2TXz/316897.m3u8
+
+#EXTINF:-1 tvg-logo="https://r.resimlink.com/oLAyVpfTJH.jpg",779. Fix Drama
+http://vipxx.p-0101.pw:8080/live/seferk245/j2HHew2TXz/316900.m3u8
+
 
 
 
