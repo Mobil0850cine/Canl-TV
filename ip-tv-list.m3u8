@@ -39,6 +39,9 @@ http://spy17.eu:80/ozkanshmx/06.02.22/317212
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/IbV6Exw_lJg.png",13. Filmbox Yeşilçam
 http://spy17.eu:80/ozkanshmx/06.02.22/317213
 
+#EXTINF:-1 tvg-logo="https://r.resimlink.com/17wPCWyB.png",19. Film Screen HD 
+https://edge-e3.evrideo.tv/f2dcbecf-5af0-47db-a82e-032112050a23_1000027346_HLS/manifest.m3u8
+
 #EXTINF:-1 group-title="Yabancı" tvg-logo="https://r.resimlink.com/EROuUDAL.png",20. Now Movies 
 https://a8.radyotelekom.com.tr:3800/hybrid/play.m3u8
 
@@ -458,14 +461,12 @@ https://scihls.persiana.live/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://r.resimlink.com/oLAyVpfTJH.jpg",777. Test TV
 https://beert7sqimrk0bfdupfgn6qew.medya.trt.com.tr/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://r.resimlink.com/oLAyVpfTJH.jpg",778. Test TV
-https://edge-e3.evrideo.tv/f2dcbecf-5af0-47db-a82e-032112050a23_1000027346_HLS/manifest.m3u8
-
 #EXTINF:-1 tvg-logo="https://r.resimlink.com/oLAyVpfTJH.jpg",779. Fix HD
 http://vipxx.p-0101.pw:8080/live/seferk245/j2HHew2TXz/316897.m3u8
 
 #EXTINF:-1 tvg-logo="https://r.resimlink.com/oLAyVpfTJH.jpg",779. Fix Drama
 http://vipxx.p-0101.pw:8080/live/seferk245/j2HHew2TXz/316900.m3u8
+
 
 
 
