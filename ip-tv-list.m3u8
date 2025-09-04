@@ -470,6 +470,10 @@ https://scihls.persiana.live/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://r.resimlink.com/oLAyVpfTJH.jpg",777. Test TV
 https://beert7sqimrk0bfdupfgn6qew.medya.trt.com.tr/master.m3u8
 
+#EXTINF:-1 tvg-logo="https://r.resimlink.com/oLAyVpfTJH.jpg",778. Test TV
+http://sembolpanel.pro:8080/play/live.php?mac=00:1A:79:A2:6A:C5&stream=388&extension=ts
+
+
 
 
 
