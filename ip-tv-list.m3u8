@@ -60,11 +60,14 @@ http://ufosat.xyz:8080/P8TBMUHffV/VBUzFzSzj2Rq/152667
 #EXTINF:-1 group-title="Yabancı" tvg-logo="https://r.resimlink.com/xXwFUpdz_o9.png",34. Byzbox Komedi 1
 http://ufosat.xyz:8080/P8TBMUHffV/VBUzFzSzj2Rq/152674
 
-#EXTINF:-1 group-title="Yabancı" tvg-logo="https://r.resimlink.com/Z80H4OAkTmcC.png",37. Cinemax 1
+#EXTINF:-1 group-title="Yabancı" tvg-logo="https://r.resimlink.com/Z80H4OAkTmcC.png",36. Cinemax 1
 http://front-main.eagle-4k.me/play/live.php?mac=00%3A1A%3A79%3ABD%3A42%3AAC&stream=314939&extension=m3u8
 
-#EXTINF:-1 group-title="Yabancı" tvg-logo="https://r.resimlink.com/eu-JOU.png",38. Cinemax Türk
+#EXTINF:-1 group-title="Yabancı" tvg-logo="https://r.resimlink.com/eu-JOU.png",37. Cinemax Türk
 http://front-main.eagle-4k.me/play/live.php?mac=00%3A1A%3A79%3ABD%3A42%3AAC&stream=314932&extension=m3u8
+
+#EXTINF:-1 group-title="Yabancı" tvg-logo="https://r.resimlink.com/yx2qKJUAD.png",38. Film Max Türk
+http://sembolpanel.pro:8080/play/live.php?mac=00:1A:79:A2:6A:C5&stream=387&extension=m3u8
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/zUKjeS.png",39. Teleon HD
 http://208.79.153.42/akamaissh101/ssh101/TEBER_10/playlist.m3u8
@@ -381,43 +384,31 @@ https://amg00793-amg00793c41-rakuten-it-5445.playouts.now.amagi.tv/1080p/index.m
 #EXTINF:-1 group-title="Çocuk" tvg-logo="https://r.resimlink.com/wVzqXfSt79E2.png",555. Show Plus
 https://rtmp.showplus.tv/hls/myshow.m3u8
 
-#EXTINF:-1 group-title="Çocuk" tvg-logo="https://r.resimlink.com/vO9raF3GT.png",558. Carac 1 HD
-https://edge15.vedge.infomaniak.com/livecast/event/chunklist_w227348517.m3u8
+#EXTINF:-1 tvg-logo="https://r.resimlink.com/MInNeL.png",566. FilmBox
+http://front-main.eagle-4k.me/play/live.php?mac=00%3A1A%3A79%3ABD%3A42%3AAC&stream=149902&extension=m3u8
 
-#EXTINF:-1 group-title="Çocuk" tvg-logo="https://r.resimlink.com/tHBkq-Y8Nch.png",559. Carac 2 HD
-https://edge21.vedge.infomaniak.com/livecast/onefmmd/chunklist_w195408683.m3u8
-
-#EXTINF:-1 group-title="Çocuk" tvg-logo="https://r.resimlink.com/7u9tkyvfFJ21.png",560. Carac 3 HD
-https://edge17.vedge.infomaniak.com/livecast/lfmmd/chunklist_w1754903278.m3u8
-
-#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/hPX1YA.png",563. Movies Actıon
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/hPX1YA.png",567. Movies Actıon
 https://shls-live-enc.edgenextcdn.net/out/v1/46079e838e65490c8299f902a7731168/index.m3u8
 
-#EXTINF:-1 group-title="Çocuk" tvg-logo="https://r.resimlink.com/Yqt3lbusURMh.png",564. İnto Crime
+#EXTINF:-1 group-title="Çocuk" tvg-logo="https://r.resimlink.com/Yqt3lbusURMh.png",568. İnto Crime
 https://amg00711-zylo-amg00711c10-rakuten-fr-6731.playouts.now.amagi.tv/playlist1080p.m3u8
 
-#EXTINF:-1 group-title="Çocuk" tvg-logo="https://r.resimlink.com/qtiGyoCcPJaR.png",565. Rakuten Drama
-https://01ac9352fbfa4204998783d41f9b1a2e.mediatailor.eu-west-1.amazonaws.com/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6068/6678ec50-7d41-47ae-8a1a-734b9225d623/4.m3u8
-
-#EXTINF:-1 group-title="Çocuk" tvg-logo="https://r.resimlink.com/4ZElAXY.png",566. Rakuten Gerilim
-https://thriller-rakuten-tv-fr.fast.rakuten.tv/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6479/2cd428eb-3354-4af6-a275-cc757f5aa942/4.m3u8
-
-#EXTINF:-1 group-title="Çocuk" tvg-logo="https://r.resimlink.com/m27ce_huPD-S.png",567. Rakuten Sinema
+#EXTINF:-1 group-title="Çocuk" tvg-logo="https://r.resimlink.com/m27ce_huPD-S.png",569. Rakuten Sinema
 https://f396f4db84a54f7bb496b2541477b626.mediatailor.eu-west-1.amazonaws.com/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6095/3afc77bb-469b-4930-b4e9-61b11e0ea922/4.m3u8
 
-#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/2560px-HBO_logo.svg.png",568. HBO 1
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/2560px-HBO_logo.svg.png",570. HBO 1
 http://74214be9.edemist.com/iptv/WUX6STDKBG73GKNYAF5U3KMF/6986/index.m3u8
 
-#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/HBO2_logo.svg/1280px-HBO2_logo.svg.png",569. HBO 2
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/HBO2_logo.svg/1280px-HBO2_logo.svg.png",571. HBO 2
 http://74214be9.edemist.com/iptv/WUX6STDKBG73GKNYAF5U3KMF/7005/index.m3u8
 
-#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/18/HBO3_gradient.PNG",570. HBO 3
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/18/HBO3_gradient.PNG",572. HBO 3
 http://74214be9.edemist.com/iptv/WUX6STDKBG73GKNYAF5U3KMF/7013/index.m3u8
 
-#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c4/SKY_CINEMA_SUSPENSE_B_HD.png",571. Sky Sinema
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c4/SKY_CINEMA_SUSPENSE_B_HD.png",573. Sky Sinema
 http://cb286df8.rossteleccom.net/iptv/ZCWPCL9K3LR827/19100/index.m3u8
 
-#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/50/Sky_Atlantic_logo_2020.png",572. Sky Atlantic
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/50/Sky_Atlantic_logo_2020.png",574. Sky Atlantic
 http://cb286df8.rossteleccom.net/iptv/ZCWPCL9K3LR827/19102/index.m3u8
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/WarnerTV_FILM_Logo_2021.png",575. Warner Film
@@ -425,9 +416,6 @@ http://cb286df8.rossteleccom.net/iptv/ZCWPCL9K3LR827/6111/index.m3u8
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://cdn.broadbandtvnews.com/wp-content/uploads/2023/12/07100555/wedotv_PLATFORM_LOGO-BLACK-TYPW.png",576. Movies HD
 http://cb286df8.rossteleccom.net/iptv/ZCWPCL9K3LR827/31437/index.m3u8
-
-#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Max_logo.svg/2560px-Max_logo.svg.png",577. Film Max
-http://cb286df8.rossteleccom.net/iptv/ZCWPCL9K3LR827/6155/index.m3u8
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://img.favpng.com/2/3/25/universal-channel-television-channel-logo-universal-tv-png-favpng-62Ppqz9qJuQk0EPhzn0RaHa5C.jpg",582. Universal HD
 http://cb286df8.rossteleccom.net/iptv/ZCWPCL9K3LR827/6094/index.m3u8
@@ -472,6 +460,9 @@ https://beert7sqimrk0bfdupfgn6qew.medya.trt.com.tr/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://r.resimlink.com/oLAyVpfTJH.jpg",778. Test TV
 https://edge-e3.evrideo.tv/f2dcbecf-5af0-47db-a82e-032112050a23_1000027346_HLS/manifest.m3u8
+
+
+
 
 
 
