@@ -45,32 +45,53 @@ https://edge-e3.evrideo.tv/f2dcbecf-5af0-47db-a82e-032112050a23_1000027346_HLS/m
 #EXTINF:-1 group-title="Yabancı" tvg-logo="https://r.resimlink.com/EROuUDAL.png",20. Now Movies 
 https://a8.radyotelekom.com.tr:3800/hybrid/play.m3u8
 
-#EXTINF:-1 group-title="Yabancı" tvg-logo="https://r.resimlink.com/CwFxbTL.png",27. Byzbox Aksiyon 1
+#EXTINF:-1 group-title="Yabancı" tvg-logo="https://r.resimlink.com/CwFxbTL.png",21. Byzbox Aksiyon 1
 http://ufosat.xyz:8080/P8TBMUHffV/VBUzFzSzj2Rq/152661
 
-#EXTINF:-1 group-title="Yabancı" tvg-logo="https://r.resimlink.com/K6UPxNeR.png",28. Byzbox Aksiyon 2
-http://ufosat.xyz:8080/P8TBMUHffV/VBUzFzSzj2Rq/152662
-
-#EXTINF:-1 group-title="Yabancı" tvg-logo="https://r.resimlink.com/CQ8UbMGomP9.png",30. Byzbox Drama 1
+#EXTINF:-1 group-title="Yabancı" tvg-logo="https://r.resimlink.com/CQ8UbMGomP9.png",22. Byzbox Drama 1
 http://ufosat.xyz:8080/P8TBMUHffV/VBUzFzSzj2Rq/152681
 
-#EXTINF:-1 group-title="Yabancı" tvg-logo="https://r.resimlink.com/d5g3UHux.png",31. Byzbox Drama 2
+#EXTINF:-1 group-title="Yabancı" tvg-logo="https://r.resimlink.com/d5g3UHux.png",23. Byzbox Drama 2
 http://ufosat.xyz:8080/P8TBMUHffV/VBUzFzSzj2Rq/152682
 
-#EXTINF:-1 group-title="Yabancı" tvg-logo="https://r.resimlink.com/HqXFwL1Ru.png",33. Byzbox Romantik 1
+#EXTINF:-1 group-title="Yabancı" tvg-logo="https://r.resimlink.com/HqXFwL1Ru.png",24. Byzbox Romantik 1
 http://ufosat.xyz:8080/P8TBMUHffV/VBUzFzSzj2Rq/152667
 
-#EXTINF:-1 group-title="Yabancı" tvg-logo="https://r.resimlink.com/xXwFUpdz_o9.png",34. Byzbox Komedi 1
+#EXTINF:-1 group-title="Yabancı" tvg-logo="https://r.resimlink.com/xXwFUpdz_o9.png",25. Byzbox Komedi 1
 http://ufosat.xyz:8080/P8TBMUHffV/VBUzFzSzj2Rq/152674
 
-#EXTINF:-1 group-title="Yabancı" tvg-logo="https://r.resimlink.com/e3xOZz45Hw1.png",36. Cinema Macera
+#EXTINF:-1 group-title="Yabancı" tvg-logo="https://r.resimlink.com/e3xOZz45Hw1.png",26. Cinema Macera
 http://vipxx.p-0101.pw:8080/live/seferk245/j2HHew2TXz/316900.m3u8
 
-#EXTINF:-1 group-title="Yabancı" tvg-logo="https://r.resimlink.com/TOQUHSENxn.png",37. Cinema Drama
+#EXTINF:-1 group-title="Yabancı" tvg-logo="https://r.resimlink.com/TOQUHSENxn.png",27. Cinema Drama
 http://vipxx.p-0101.pw:8080/live/seferk245/j2HHew2TXz/316897.m3u8
 
-#EXTINF:-1 group-title="Yabancı" tvg-logo="https://r.resimlink.com/yx2qKJUAD.png",38. Film Max Türk
-http://sembolpanel.pro:8080/play/live.php?mac=00:1A:79:A2:6A:C5&stream=387&extension.m3u8
+#EXTINF:-1 group-title="Yabancı" tvg-logo="https://r.resimlink.com/yPeKifsm.png",28. Filmax Aksiyon
+http://ss.wancolonel.xyz:8080/Redear/gWFBhHX/385
+
+#EXTINF:-1 group-title="Yabancı" tvg-logo="https://r.resimlink.com/BaFL-nS_H.png",29. Filmax Korku
+http://ss.wancolonel.xyz:8080/Redear/gWFBhHX/383
+
+#EXTINF:-1 group-title="Yabancı" tvg-logo="https://r.resimlink.com/j67PEYd5DOK.png",30. Filmax Gerilim
+http://ss.wancolonel.xyz:8080/Redear/gWFBhHX/215164
+
+#EXTINF:-1 group-title="Yabancı" tvg-logo="https://r.resimlink.com/aWUR8DLSh_ZX.png",31. Filmax Drama
+http://ss.wancolonel.xyz:8080/Redear/gWFBhHX/383
+
+#EXTINF:-1 group-title="Yabancı" tvg-logo="https://r.resimlink.com/aJ9Xu.png",32. Filmax Savaş
+http://ss.wancolonel.xyz:8080/Redear/gWFBhHX/215166
+
+#EXTINF:-1 group-title="Yabancı" tvg-logo="https://r.resimlink.com/4Zmh1abYKgl.png",33. Filmax Komedi
+http://ss.wancolonel.xyz:8080/Redear/gWFBhHX/388
+
+#EXTINF:-1 group-title="Yabancı" tvg-logo="https://r.resimlink.com/zvNQsOwc.png",35. Filmax Türk
+http://ss.wancolonel.xyz:8080/Redear/gWFBhHX/387
+
+#EXTINF:-1 group-title="Yabancı" tvg-logo="https://r.resimlink.com/_xDySGW.png",36. Max Gold
+http://ss.wancolonel.xyz:8080/Redear/gWFBhHX/10853
+
+#EXTINF:-1 group-title="Yabancı" tvg-logo="https://r.resimlink.com/v5sRCHGLOuW.png",37. Max Türk
+http://ss.wancolonel.xyz:8080/Redear/gWFBhHX/10851
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/zUKjeS.png",39. Teleon HD
 http://208.79.153.42/akamaissh101/ssh101/TEBER_10/playlist.m3u8
@@ -472,6 +493,7 @@ https://scihls.persiana.live/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://r.resimlink.com/oLAyVpfTJH.jpg",777. Test TV
 https://beert7sqimrk0bfdupfgn6qew.medya.trt.com.tr/master.m3u8
+
 
 
 
