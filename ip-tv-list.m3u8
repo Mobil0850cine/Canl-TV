@@ -178,10 +178,10 @@ http://116.202.117.244/gzcspor/gzcspor/playlist.m3u8
 https://kablosistem.vercel.app/index.m3u8?id=112
 
 #EXTINF:-1 group-title="Spor" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a8/BeIN_Sports_Haber.png",72. beIN Sports Haber
-http://vip.qruzetv.site:8080/play/live.php?mac=00:2A:01:90:E8:FA&stream=2194&extension=m3u8
+http://ss.wancolonel.xyz:8080/Redear/gWFBhHX/285
 
-#EXTINF:-1 group-title="Spor" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/3/36/Tivibu_spor_logosu.jpg",73. Tivibu Spor
-http://vip.qruzetv.site:8080/play/live.php?mac=00:2A:01:90:E8:FA&stream=2041&extension=m3u8
+#EXTINF:-1 group-title="Spor" tvg-logo="https://resmim.net/cdn/2025/09/05/jfLwjb.png",73. Tivibu Spor
+http://ss.wancolonel.xyz:8080/Redear/gWFBhHX/125109
 
 #EXTINF:-1 group-title="Spor" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c4/TRT_Spor_kurumsal_logo.png",74. TRT Spor
 https://tv-trtspor1.medya.trt.com.tr:443/master_1080.m3u8
@@ -295,7 +295,7 @@ https://streams2.sofast.tv/sofastplayout/33c31ac4-51fa-46ae-afd0-0d1fe5e60a80_0_
 http://cb286df8.rossteleccom.net/iptv/ZCWPCL9K3LR827/1084/index.m3u8
 
 #EXTINF:-1 group-title="Belgesel & Yaşam" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/3/38/Yabantv_logo.png?20150615101642",147. Yaban TV
-http://vip.qruzetv.site:8080/play/live.php?mac=00:2A:01:90:E8:FA&stream=594647&extension=m3u8
+http://ss.wancolonel.xyz:8080/Redear/gWFBhHX/484
 
 #EXTINF:-1 group-title="Belgesel & Yaşam" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/TRT_Belgesel_logo_%282019-%29.svg/2560px-TRT_Belgesel_logo_%282019-%29.svg.png",148. TRT Belgesel
 https://tv-trtbelgesel.medya.trt.com.tr/master.m3u8
@@ -496,6 +496,7 @@ https://scihls.persiana.live/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://r.resimlink.com/oLAyVpfTJH.jpg",777. Test TV
 https://beert7sqimrk0bfdupfgn6qew.medya.trt.com.tr/master.m3u8
+
 
 
 
