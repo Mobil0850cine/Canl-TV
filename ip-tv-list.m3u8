@@ -63,11 +63,11 @@ http://ufosat.xyz:8080/P8TBMUHffV/VBUzFzSzj2Rq/152667
 #EXTINF:-1 group-title="Yabancı" tvg-logo="https://r.resimlink.com/xXwFUpdz_o9.png",34. Byzbox Komedi 1
 http://ufosat.xyz:8080/P8TBMUHffV/VBUzFzSzj2Rq/152674
 
-#EXTINF:-1 group-title="Yabancı" tvg-logo="https://r.resimlink.com/Z80H4OAkTmcC.png",36. Cinemax 1
+#EXTINF:-1 group-title="Yabancı" tvg-logo="https://r.resimlink.com/Z80H4OAkTmcC.png",36. Cinema Macera
 http://vipxx.p-0101.pw:8080/live/seferk245/j2HHew2TXz/316900.m3u8
 
-#EXTINF:-1 group-title="Yabancı" tvg-logo="https://r.resimlink.com/eu-JOU.png",37. Cinemax Türk
-http://front-main.eagle-4k.me/play/live.php?mac=00%3A1A%3A79%3ABD%3A42%3AAC&stream=314932&extension=m3u8
+#EXTINF:-1 group-title="Yabancı" tvg-logo="https://r.resimlink.com/eu-JOU.png",37. Cinema Drama
+http://vipxx.p-0101.pw:8080/live/seferk245/j2HHew2TXz/316897.m3u8
 
 #EXTINF:-1 group-title="Yabancı" tvg-logo="https://r.resimlink.com/yx2qKJUAD.png",38. Film Max Türk
 http://sembolpanel.pro:8080/play/live.php?mac=00:1A:79:A2:6A:C5&stream=387&extension.m3u8
@@ -461,8 +461,9 @@ https://scihls.persiana.live/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://r.resimlink.com/oLAyVpfTJH.jpg",777. Test TV
 https://beert7sqimrk0bfdupfgn6qew.medya.trt.com.tr/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://r.resimlink.com/oLAyVpfTJH.jpg",779. Fix HD
-http://vipxx.p-0101.pw:8080/live/seferk245/j2HHew2TXz/316897.m3u8
+
+
+
 
 
 
