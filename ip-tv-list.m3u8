@@ -246,16 +246,19 @@ http://cb286df8.rossteleccom.net/iptv/ZCWPCL9K3LR827/6100/index.m3u8
 #EXTINF:-1 group-title="Belgesel & Yaşam" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/54/Animal_Planet_logo_%28black_and_green_with_TM%29.png",120. Animal Planet
 http://cb286df8.rossteleccom.net/iptv/ZCWPCL9K3LR827/31284/index.m3u8
 
-#EXTINF:-1 group-title="Belgesel & Yaşam" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Discovery_Life_logo_2016.svg/1200px-Discovery_Life_logo_2016.svg.png",126. Disvovery Life
+#EXTINF:-1 group-title="Belgesel & Yaşam" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/BBC_Earth_2023.svg/1200px-BBC_Earth_2023.svg.png",121. Docu Wild
+http://ss.wancolonel.xyz:8080/Redear/gWFBhHX/219403
+
+#EXTINF:-1 group-title="Belgesel & Yaşam" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Discovery_Life_logo_2016.svg/1200px-Discovery_Life_logo_2016.svg.png",142. Disvovery Life
 http://cb286df8.rossteleccom.net/iptv/ZCWPCL9K3LR827/30056/index.m3u8
 
-#EXTINF:-1 group-title="Belgesel & Yaşam" tvg-logo="https://epg.pw/media/images/epg/2024/06/08/20240608031316377305_68.png",129. Travel XP
+#EXTINF:-1 group-title="Belgesel & Yaşam" tvg-logo="https://epg.pw/media/images/epg/2024/06/08/20240608031316377305_68.png",143. Travel XP
 http://cb286df8.rossteleccom.net/iptv/ZCWPCL9K3LR827/31427/index.m3u8
 
-#EXTINF:-1 group-title="Belgesel & Yaşam" tvg-logo="https://static.12core.net/media/content/stream/c69f95b1-ad0f-4e90-93bb-236dfcde3d9c/00e3797e1bbd2dd719239a849d42b546",130. Travel 4K
+#EXTINF:-1 group-title="Belgesel & Yaşam" tvg-logo="https://static.12core.net/media/content/stream/c69f95b1-ad0f-4e90-93bb-236dfcde3d9c/00e3797e1bbd2dd719239a849d42b546",144. Travel 4K
 https://streams2.sofast.tv/sofastplayout/33c31ac4-51fa-46ae-afd0-0d1fe5e60a80_0_HLS/bitrate2.m3u8
 
-#EXTINF:-1 group-title="Belgesel & Yaşam" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/HGTV_logo.png/1024px-HGTV_logo.png",131. HG TV
+#EXTINF:-1 group-title="Belgesel & Yaşam" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/HGTV_logo.png/1024px-HGTV_logo.png",145. HG TV
 http://cb286df8.rossteleccom.net/iptv/ZCWPCL9K3LR827/1084/index.m3u8
 
 #EXTINF:-1 group-title="Belgesel & Yaşam" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/3/38/Yabantv_logo.png?20150615101642",147. Yaban TV
@@ -460,6 +463,7 @@ https://scihls.persiana.live/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://r.resimlink.com/oLAyVpfTJH.jpg",777. Test TV
 https://beert7sqimrk0bfdupfgn6qew.medya.trt.com.tr/master.m3u8
+
 
 
 
