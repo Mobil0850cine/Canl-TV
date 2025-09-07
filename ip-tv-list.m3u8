@@ -51,11 +51,11 @@ http://ufosat.xyz:8080/P8TBMUHffV/VBUzFzSzj2Rq/152661
 #EXTINF:-1 group-title="Yabancı" tvg-logo="https://r.resimlink.com/CQ8UbMGomP9.png",22. Byzbox Drama 1
 http://ufosat.xyz:8080/P8TBMUHffV/VBUzFzSzj2Rq/152681
 
-#EXTINF:-1 group-title="Yabancı" tvg-logo="https://r.resimlink.com/HqXFwL1Ru.png",23. Byzbox Romantik 1
-http://ufosat.xyz:8080/P8TBMUHffV/VBUzFzSzj2Rq/152667
-
-#EXTINF:-1 group-title="Yabancı" tvg-logo="https://r.resimlink.com/xXwFUpdz_o9.png",24. Byzbox Komedi 1
+#EXTINF:-1 group-title="Yabancı" tvg-logo="https://r.resimlink.com/xXwFUpdz_o9.png",23. Byzbox Komedi 1
 http://ufosat.xyz:8080/P8TBMUHffV/VBUzFzSzj2Rq/152674
+
+#EXTINF:-1 group-title="Yabancı" tvg-logo="https://r.resimlink.com/8GhEQ-.png",24. Dolby Loca
+http://ss.wancolonel.xyz:8080/Redear/gWFBhHX/435942
 
 #EXTINF:-1 group-title="Yabancı" tvg-logo="https://r.resimlink.com/9GlK2RrF_.png",25. Dolby Vizyon HD
 http://ss.wancolonel.xyz:8080/Redear/gWFBhHX/435906
@@ -63,7 +63,7 @@ http://ss.wancolonel.xyz:8080/Redear/gWFBhHX/435906
 #EXTINF:-1 group-title="Yabancı" tvg-logo="https://r.resimlink.com/7YmebOo8cu.png",26. Dolby Premier
 http://ss.wancolonel.xyz:8080/Redear/gWFBhHX/435937
 
-#EXTINF:-1 group-title="Yabancı" tvg-logo="https://r.resimlink.com/RtPES.png",26. Dolby Yerli HD
+#EXTINF:-1 group-title="Yabancı" tvg-logo="https://r.resimlink.com/RtPES.png",27. Dolby Yerli HD
 http://ss.wancolonel.xyz:8080/Redear/gWFBhHX/435909
 
 #EXTINF:-1 group-title="Yabancı" tvg-logo="https://r.resimlink.com/yPeKifsm.png",28. Filmax Aksiyon
@@ -84,11 +84,14 @@ http://ss.wancolonel.xyz:8080/Redear/gWFBhHX/215166
 #EXTINF:-1 group-title="Yabancı" tvg-logo="https://r.resimlink.com/4Zmh1abYKgl.png",33. Filmax Komedi
 http://ss.wancolonel.xyz:8080/Redear/gWFBhHX/388
 
-#EXTINF:-1 group-title="Yabancı" tvg-logo="https://resmim.net/cdn/2025/09/06/jWW95q.png",35. Filmax Türk
+#EXTINF:-1 group-title="Yabancı" tvg-logo="https://resmim.net/cdn/2025/09/06/jWW95q.png",34. Filmax Türk
 http://ss.wancolonel.xyz:8080/Redear/gWFBhHX/387
 
-#EXTINF:-1 group-title="Yabancı" tvg-logo="https://resmim.net/cdn/2025/09/05/jfJg9q.png",36. Filmax Yeşilçam
+#EXTINF:-1 group-title="Yabancı" tvg-logo="https://resmim.net/cdn/2025/09/05/jfJg9q.png",35. Filmax Yeşilçam
 http://ss.wancolonel.xyz:8080/Redear/gWFBhHX/587203
+
+#EXTINF:-1 group-title="Yabancı" tvg-logo="https://r.resimlink.com/ut7ebPdmn8g.png",36. Box Office
+http://ss.wancolonel.xyz:8080/Redear/gWFBhHX/342366
 
 #EXTINF:-1 group-title="Yabancı" tvg-logo="https://r.resimlink.com/_xDySGW.png",37. Max Gold
 http://ss.wancolonel.xyz:8080/Redear/gWFBhHX/10853
@@ -499,6 +502,7 @@ https://scihls.persiana.live/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://r.resimlink.com/oLAyVpfTJH.jpg",777. Test TV
 https://beert7sqimrk0bfdupfgn6qew.medya.trt.com.tr/master.m3u8
+
 
 
 
