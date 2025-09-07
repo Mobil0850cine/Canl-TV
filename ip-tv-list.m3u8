@@ -51,20 +51,20 @@ http://ufosat.xyz:8080/P8TBMUHffV/VBUzFzSzj2Rq/152661
 #EXTINF:-1 group-title="Yabancı" tvg-logo="https://r.resimlink.com/CQ8UbMGomP9.png",22. Byzbox Drama 1
 http://ufosat.xyz:8080/P8TBMUHffV/VBUzFzSzj2Rq/152681
 
-#EXTINF:-1 group-title="Yabancı" tvg-logo="https://r.resimlink.com/d5g3UHux.png",23. Byzbox Drama 2
-http://ufosat.xyz:8080/P8TBMUHffV/VBUzFzSzj2Rq/152682
-
-#EXTINF:-1 group-title="Yabancı" tvg-logo="https://r.resimlink.com/HqXFwL1Ru.png",24. Byzbox Romantik 1
+#EXTINF:-1 group-title="Yabancı" tvg-logo="https://r.resimlink.com/HqXFwL1Ru.png",23. Byzbox Romantik 1
 http://ufosat.xyz:8080/P8TBMUHffV/VBUzFzSzj2Rq/152667
 
-#EXTINF:-1 group-title="Yabancı" tvg-logo="https://r.resimlink.com/xXwFUpdz_o9.png",25. Byzbox Komedi 1
+#EXTINF:-1 group-title="Yabancı" tvg-logo="https://r.resimlink.com/xXwFUpdz_o9.png",24. Byzbox Komedi 1
 http://ufosat.xyz:8080/P8TBMUHffV/VBUzFzSzj2Rq/152674
 
-#EXTINF:-1 group-title="Yabancı" tvg-logo="https://r.resimlink.com/e3xOZz45Hw1.png",26. Cinema Macera
-http://vipxx.p-0101.pw:8080/live/seferk245/j2HHew2TXz/316900.m3u8
+#EXTINF:-1 group-title="Yabancı" tvg-logo="https://r.resimlink.com/9GlK2RrF_.png",25. Dolby Vizyon HD
+http://ss.wancolonel.xyz:8080/Redear/gWFBhHX/435906
 
-#EXTINF:-1 group-title="Yabancı" tvg-logo="https://r.resimlink.com/TOQUHSENxn.png",27. Cinema Drama
-http://vipxx.p-0101.pw:8080/live/seferk245/j2HHew2TXz/316897.m3u8
+#EXTINF:-1 group-title="Yabancı" tvg-logo="https://r.resimlink.com/7YmebOo8cu.png",26. Dolby Premier
+http://ss.wancolonel.xyz:8080/Redear/gWFBhHX/435937
+
+#EXTINF:-1 group-title="Yabancı" tvg-logo="https://r.resimlink.com/RtPES.png",26. Dolby Yerli HD
+http://ss.wancolonel.xyz:8080/Redear/gWFBhHX/435909
 
 #EXTINF:-1 group-title="Yabancı" tvg-logo="https://r.resimlink.com/yPeKifsm.png",28. Filmax Aksiyon
 http://ss.wancolonel.xyz:8080/Redear/gWFBhHX/385
@@ -264,8 +264,8 @@ https://saran-live.ercdn.net/natgeowild/index.m3u8
 #EXTINF:-1 group-title="Belgesel & Yaşam" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/1/1d/Love_Nature_TV.png?20240515155053",118. Love Nature
 http://cb286df8.rossteleccom.net/iptv/ZCWPCL9K3LR827/6864/index.m3u8
 
-#EXTINF:-1 group-title="Belgesel & Yaşam" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/BBC_Earth_2023.svg/1200px-BBC_Earth_2023.svg.png",119. BBC Earth
-http://cb286df8.rossteleccom.net/iptv/ZCWPCL9K3LR827/6100/index.m3u8
+#EXTINF:-1 group-title="Belgesel & Yaşam" tvg-logo="https://r.resimlink.com/AQSxZeI.png",119. BBC Earth
+http://ss.wancolonel.xyz:8080/Redear/gWFBhHX/491
 
 #EXTINF:-1 group-title="Belgesel & Yaşam" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/54/Animal_Planet_logo_%28black_and_green_with_TM%29.png",120. Animal Planet
 http://cb286df8.rossteleccom.net/iptv/ZCWPCL9K3LR827/31284/index.m3u8
@@ -499,6 +499,7 @@ https://scihls.persiana.live/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://r.resimlink.com/oLAyVpfTJH.jpg",777. Test TV
 https://beert7sqimrk0bfdupfgn6qew.medya.trt.com.tr/master.m3u8
+
 
 
 
