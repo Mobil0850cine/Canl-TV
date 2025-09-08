@@ -291,6 +291,12 @@ http://ss.wancolonel.xyz:8080/Redear/gWFBhHX/219401
 #EXTINF:-1 group-title="Çocuk" tvg-logo="https://resmim.net/cdn/2025/09/06/jWWkbR.png",137. Viasat Nature
 http://db3a91d9.ucomist.net/iptv/77TCWXB27W5ZWMLMR4CHKWAX/12084/index.m3u8
 
+#EXTINF:-1 group-title="Çocuk" tvg-logo="https://r.resimlink.com/LR_ndSDAtW.png",139. Viasat History
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49417
+
+#EXTINF:-1 group-title="Çocuk" tvg-logo="https://r.resimlink.com/8MFk2Cj.png",139. Viasat Explore
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49425
+
 #EXTINF:-1 group-title="Belgesel & Yaşam" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Discovery_Life_logo_2016.svg/1200px-Discovery_Life_logo_2016.svg.png",142. Disvovery Life
 http://cb286df8.rossteleccom.net/iptv/ZCWPCL9K3LR827/30056/index.m3u8
 
@@ -511,6 +517,7 @@ https://scihls.persiana.live/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://r.resimlink.com/oLAyVpfTJH.jpg",777. Test TV
 https://beert7sqimrk0bfdupfgn6qew.medya.trt.com.tr/master.m3u8
+
 
 
 
