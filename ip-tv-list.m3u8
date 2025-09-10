@@ -54,7 +54,25 @@ http://ufosat.xyz:8080/P8TBMUHffV/VBUzFzSzj2Rq/152681
 #EXTINF:-1 group-title="Yabancı" tvg-logo="https://r.resimlink.com/xXwFUpdz_o9.png",23. Byzbox Komedi 1
 http://ufosat.xyz:8080/P8TBMUHffV/VBUzFzSzj2Rq/152674
 
-#EXTINF:-1 tvg-logo="https://r.resimlink.com/qUWtwS.png",24. 4K Sinema
+#EXTINF:-1 tvg-logo="https://r.resimlink.com/27CIZ.png",24. Cinemax 1
+http://12k-service.com/play/live.php?mac=00:1a:79:5a:dc:83&stream=314939&extension=ts
+
+#EXTINF:-1 tvg-logo="https://r.resimlink.com/Ak-32.png",25. Cinemax 2
+http://12k-service.com/play/live.php?mac=00:1a:79:5a:dc:83&stream=314938&extension=ts
+
+#EXTINF:-1 tvg-logo="https://r.resimlink.com/s7D0v8.png",25. Cinemax 3
+http://12k-service.com/play/live.php?mac=00:1a:79:5a:dc:83&stream=314938&extension=ts
+
+#EXTINF:-1 tvg-logo="https://r.resimlink.com/-lrYFaNpic.png",25. Cinemax 4
+http://12k-service.com/play/live.php?mac=00:1a:79:5a:dc:83&stream=314936&extension=ts
+
+#EXTINF:-1 tvg-logo="https://r.resimlink.com/9B6t_PY.png",26. Cinemax Türk
+http://12k-service.com/play/live.php?mac=00:1a:79:5a:dc:83&stream=314932&extension=ts
+
+#EXTINF:-1 tvg-logo="https://r.resimlink.com/jmt9xA7V.png",27. Cinemax Yeşilçam
+http://12k-service.com/play/live.php?mac=00:1a:79:5a:dc:83&stream=314940&extension=ts
+
+#EXTINF:-1 tvg-logo="https://r.resimlink.com/qUWtwS.png",28. 4K Sinema
 http://185.53.90.98:8080/Rahmi527/mYUZxnJ585HG/102233
 
 #EXTINF:-1 tvg-logo="https://r.resimlink.com/fhRjnm4KBZo.png",35. Relax Box
@@ -470,8 +488,8 @@ https://scihls.persiana.live/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://r.resimlink.com/oLAyVpfTJH.jpg",777. Test TV
 https://beert7sqimrk0bfdupfgn6qew.medya.trt.com.tr/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://r.resimlink.com/oLAyVpfTJH.jpg",778. Test TV
-http://12k-service.com/play/live.php?mac=00:1a:79:5a:dc:83&stream=314939&extension=ts
+
+
 
 
 
