@@ -54,50 +54,17 @@ http://ufosat.xyz:8080/P8TBMUHffV/VBUzFzSzj2Rq/152681
 #EXTINF:-1 group-title="Yabancı" tvg-logo="https://r.resimlink.com/xXwFUpdz_o9.png",23. Byzbox Komedi 1
 http://ufosat.xyz:8080/P8TBMUHffV/VBUzFzSzj2Rq/152674
 
-#EXTINF:-1 group-title="Yabancı" tvg-logo="https://r.resimlink.com/8GhEQ-.png",24. Dolby Loca
-http://ss.wancolonel.xyz:8080/Redear/gWFBhHX/435942
+#EXTINF:-1 tvg-logo="https://r.resimlink.com/qUWtwS.png",24. 4K Sinema
+http://185.53.90.98:8080/Rahmi527/mYUZxnJ585HG/102233
 
-#EXTINF:-1 group-title="Yabancı" tvg-logo="https://r.resimlink.com/9GlK2RrF_.png",25. Dolby Vizyon HD
-http://ss.wancolonel.xyz:8080/Redear/gWFBhHX/435906
+#EXTINF:-1 group-title="Ulusal Kanallar" tvg-logo="https://r.resimlink.com/0PBNKoXZ.png",25. Max Box
+http://185.53.90.98:8080/Rahmi527/mYUZxnJ585HG/20343
 
-#EXTINF:-1 group-title="Yabancı" tvg-logo="https://r.resimlink.com/7YmebOo8cu.png",26. Dolby Premier
-http://ss.wancolonel.xyz:8080/Redear/gWFBhHX/435937
+#EXTINF:-1 group-title="Ulusal Kanallar" tvg-logo="https://r.resimlink.com/1hBOYRL4fnq.png",26. Movie Max
+http://185.53.90.98:8080/Rahmi527/mYUZxnJ585HG/188107
 
-#EXTINF:-1 group-title="Yabancı" tvg-logo="https://r.resimlink.com/RtPES.png",27. Dolby Yerli HD
-http://ss.wancolonel.xyz:8080/Redear/gWFBhHX/435909
-
-#EXTINF:-1 group-title="Yabancı" tvg-logo="https://r.resimlink.com/yPeKifsm.png",28. Filmax Aksiyon
-http://ss.wancolonel.xyz:8080/Redear/gWFBhHX/385
-
-#EXTINF:-1 group-title="Yabancı" tvg-logo="https://r.resimlink.com/BaFL-nS_H.png",29. Filmax Korku
-http://ss.wancolonel.xyz:8080/Redear/gWFBhHX/383
-
-#EXTINF:-1 group-title="Yabancı" tvg-logo="https://r.resimlink.com/j67PEYd5DOK.png",30. Filmax Gerilim
-http://ss.wancolonel.xyz:8080/Redear/gWFBhHX/215164
-
-#EXTINF:-1 group-title="Yabancı" tvg-logo="https://r.resimlink.com/aWUR8DLSh_ZX.png",31. Filmax Drama
-http://ss.wancolonel.xyz:8080/Redear/gWFBhHX/383
-
-#EXTINF:-1 group-title="Yabancı" tvg-logo="https://r.resimlink.com/aJ9Xu.png",32. Filmax Savaş
-http://ss.wancolonel.xyz:8080/Redear/gWFBhHX/215166
-
-#EXTINF:-1 group-title="Yabancı" tvg-logo="https://r.resimlink.com/4Zmh1abYKgl.png",33. Filmax Komedi
-http://ss.wancolonel.xyz:8080/Redear/gWFBhHX/388
-
-#EXTINF:-1 group-title="Yabancı" tvg-logo="https://resmim.net/cdn/2025/09/06/jWW95q.png",34. Filmax Türk
-http://ss.wancolonel.xyz:8080/Redear/gWFBhHX/387
-
-#EXTINF:-1 group-title="Yabancı" tvg-logo="https://resmim.net/cdn/2025/09/05/jfJg9q.png",35. Filmax Yeşilçam
-http://ss.wancolonel.xyz:8080/Redear/gWFBhHX/587203
-
-#EXTINF:-1 group-title="Yabancı" tvg-logo="https://r.resimlink.com/ut7ebPdmn8g.png",36. Box Office
-http://ss.wancolonel.xyz:8080/Redear/gWFBhHX/342366
-
-#EXTINF:-1 group-title="Yabancı" tvg-logo="https://r.resimlink.com/_xDySGW.png",37. Max Gold
-http://ss.wancolonel.xyz:8080/Redear/gWFBhHX/10853
-
-#EXTINF:-1 group-title="Yabancı" tvg-logo="https://r.resimlink.com/v5sRCHGLOuW.png",38. Max Türk
-http://ss.wancolonel.xyz:8080/Redear/gWFBhHX/10851
+#EXTINF:-1 group-title="Ulusal Kanallar" tvg-logo="https://r.resimlink.com/1hBOYRL4fnq.png",27. Max Yerli
+http://185.53.90.98:8080/Rahmi527/mYUZxnJ585HG/195052
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/zUKjeS.png",39. Teleon HD
 http://208.79.153.42/akamaissh101/ssh101/TEBER_10/playlist.m3u8
@@ -128,9 +95,6 @@ http://cdn4.yayin.com.tr/tv36cinema/video.m3u8
 
 #EXTINF:-1 group-title="Diğer" tvg-logo="https://r.resimlink.com/QAdLw_2.png",48. Sinema Max
 http://185.53.90.98:8080/Rahmi527/mYUZxnJ585HG/170441
-
-#EXTINF:-1 tvg-logo="https://r.resimlink.com/qUWtwS.png",49. 4K Sinema
-http://185.53.90.98:8080/Rahmi527/mYUZxnJ585HG/102233
 
 #EXTINF:-1 group-title="Ulusal Kanallar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/TRT_1_logo_%282012-2021%29.png",50. TRT 1
 https://tv-trt1.medya.trt.com.tr/master.m3u8
@@ -276,18 +240,6 @@ http://ss.wancolonel.xyz:8080/Redear/gWFBhHX/491
 #EXTINF:-1 group-title="Belgesel & Yaşam" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/54/Animal_Planet_logo_%28black_and_green_with_TM%29.png",120. Animal Planet
 http://cb286df8.rossteleccom.net/iptv/ZCWPCL9K3LR827/31284/index.m3u8
 
-#EXTINF:-1 group-title="Belgesel & Yaşam" tvg-logo="https://r.resimlink.com/xq8NYrgklBTa.png",121. Docuax Wild
-http://ss.wancolonel.xyz:8080/Redear/gWFBhHX/219403
-
-#EXTINF:-1 group-title="Belgesel & Yaşam" tvg-logo="https://r.resimlink.com/ObPKyWZ7a.png",122. Docuax Tech
-http://ss.wancolonel.xyz:8080/Redear/gWFBhHX/219400
-
-#EXTINF:-1 group-title="Belgesel & Yaşam" tvg-logo="https://r.resimlink.com/YwCfsqPaKShW.png",123. Docuax History
-http://ss.wancolonel.xyz:8080/Redear/gWFBhHX/219402
-
-#EXTINF:-1 group-title="Belgesel & Yaşam" tvg-logo="https://r.resimlink.com/YwCfsqPaKShW.png",124. Docuax Space
-http://ss.wancolonel.xyz:8080/Redear/gWFBhHX/219401
-
 #EXTINF:-1 group-title="Çocuk" tvg-logo="https://resmim.net/cdn/2025/09/06/jWWkbR.png",137. Viasat Nature
 http://db3a91d9.ucomist.net/iptv/77TCWXB27W5ZWMLMR4CHKWAX/12084/index.m3u8
 
@@ -341,15 +293,6 @@ https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/dizi-tv/playlist/0.m3u8
 
 #EXTINF:-1 group-title="Ulusal Kanallar" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/8/8d/Beyaz_TV_logo.jpeg",169. Beyaz TV
 https://beyaztv-live.daioncdn.net/beyaztv/beyaztv_1080p.m3u8
-
-#EXTINF:-1 group-title="Ulusal Kanallar" tvg-logo="https://r.resimlink.com/0PBNKoXZ.png",197. Max Box
-http://185.53.90.98:8080/Rahmi527/mYUZxnJ585HG/20343
-
-#EXTINF:-1 group-title="Ulusal Kanallar" tvg-logo="https://r.resimlink.com/1hBOYRL4fnq.png",198. Movie Max
-http://185.53.90.98:8080/Rahmi527/mYUZxnJ585HG/188107
-
-#EXTINF:-1 group-title="Ulusal Kanallar" tvg-logo="https://r.resimlink.com/1hBOYRL4fnq.png",199. Max Yerli
-http://185.53.90.98:8080/Rahmi527/mYUZxnJ585HG/195052
 
 #EXTINF:-1 group-title="Ulusal Kanallar" tvg-logo="https://w7.pngwing.com/pngs/796/1017/png-transparent-cnbc-e-hd-logo-thumbnail.png",170. Cnbc-e
 https://uzunmuhalefet.serv00.net/canlitv2.php?id=13406&.m3u8
@@ -526,6 +469,7 @@ https://beert7sqimrk0bfdupfgn6qew.medya.trt.com.tr/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://r.resimlink.com/oLAyVpfTJH.jpg",778. Test TV
 http://12k-service.com/play/live.php?mac=00:1a:79:5a:dc:83&stream=196791&extension=m3u8
+
 
 
 
