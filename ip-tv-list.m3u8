@@ -57,13 +57,16 @@ http://ufosat.xyz:8080/P8TBMUHffV/VBUzFzSzj2Rq/152674
 #EXTINF:-1 tvg-logo="https://r.resimlink.com/qUWtwS.png",24. 4K Sinema
 http://185.53.90.98:8080/Rahmi527/mYUZxnJ585HG/102233
 
-#EXTINF:-1 group-title="Ulusal Kanallar" tvg-logo="https://r.resimlink.com/0PBNKoXZ.png",25. Max Box
+#EXTINF:-1 tvg-logo="https://r.resimlink.com/fhRjnm4KBZo.png",35. Relax Box
+http://185.53.90.98:8080/Rahmi527/mYUZxnJ585HG/445236
+
+#EXTINF:-1 group-title="Ulusal Kanallar" tvg-logo="https://r.resimlink.com/0PBNKoXZ.png",36. Max Box
 http://185.53.90.98:8080/Rahmi527/mYUZxnJ585HG/20343
 
-#EXTINF:-1 group-title="Ulusal Kanallar" tvg-logo="https://r.resimlink.com/1hBOYRL4fnq.png",26. Movie Max
+#EXTINF:-1 group-title="Ulusal Kanallar" tvg-logo="https://r.resimlink.com/1hBOYRL4fnq.png",37. Movie Max
 http://185.53.90.98:8080/Rahmi527/mYUZxnJ585HG/188107
 
-#EXTINF:-1 group-title="Ulusal Kanallar" tvg-logo="https://r.resimlink.com/1hBOYRL4fnq.png",27. Max Yerli
+#EXTINF:-1 group-title="Ulusal Kanallar" tvg-logo="https://r.resimlink.com/1hBOYRL4fnq.png",38. Max Yerli
 http://185.53.90.98:8080/Rahmi527/mYUZxnJ585HG/195052
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/zUKjeS.png",39. Teleon HD
@@ -468,7 +471,8 @@ https://scihls.persiana.live/hls/stream.m3u8
 https://beert7sqimrk0bfdupfgn6qew.medya.trt.com.tr/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://r.resimlink.com/oLAyVpfTJH.jpg",778. Test TV
-http://12k-service.com/play/live.php?mac=00:1a:79:5a:dc:83&stream=196791&extension=m3u8
+http://12k-service.com/play/live.php?mac=00:1a:79:5a:dc:83&stream=314939&extension=ts
+
 
 
 
