@@ -66,29 +66,38 @@ http://12k-service.com/play/live.php?mac=00:1a:79:5a:dc:83&stream=151791&extensi
 #EXTINF:-1 group-title="Yabancı" tvg-logo="https://r.resimlink.com/Cku-SZq.png",27. Max Türk
 http://12k-service.com/play/live.php?mac=00:1a:79:5a:dc:83&stream=151790&extension=ts
 
-#EXTINF:-1 tvg-logo="https://r.resimlink.com/27CIZ.png",31. Cinemax 1
+#EXTINF:-1 tvg-logo="https://r.resimlink.com/27CIZ.png",28. Cinemax 1
 http://12k-service.com/play/live.php?mac=00:1a:79:5a:dc:83&stream=314939&extension=ts
 
-#EXTINF:-1 tvg-logo="https://r.resimlink.com/9B6t_PY.png",32. Cinemax Türk
+#EXTINF:-1 tvg-logo="https://r.resimlink.com/9B6t_PY.png",29. Cinemax Türk
 http://12k-service.com/play/live.php?mac=00:1a:79:5a:dc:83&stream=314932&extension=ts
 
-#EXTINF:-1 tvg-logo="https://r.resimlink.com/jmt9xA7V.png",33. Cinemax Yeşilçam
+#EXTINF:-1 tvg-logo="https://r.resimlink.com/jmt9xA7V.png",30. Cinemax Yeşilçam
 http://12k-service.com/play/live.php?mac=00:1a:79:5a:dc:83&stream=314940&extension=ts
 
-#EXTINF:-1 tvg-logo="https://r.resimlink.com/qUWtwS.png",34. 4K Sinema
+#EXTINF:-1 tvg-logo="https://r.resimlink.com/qUWtwS.png",30. 4K Sinema
 http://185.53.90.98:8080/Rahmi527/mYUZxnJ585HG/102234
 
-#EXTINF:-1 tvg-logo="https://r.resimlink.com/fhRjnm4KBZo.png",35. Relax Box
+#EXTINF:-1 tvg-logo="https://r.resimlink.com/fhRjnm4KBZo.png",31. Relax Box
 http://185.53.90.98:8080/Rahmi527/mYUZxnJ585HG/445236
 
-#EXTINF:-1 group-title="Ulusal Kanallar" tvg-logo="https://r.resimlink.com/0PBNKoXZ.png",36. Max Box
+#EXTINF:-1 group-title="Ulusal Kanallar" tvg-logo="https://r.resimlink.com/0PBNKoXZ.png",32. Max Box
 http://185.53.90.98:8080/Rahmi527/mYUZxnJ585HG/20343
 
-#EXTINF:-1 group-title="Ulusal Kanallar" tvg-logo="https://r.resimlink.com/1hBOYRL4fnq.png",37. Movie Max
+#EXTINF:-1 group-title="Ulusal Kanallar" tvg-logo="https://r.resimlink.com/1hBOYRL4fnq.png",33. Movie Max
 http://185.53.90.98:8080/Rahmi527/mYUZxnJ585HG/188107
 
-#EXTINF:-1 group-title="Ulusal Kanallar" tvg-logo="https://r.resimlink.com/1hBOYRL4fnq.png",38. Max Yerli
+#EXTINF:-1 group-title="Ulusal Kanallar" tvg-logo="https://r.resimlink.com/1hBOYRL4fnq.png",34. Max Yerli
 http://185.53.90.98:8080/Rahmi527/mYUZxnJ585HG/195052
+
+#EXTINF:-1 group-title="Diğer" tvg-logo="https://r.resimlink.com/g6LEuG80.png",35. Funmax Vizyon
+http://prf23.xyz:8080/ibrahimhiraozlu23/06042023BM/106961
+
+#EXTINF:-1 group-title="Diğer" tvg-logo="https://r.resimlink.com/ykuwRiqh.png",36. Funmax Aksiyon
+http://prf23.xyz:8080/ibrahimhiraozlu23/06042023BM/104703
+
+#EXTINF:-1 group-title="Ulusal Kanallar" tvg-logo="https://r.resimlink.com/rWaHC.png",37. Funmax Yeşilçam
+http://prf23.xyz:8080/ibrahimhiraozlu23/06042023BM/104690
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/zUKjeS.png",39. Teleon HD
 http://208.79.153.42/akamaissh101/ssh101/TEBER_10/playlist.m3u8
@@ -116,12 +125,6 @@ http://208.79.153.42/akamaissh101/ssh101/kral6/playlist.m3u8
 
 #EXTINF:-1 group-title="Diğer" tvg-logo="https://r.resimlink.com/aOiGW4S.png",47. Cinema 36
 http://cdn4.yayin.com.tr/tv36cinema/video.m3u8
-
-#EXTINF:-1 group-title="Diğer" tvg-logo="https://r.resimlink.com/g6LEuG80.png",48. Funmax Vizyon
-http://prf23.xyz:8080/ibrahimhiraozlu23/06042023BM/106961
-
-#EXTINF:-1 group-title="Diğer" tvg-logo="https://r.resimlink.com/ykuwRiqh.png",48. Funmax Aksiyon
-http://prf23.xyz:8080/ibrahimhiraozlu23/06042023BM/104703
 
 #EXTINF:-1 group-title="Ulusal Kanallar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/TRT_1_logo_%282012-2021%29.png",50. TRT 1
 https://tv-trt1.medya.trt.com.tr/master.m3u8
@@ -535,6 +538,7 @@ https://scihls.persiana.live/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://r.resimlink.com/oLAyVpfTJH.jpg",777. Test TV
 https://beert7sqimrk0bfdupfgn6qew.medya.trt.com.tr/master.m3u8
+
 
 
 
