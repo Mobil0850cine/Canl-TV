@@ -369,19 +369,19 @@ http://136341.performservers.eu:80/hakanarslann/Ogzo2RdCkd/13733
 #EXTINF:-1 group-title="Diğer" tvg-logo="https://r.resimlink.com/xHiqQD.png",182. Unıversal Türk
 http://136341.performservers.eu:80/hakanarslann/Ogzo2RdCkd/59396
 
-#EXTINF:-1 group-title="Diğer" tvg-logo="https://r.resimlink.com/_Az9IbZP.png",181. Unıversal Yeşilçam
+#EXTINF:-1 group-title="Diğer" tvg-logo="https://r.resimlink.com/_Az9IbZP.png",183. Unıversal Yeşilçam
 http://136341.performservers.eu:80/hakanarslann/Ogzo2RdCkd/64002
 
-#EXTINF:-1 tvg-logo="https://r.resimlink.com/27CIZ.png",182. Cinemax 1
+#EXTINF:-1 tvg-logo="https://r.resimlink.com/27CIZ.png",184. Cinemax 1
 http://12k-service.com/play/live.php?mac=00:1a:79:5a:dc:83&stream=314939&extension=ts
 
-#EXTINF:-1 tvg-logo="https://r.resimlink.com/9B6t_PY.png",183. Cinemax Türk
+#EXTINF:-1 tvg-logo="https://r.resimlink.com/9B6t_PY.png",185. Cinemax Türk
 http://12k-service.com/play/live.php?mac=00:1a:79:5a:dc:83&stream=314932&extension=ts
 
-#EXTINF:-1 tvg-logo="https://r.resimlink.com/jmt9xA7V.png",184. Cinemax Yeşilçam
+#EXTINF:-1 tvg-logo="https://r.resimlink.com/jmt9xA7V.png",186. Cinemax Yeşilçam
 http://12k-service.com/play/live.php?mac=00:1a:79:5a:dc:83&stream=314940&extension=ts
 
-#EXTINF:-1 group-title="Diğer" tvg-logo="https://r.resimlink.com/aOiGW4S.png",185. Cinema 36
+#EXTINF:-1 group-title="Diğer" tvg-logo="https://r.resimlink.com/aOiGW4S.png",187. Cinema 36
 http://cdn4.yayin.com.tr/tv36cinema/video.m3u8
 
 #EXTINF:-1 group-title="Çocuk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/2015_Disney_XD_logo.svg/2560px-2015_Disney_XD_logo.svg.png",412. Disney XD
@@ -571,6 +571,7 @@ http://prf23.xyz:8080/ibrahimhiraozlu23/06042023BM/83094
 
 #EXTINF:-1 tvg-logo="https://r.resimlink.com/-k2cwnt_eyP.png",777. Netbox Movie 5
 http://prf23.xyz:8080/ibrahimhiraozlu23/06042023BM/83093
+
 
 
 
