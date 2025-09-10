@@ -527,6 +527,31 @@ https://scihls.persiana.live/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://r.resimlink.com/oLAyVpfTJH.jpg",777. Test TV
 https://beert7sqimrk0bfdupfgn6qew.medya.trt.com.tr/master.m3u8
 
+#EXTINF:0 user-agent="Firefox" tvg-id="" tvg-name="TR:Nextbox Gold" tvg-logo="" group-title="TR | VIP SINEMA HD",TR:Nextbox Gold
+http://prf23.xyz:8080/ibrahimhiraozlu23/06042023BM/83100
+
+#EXTINF:0 user-agent="Firefox" tvg-id="" tvg-name="TR:Nextbox Dream" tvg-logo="" group-title="TR | VIP SINEMA HD",TR:Nextbox Dream
+http://prf23.xyz:8080/ibrahimhiraozlu23/06042023BM/83099
+
+#EXTINF:0 user-agent="Firefox" tvg-id="" tvg-name="TR:Nextbox Action" tvg-logo="" group-title="TR | VIP SINEMA HD",TR:Nextbox Action
+http://prf23.xyz:8080/ibrahimhiraozlu23/06042023BM/83098
+
+#EXTINF:0 user-agent="Firefox" tvg-id="" tvg-name="TR: Nextbox Movie 1" tvg-logo="" group-title="TR | VIP SINEMA HD",TR: Nextbox Movie 1
+http://prf23.xyz:8080/ibrahimhiraozlu23/06042023BM/83097
+
+#EXTINF:0 user-agent="Firefox" tvg-id="" tvg-name="TR: Nextbox Movie 2" tvg-logo="" group-title="TR | VIP SINEMA HD",TR: Nextbox Movie 2
+http://prf23.xyz:8080/ibrahimhiraozlu23/06042023BM/83096
+
+#EXTINF:0 user-agent="Firefox" tvg-id="" tvg-name="TR: Nextbox Movie 3" tvg-logo="" group-title="TR | VIP SINEMA HD",TR: Nextbox Movie 3
+http://prf23.xyz:8080/ibrahimhiraozlu23/06042023BM/83095
+
+#EXTINF:0 user-agent="Firefox" tvg-id="" tvg-name="TR: Nextbox Movie 4" tvg-logo="" group-title="TR | VIP SINEMA HD",TR: Nextbox Movie 4
+http://prf23.xyz:8080/ibrahimhiraozlu23/06042023BM/83094
+
+#EXTINF:0 user-agent="Firefox" tvg-id="" tvg-name="TR: Nextbox Movie 5" tvg-logo="" group-title="TR | VIP SINEMA HD",TR: Nextbox Movie 5
+http://prf23.xyz:8080/ibrahimhiraozlu23/06042023BM/83093
+
+
 
 
 
