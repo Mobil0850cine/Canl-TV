@@ -117,8 +117,11 @@ http://208.79.153.42/akamaissh101/ssh101/kral6/playlist.m3u8
 #EXTINF:-1 group-title="Diğer" tvg-logo="https://r.resimlink.com/aOiGW4S.png",47. Cinema 36
 http://cdn4.yayin.com.tr/tv36cinema/video.m3u8
 
-#EXTINF:-1 group-title="Diğer" tvg-logo="https://r.resimlink.com/QAdLw_2.png",48. Sinema Max
-http://185.53.90.98:8080/Rahmi527/mYUZxnJ585HG/170441
+#EXTINF:0 user-agent="Firefox" tvg-id="15" tvg-name="TR FUNMAX VIZYON DUBLAJ 2" tvg-logo="" group-title="TR ,48. Funmax Vizyon
+http://prf23.xyz:8080/ibrahimhiraozlu23/06042023BM/106961
+
+#EXTINF:0 user-agent="Firefox" tvg-id="46" tvg-name="TR FUNMAX AKSIYON 1 HD" tvg-logo="" group-title="TR Funmax Aksiyon
+http://prf23.xyz:8080/ibrahimhiraozlu23/06042023BM/104703
 
 #EXTINF:-1 group-title="Ulusal Kanallar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/TRT_1_logo_%282012-2021%29.png",50. TRT 1
 https://tv-trt1.medya.trt.com.tr/master.m3u8
@@ -532,6 +535,7 @@ https://scihls.persiana.live/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://r.resimlink.com/oLAyVpfTJH.jpg",777. Test TV
 https://beert7sqimrk0bfdupfgn6qew.medya.trt.com.tr/master.m3u8
+
 
 
 
