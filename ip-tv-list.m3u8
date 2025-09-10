@@ -43,7 +43,7 @@ http://spy17.eu:80/ozkanshmx/06.02.22/317213
 https://edge-e3.evrideo.tv/f2dcbecf-5af0-47db-a82e-032112050a23_1000027346_HLS/manifest.m3u8
 
 #EXTINF:-1 group-title="Yabancı" tvg-logo="https://r.resimlink.com/EROuUDAL.png",20. Now Movies 
-https://a8.radyotelekom.com.tr:3800/hybrid/play.m3u8
+https://a8.radyotelekom.com.tr:3881/hybrid/play.m3u8
 
 #EXTINF:-1 group-title="Yabancı" tvg-logo="https://r.resimlink.com/CwFxbTL.png",21. Byzbox Aksiyon 1
 http://ufosat.xyz:8080/P8TBMUHffV/VBUzFzSzj2Rq/152661
@@ -469,6 +469,7 @@ https://beert7sqimrk0bfdupfgn6qew.medya.trt.com.tr/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://r.resimlink.com/oLAyVpfTJH.jpg",778. Test TV
 http://12k-service.com/play/live.php?mac=00:1a:79:5a:dc:83&stream=196791&extension=m3u8
+
 
 
 
