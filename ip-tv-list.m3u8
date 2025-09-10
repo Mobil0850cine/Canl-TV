@@ -330,6 +330,45 @@ https://tv8-live.daioncdn.net/tv8bucuk/tv8bucuk_1080p.m3u8
 #EXTINF:-1 group-title="Diğer" tvg-logo="https://i.hizliresim.com/bwsicew.png",172. Tivi Türk
 https://stream.tiviturk.de/live/tiviturk.m3u8
 
+#EXTINF:0 user-agent="Firefox" tvg-id="NULL" tvg-name="TR: UNIVERSAL AKSIYON" tvg-logo="http://logo.multicms.info/tvlogo/universal_channel_global.png" group-title="TR-SINEMA",TR: 178. Unıversal Aksiyon
+http://136341.performservers.eu:80/hakanarslann/Ogzo2RdCkd/13739
+
+#EXTINF:0 user-agent="Firefox" tvg-id="NULL" tvg-name="TR: UNIVERSAL KORKU" tvg-logo="http://logo.multicms.info/tvlogo/universal_channel_global.png" group-title="TR-SINEMA",TR: 179. Universal Korku
+http://136341.performservers.eu:80/hakanarslann/Ogzo2RdCkd/13737
+
+#EXTINF:0 user-agent="Firefox" tvg-id="NULL" tvg-name="TR: UNIVERSAL SONVIZYON" tvg-logo="http://logo.multicms.info/tvlogo/universal_channel_global.png" group-title="TR-SINEMA",TR: 180. Unıversal Vizyon
+http://136341.performservers.eu:80/hakanarslann/Ogzo2RdCkd/222407
+
+#EXTINF:0 user-agent="Firefox" tvg-id="NULL" tvg-name="TR: UNIVERSAL CHOICE" tvg-logo="http://logo.multicms.info/tvlogo/universal_channel_global.png" group-title="TR-SINEMA",TR: 181. 181. Unıversal 
+http://136341.performservers.eu:80/hakanarslann/Ogzo2RdCkd/223731
+
+#EXTINF:0 user-agent="Firefox" tvg-id="NULL" tvg-name="TR: UNIVERSAL KEMAL SUNAL" tvg-logo="http://logo.multicms.info/tvlogo/universal_channel_global.png" group-title="TR-SINEMA",TR: 182. Universal Yeşilçam
+http://136341.performservers.eu:80/hakanarslann/Ogzo2RdCkd/13741
+
+#EXTINF:0 user-agent="Firefox" tvg-id="NULL" tvg-name="TR: UNIVERSAL FANTEZI" tvg-logo="http://logo.multicms.info/tvlogo/universal_channel_global.png" group-title="TR-SINEMA",TR: 184. Unıversal Fantezi
+http://136341.performservers.eu:80/hakanarslann/Ogzo2RdCkd/13734
+
+#EXTINF:0 user-agent="Firefox" tvg-id="NULL" tvg-name="TR: UNIVERSAL BILIMKURGU" tvg-logo="http://logo.multicms.info/tvlogo/universal_channel_global.png" group-title="TR-SINEMA",TR: 185. Unıversal Bilimkurgu
+http://136341.performservers.eu:80/hakanarslann/Ogzo2RdCkd/13736
+
+#EXTINF:0 user-agent="Firefox" tvg-id="NULL" tvg-name="TR: UNIVERSAL DRAM" tvg-logo="http://logo.multicms.info/tvlogo/universal_channel_global.png" group-title="TR-SINEMA",TR: 186. Unıversal Dram
+http://136341.performservers.eu:80/hakanarslann/Ogzo2RdCkd/13733
+
+#EXTINF:0 user-agent="Firefox" tvg-id="NULL" tvg-name="TR: UNIVERSAL WESTERN" tvg-logo="http://logo.multicms.info/tvlogo/universal_channel_global.png" group-title="TR-SINEMA",TR: 187. Unıversal Western
+http://136341.performservers.eu:80/hakanarslann/Ogzo2RdCkd/56020
+
+#EXTINF:0 user-agent="Firefox" tvg-id="NULL" tvg-name="TR: UNIVERSAL TURK" tvg-logo="http://logo.multicms.info/tvlogo/universal_channel_global.png" group-title="TR-SINEMA",TR: 188. Unıversal Türk
+http://136341.performservers.eu:80/hakanarslann/Ogzo2RdCkd/13732
+
+#EXTINF:0 user-agent="Firefox" tvg-id="NULL" tvg-name="TR: UNIVERSAL TURK KOMEDI" tvg-logo="http://logo.multicms.info/tvlogo/universal_channel_global.png" group-title="TR-SINEMA",TR: 189. Unıversal Türk 2
+http://136341.performservers.eu:80/hakanarslann/Ogzo2RdCkd/59396
+
+#EXTINF:0 user-agent="Firefox" tvg-id="NULL" tvg-name="TR: UNIVERSAL YESILCAM" tvg-logo="http://logo.multicms.info/tvlogo/universal_channel_global.png" group-title="TR-SINEMA",TR: 190. Unıversal Yeşilçam
+http://136341.performservers.eu:80/hakanarslann/Ogzo2RdCkd/13731
+
+#EXTINF:0 user-agent="Firefox" tvg-id="NULL" tvg-name="TR: UNIVERSAL YESILCAM KOMEDI" tvg-logo="http://logo.multicms.info/tvlogo/universal_channel_global.png" group-title="TR-SINEMA",TR: 191. Unıversal Yeşilçam 2
+http://136341.performservers.eu:80/hakanarslann/Ogzo2RdCkd/64002
+
 #EXTINF:-1 group-title="Çocuk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/2015_Disney_XD_logo.svg/2560px-2015_Disney_XD_logo.svg.png",412. Disney XD
 http://cb286df8.rossteleccom.net/iptv/ZCWPCL9K3LR827/1082/index.m3u8
 
@@ -493,6 +532,7 @@ https://scihls.persiana.live/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://r.resimlink.com/oLAyVpfTJH.jpg",777. Test TV
 https://beert7sqimrk0bfdupfgn6qew.medya.trt.com.tr/master.m3u8
+
 
 
 
