@@ -223,7 +223,6 @@ https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor_1080p.m3u8
 https://ciner-live.daioncdn.net/ht-spor/ht-spor.m3u8
 
 #EXTINF:-1 group-title="Spor" tvg-logo="https://resmim.net/cdn/2025/09/06/jWD2wI.png",77. Cinespor HD
-https://spor.cine6tv.com.tr:3860/stream/play.m3u8
 
 #EXTINF:-1 group-title="Spor" tvg-logo="https://r.resimlink.com/vJzts.png",78. Star Spor HD
 http://208.79.153.42/akamaissh101/ssh101/teber_fightbox_spor_tv/playlist.m3u8
@@ -565,6 +564,7 @@ https://scihls.persiana.live/hls/stream.m3u8
 
 #EXTINF:-1 group-title="Spor" tvg-logo="https://r.resimlink.com/Z0xkALpKB1.png",777. Tivibu Spor
 https://beert7sqimrk0bfdupfgn6qew.medya.trt.com.tr/master.m3u8
+
 
 
 
