@@ -63,22 +63,22 @@ http://prf23.xyz:8080/ibrahimhiraozlu23/06042023BM/83100
 #EXTINF:-1 tvg-logo="https://r.resimlink.com/2aDCBXsy7gh.png",21. Netbox Dram
 http://prf23.xyz:8080/ibrahimhiraozlu23/06042023BM/83099
 
-#EXTINF:-1 tvg-logo="https://r.resimlink.com/TEoc5.png",22. Netbox Aksiyon
+#EXTINF:-1 tvg-logo="https://r.resimlink.com/TEoc5.png",22. Nextbox Aksiyon
 http://prf23.xyz:8080/ibrahimhiraozlu23/06042023BM/83098
 
-#EXTINF:-1 tvg-logo="https://r.resimlink.com/ilO13.png",23. Netbox Movie 1
+#EXTINF:-1 tvg-logo="https://r.resimlink.com/ilO13.png",23. Nextbox Movie 1
 http://prf23.xyz:8080/ibrahimhiraozlu23/06042023BM/83097
 
-#EXTINF:-1 tvg-logo="https://r.resimlink.com/XrhdDuOlL.png",24. Netbox Movie 2
+#EXTINF:-1 tvg-logo="https://r.resimlink.com/XrhdDuOlL.png",24. Nextbox Movie 2
 http://prf23.xyz:8080/ibrahimhiraozlu23/06042023BM/83096
 
-#EXTINF:-1 tvg-logo="https://r.resimlink.com/UY_XRiLD0W58.png",25. Netbox Movie 3
+#EXTINF:-1 tvg-logo="https://r.resimlink.com/UY_XRiLD0W58.png",25. Nextbox Movie 3
 http://prf23.xyz:8080/ibrahimhiraozlu23/06042023BM/83095
 
-#EXTINF:-1 tvg-logo="https://r.resimlink.com/-zvgFJ5.png",26. Netbox Movie 4
+#EXTINF:-1 tvg-logo="https://r.resimlink.com/-zvgFJ5.png",26. Nextbox Movie 4
 http://prf23.xyz:8080/ibrahimhiraozlu23/06042023BM/83094
 
-#EXTINF:-1 tvg-logo="https://r.resimlink.com/-k2cwnt_eyP.png",27. Netbox Movie 5
+#EXTINF:-1 tvg-logo="https://r.resimlink.com/-k2cwnt_eyP.png",27. Nextbox Movie 5
 http://prf23.xyz:8080/ibrahimhiraozlu23/06042023BM/83093
 
 #EXTINF:-1 group-title="Yabancı" tvg-logo="https://r.resimlink.com/CwFxbTL.png",28. Byzbox Aksiyon 1
@@ -107,12 +107,6 @@ http://185.53.90.98:8080/Rahmi527/mYUZxnJ585HG/102234
 
 #EXTINF:-1 group-title="Ulusal Kanallar" tvg-logo="https://r.resimlink.com/0PBNKoXZ.png",36. Max Box
 http://185.53.90.98:8080/Rahmi527/mYUZxnJ585HG/20343
-
-#EXTINF:-1 group-title="Ulusal Kanallar" tvg-logo="https://r.resimlink.com/1hBOYRL4fnq.png",37. Movie Max
-http://185.53.90.98:8080/Rahmi527/mYUZxnJ585HG/188107
-
-#EXTINF:-1 group-title="Ulusal Kanallar" tvg-logo="https://r.resimlink.com/1hBOYRL4fnq.png",38. Max Yerli
-http://185.53.90.98:8080/Rahmi527/mYUZxnJ585HG/195052
 
 #EXTINF:-1 group-title="Diğer" tvg-logo="https://r.resimlink.com/g6LEuG80.png",39. Funmax Vizyon
 http://prf23.xyz:8080/ibrahimhiraozlu23/06042023BM/106961
@@ -384,6 +378,12 @@ http://12k-service.com/play/live.php?mac=00:1a:79:5a:dc:83&stream=314940&extensi
 #EXTINF:-1 group-title="Diğer" tvg-logo="https://r.resimlink.com/aOiGW4S.png",187. Cinema 36
 http://cdn4.yayin.com.tr/tv36cinema/video.m3u8
 
+#EXTINF:-1 group-title="Ulusal Kanallar" tvg-logo="https://r.resimlink.com/1hBOYRL4fnq.png",188. Movie Max
+http://185.53.90.98:8080/Rahmi527/mYUZxnJ585HG/188107
+
+#EXTINF:-1 group-title="Ulusal Kanallar" tvg-logo="https://r.resimlink.com/1hBOYRL4fnq.png",189. Max Yerli
+http://185.53.90.98:8080/Rahmi527/mYUZxnJ585HG/195052
+
 #EXTINF:-1 group-title="Çocuk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/2015_Disney_XD_logo.svg/2560px-2015_Disney_XD_logo.svg.png",412. Disney XD
 http://cb286df8.rossteleccom.net/iptv/ZCWPCL9K3LR827/1082/index.m3u8
 
@@ -548,29 +548,8 @@ https://scihls.persiana.live/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://r.resimlink.com/oLAyVpfTJH.jpg",777. Test TV
 https://beert7sqimrk0bfdupfgn6qew.medya.trt.com.tr/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://r.resimlink.com/nJS2v.png",777. Netbox Gold
-http://prf23.xyz:8080/ibrahimhiraozlu23/06042023BM/83100
 
-#EXTINF:-1 tvg-logo="https://r.resimlink.com/2aDCBXsy7gh.png",777. Netbox Dram
-http://prf23.xyz:8080/ibrahimhiraozlu23/06042023BM/83099
 
-#EXTINF:-1 tvg-logo="https://r.resimlink.com/TEoc5.png",777. Netbox Aksiyon
-http://prf23.xyz:8080/ibrahimhiraozlu23/06042023BM/83098
-
-#EXTINF:-1 tvg-logo="https://r.resimlink.com/ilO13.png",777. Netbox Movie 1
-http://prf23.xyz:8080/ibrahimhiraozlu23/06042023BM/83097
-
-#EXTINF:-1 tvg-logo="https://r.resimlink.com/XrhdDuOlL.png",777. Netbox Movie 2
-http://prf23.xyz:8080/ibrahimhiraozlu23/06042023BM/83096
-
-#EXTINF:-1 tvg-logo="https://r.resimlink.com/UY_XRiLD0W58.png",777. Netbox Movie 3
-http://prf23.xyz:8080/ibrahimhiraozlu23/06042023BM/83095
-
-#EXTINF:-1 tvg-logo="https://r.resimlink.com/-zvgFJ5.png",777. Netbox Movie 4
-http://prf23.xyz:8080/ibrahimhiraozlu23/06042023BM/83094
-
-#EXTINF:-1 tvg-logo="https://r.resimlink.com/-k2cwnt_eyP.png",777. Netbox Movie 5
-http://prf23.xyz:8080/ibrahimhiraozlu23/06042023BM/83093
 
 
 
