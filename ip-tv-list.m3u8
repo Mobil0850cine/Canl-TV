@@ -15,19 +15,19 @@ http://208.79.153.42/akamaissh101/ssh101/NOVAMAX_ACTION_TV/playlist.m3u8
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/0IOYSkl8f2z.png",5. Novamax Türk
 https://novamax.cinemax6.com:3760/stream/play.m3u8
 
-#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/ufTUrVw7_N.png",1. Cine 6 Drama ( Test )
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/ufTUrVw7_N.png",Cine 6 Drama ( Test )
 http://136341.performservers.eu:80/hakanarslann/Ogzo2RdCkd/160
 
-#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/Qu-Pe9.png",1. Cine 6 Gold ( Test )
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/Qu-Pe9.png",Cine 6 Gold ( Test )
 http://136341.performservers.eu:80/hakanarslann/Ogzo2RdCkd/155
 
-#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/KXUuz9.png",1. Cine 6 Komedi ( Test )
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/KXUuz9.png",Cine 6 Komedi ( Test )
 http://136341.performservers.eu:80/hakanarslann/Ogzo2RdCkd/159
 
-#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/DSoH1YUQRm.png",1. Cine 6 Family ( Test )
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/DSoH1YUQRm.png",Cine 6 Family ( Test )
 http://136341.performservers.eu:80/hakanarslann/Ogzo2RdCkd/222407
 
-#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/0KURiX.png",1. Cine 6 Yeşilçam ( Test )
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/0KURiX.png",Cine 6 Yeşilçam ( Test )
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/_fozi2.png",6. Fil TV
 https://mediaserver1.castpin.com/hls/filbox/1_2/index.m3u8
@@ -561,6 +561,7 @@ https://scihls.persiana.live/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://r.resimlink.com/oLAyVpfTJH.jpg",777. Test TV
 https://beert7sqimrk0bfdupfgn6qew.medya.trt.com.tr/master.m3u8
+
 
 
 
