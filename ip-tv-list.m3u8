@@ -12,149 +12,152 @@ https://tv191.radyotelekom.com.tr:3006/stream/play.m3u8
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/zK1R83.png",4. Novamax Actıon
 http://208.79.153.42/akamaissh101/ssh101/NOVAMAX_ACTION_TV/playlist.m3u8
 
-#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/0IOYSkl8f2z.png",5. Novamax Türk
-https://novamax.cinemax6.com:3760/stream/play.m3u8
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/ufTUrVw7_N.png",5. Novamax Drama 
+https://spor.cine6tv.com.tr:3860/stream/play.m3u8
 
-#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/ufTUrVw7_N.png",Novamax Drama ( Test )
-http://136341.performservers.eu:80/hakanarslann/Ogzo2RdCkd/160
-
-#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/Qu-Pe9.png",Novamax Gold ( Test )
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/Qu-Pe9.png",6. Novamax Gold ( Test )
 http://136341.performservers.eu:80/hakanarslann/Ogzo2RdCkd/155
 
-#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/KXUuz9.png",Novamax Komedi ( Test )
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/KXUuz9.png",7. Novamax Komedi ( Test )
 http://136341.performservers.eu:80/hakanarslann/Ogzo2RdCkd/159
 
-#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/DSoH1YUQRm.png",Novamax Family ( Test )
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/DSoH1YUQRm.png",8. Novamax Family ( Test )
 http://136341.performservers.eu:80/hakanarslann/Ogzo2RdCkd/222407
 
-#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/0KURiX.png",Novamax Yeşilçam ( Test )
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/0IOYSkl8f2z.png",9. Novamax Türk
+https://novamax.cinemax6.com:3760/stream/play.m3u8
+
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/0KURiX.png",10. Novamax Yeşilçam ( Test )
 http://136341.performservers.eu:80/movie/hakanarslann/Ogzo2RdCkd/273785.mkv
 
-#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/_fozi2.png",6. Fil TV
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/_fozi2.png",11. Fil TV
 https://mediaserver1.castpin.com/hls/filbox/1_2/index.m3u8
 
-#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/suTEWnO.png",7. Filmbox Premier
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/suTEWnO.png",12. Filmbox Premier
 http://spy17.eu:80/ozkanshmx/06.02.22/317203
 
-#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/RrE5fI.png",8. Filmbox Action
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/RrE5fI.png",13. Filmbox Action
 http://spy17.eu:80/ozkanshmx/06.02.22/317204
 
-#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/2Wo5u.png",9. Filmbox Drama
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/2Wo5u.png",14. Filmbox Drama
 http://spy17.eu:80/ozkanshmx/06.02.22/317207
 
-#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/TgLphwBxlz9A.png",10. Filmbox Komedi
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/TgLphwBxlz9A.png",15. Filmbox Komedi
 http://spy17.eu:80/ozkanshmx/06.02.22/317209
 
-#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/Yc5VyvkduQgD.png",11. Filmbox Family
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/Yc5VyvkduQgD.png",16. Filmbox Family
 http://spy17.eu:80/ozkanshmx/06.02.22/317211
 
-#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/yFMEPr98.png",12. Filmbox Yerli
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/yFMEPr98.png",17. Filmbox Yerli
 http://spy17.eu:80/ozkanshmx/06.02.22/317212
 
-#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/IbV6Exw_lJg.png",13. Filmbox Yeşilçam
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/IbV6Exw_lJg.png",18. Filmbox Yeşilçam
 http://spy17.eu:80/ozkanshmx/06.02.22/317213
 
-#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/5iOIN31QJLY2.png",14. Filmbox 4K
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/5iOIN31QJLY2.png",19. Filmbox 4K
 http://prf23.xyz:8080/ibrahimhiraozlu23/06042023BM/123907
 
-#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/mHe2nFW8AELR.png",15. Filmbox Horor
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/mHe2nFW8AELR.png",20. Filmbox Horor
 http://prf23.xyz:8080/ibrahimhiraozlu23/06042023BM/83265
 
-#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/lka48jCVh.png",16. Filmbox Fantatic
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/lka48jCVh.png",21. Filmbox Fantatic
 http://prf23.xyz:8080/ibrahimhiraozlu23/06042023BM/83267
 
-#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/la5uyk1nI0FN.png",17. Filmbox Sc-Fi
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/la5uyk1nI0FN.png",22. Filmbox Sc-Fi
 http://prf23.xyz:8080/ibrahimhiraozlu23/06042023BM/83268
 
-#EXTINF:-1 tvg-logo="https://r.resimlink.com/17wPCWyB.png",18. Film Screen HD 
-https://edge-e3.evrideo.tv/f2dcbecf-5af0-47db-a82e-032112050a23_1000027346_HLS/manifest.m3u8
-
-#EXTINF:-1 group-title="Yabancı" tvg-logo="https://r.resimlink.com/EROuUDAL.png",19. Now Movies 
+#EXTINF:-1 group-title="Yabancı" tvg-logo="https://r.resimlink.com/EROuUDAL.png",23. Now Movies 
 https://a8.radyotelekom.com.tr:3881/hybrid/play.m3u8
 
-#EXTINF:-1 tvg-logo="https://r.resimlink.com/nJS2v.png",20. Netbox Gold
+#EXTINF:-1 tvg-logo="https://r.resimlink.com/nJS2v.png",24. Netbox Gold
 http://prf23.xyz:8080/ibrahimhiraozlu23/06042023BM/83100
 
-#EXTINF:-1 tvg-logo="https://r.resimlink.com/2aDCBXsy7gh.png",21. Netbox Dram
+#EXTINF:-1 tvg-logo="https://r.resimlink.com/2aDCBXsy7gh.png",25. Netbox Dram
 http://prf23.xyz:8080/ibrahimhiraozlu23/06042023BM/83099
 
-#EXTINF:-1 tvg-logo="https://r.resimlink.com/TEoc5.png",22. Nextbox Aksiyon
+#EXTINF:-1 tvg-logo="https://r.resimlink.com/TEoc5.png",26. Nextbox Aksiyon
 http://prf23.xyz:8080/ibrahimhiraozlu23/06042023BM/83098
 
-#EXTINF:-1 tvg-logo="https://r.resimlink.com/ilO13.png",23. Nextbox Movie 1
+#EXTINF:-1 tvg-logo="https://r.resimlink.com/ilO13.png",27. Nextbox Movie 1
 http://prf23.xyz:8080/ibrahimhiraozlu23/06042023BM/83097
 
-#EXTINF:-1 tvg-logo="https://r.resimlink.com/XrhdDuOlL.png",24. Nextbox Movie 2
+#EXTINF:-1 tvg-logo="https://r.resimlink.com/XrhdDuOlL.png",28. Nextbox Movie 2
 http://prf23.xyz:8080/ibrahimhiraozlu23/06042023BM/83096
 
-#EXTINF:-1 tvg-logo="https://r.resimlink.com/UY_XRiLD0W58.png",25. Nextbox Movie 3
+#EXTINF:-1 tvg-logo="https://r.resimlink.com/UY_XRiLD0W58.png",29. Nextbox Movie 3
 http://prf23.xyz:8080/ibrahimhiraozlu23/06042023BM/83095
 
-#EXTINF:-1 tvg-logo="https://r.resimlink.com/-zvgFJ5.png",26. Nextbox Movie 4
+#EXTINF:-1 tvg-logo="https://r.resimlink.com/-zvgFJ5.png",30. Nextbox Movie 4
 http://prf23.xyz:8080/ibrahimhiraozlu23/06042023BM/83094
 
-#EXTINF:-1 tvg-logo="https://r.resimlink.com/-k2cwnt_eyP.png",27. Nextbox Movie 5
+#EXTINF:-1 tvg-logo="https://r.resimlink.com/-k2cwnt_eyP.png",31. Nextbox Movie 5
 http://prf23.xyz:8080/ibrahimhiraozlu23/06042023BM/83093
 
-#EXTINF:-1 group-title="Yabancı" tvg-logo="https://r.resimlink.com/CwFxbTL.png",28. Byzbox Aksiyon 1
+#EXTINF:-1 group-title="Yabancı" tvg-logo="https://r.resimlink.com/CwFxbTL.png",32. Byzbox Aksiyon 1
 http://ufosat.xyz:8080/P8TBMUHffV/VBUzFzSzj2Rq/152661
 
-#EXTINF:-1 group-title="Yabancı" tvg-logo="https://r.resimlink.com/CQ8UbMGomP9.png",29. Byzbox Drama 1
+#EXTINF:-1 group-title="Yabancı" tvg-logo="https://r.resimlink.com/CQ8UbMGomP9.png",33. Byzbox Drama 1
 http://ufosat.xyz:8080/P8TBMUHffV/VBUzFzSzj2Rq/152681
 
-#EXTINF:-1 group-title="Yabancı" tvg-logo="https://r.resimlink.com/xXwFUpdz_o9.png",30. Byzbox Komedi 1
+#EXTINF:-1 group-title="Yabancı" tvg-logo="https://r.resimlink.com/xXwFUpdz_o9.png",34. Byzbox Komedi 1
 http://ufosat.xyz:8080/P8TBMUHffV/VBUzFzSzj2Rq/152674
 
-#EXTINF:-1 group-title="Yabancı" tvg-logo="https://r.resimlink.com/s5H0zP.png",31. Max Premier
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/bf_AMIDUN.png",35. Max 4K
+http://prf23.xyz:8080/ibrahimhiraozlu23/06042023BM/115202
+
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/ji5qBazJwdy.png",36. Max Vizyon
+http://prf23.xyz:8080/ibrahimhiraozlu23/06042023BM/115209
+
+#EXTINF:-1 group-title="Yabancı" tvg-logo="https://r.resimlink.com/s5H0zP.png",37. Max Premier
 http://12k-service.com/play/live.php?mac=00:1a:79:5a:dc:83&stream=151784&extension=ts
 
-#EXTINF:-1 group-title="Yabancı" tvg-logo="https://r.resimlink.com/4n1Sz3ZuxgRh.png",32. Max Aksiyon
+#EXTINF:-1 group-title="Yabancı" tvg-logo="https://r.resimlink.com/4n1Sz3ZuxgRh.png",38. Max Aksiyon
 http://12k-service.com/play/live.php?mac=00:1a:79:5a:dc:83&stream=151783&extension=ts
 
-#EXTINF:-1 group-title="Yabancı" tvg-logo="https://r.resimlink.com/zxc38u.png",33. Max Gold
+#EXTINF:-1 group-title="Yabancı" tvg-logo="https://r.resimlink.com/zxc38u.png",39. Max Gold
 http://12k-service.com/play/live.php?mac=00:1a:79:5a:dc:83&stream=151791&extension=ts
 
-#EXTINF:-1 group-title="Yabancı" tvg-logo="https://r.resimlink.com/NG-6jF.png",34. Max Türk
-http://12k-service.com/play/live.php?mac=00:1a:79:5a:dc:83&stream=151790&extension=ts
-
-#EXTINF:-1 tvg-logo="https://r.resimlink.com/qUWtwS.png",35. 4K Sinema
+#EXTINF:-1 tvg-logo="https://r.resimlink.com/qUWtwS.png",40. 4K Sinema
 http://185.53.90.98:8080/Rahmi527/mYUZxnJ585HG/102234
 
-#EXTINF:-1 group-title="Ulusal Kanallar" tvg-logo="https://r.resimlink.com/0PBNKoXZ.png",36. Max Box
+#EXTINF:-1 group-title="Ulusal Kanallar" tvg-logo="https://r.resimlink.com/0PBNKoXZ.png",41. Max Box
 http://185.53.90.98:8080/Rahmi527/mYUZxnJ585HG/20343
 
-#EXTINF:-1 group-title="Diğer" tvg-logo="https://r.resimlink.com/g6LEuG80.png",39. Funmax Vizyon
+#EXTINF:-1 group-title="Diğer" tvg-logo="https://r.resimlink.com/g6LEuG80.png",42. Funmax Vizyon
 http://prf23.xyz:8080/ibrahimhiraozlu23/06042023BM/106961
 
-#EXTINF:-1 group-title="Diğer" tvg-logo="https://r.resimlink.com/ykuwRiqh.png",40. Funmax Aksiyon
+#EXTINF:-1 group-title="Diğer" tvg-logo="https://r.resimlink.com/ykuwRiqh.png",43. Funmax Aksiyon
 http://prf23.xyz:8080/ibrahimhiraozlu23/06042023BM/104703
 
-#EXTINF:-1 group-title="Ulusal Kanallar" tvg-logo="https://r.resimlink.com/rWaHC.png",41. Funmax Yeşilçam
+#EXTINF:-1 group-title="Ulusal Kanallar" tvg-logo="https://r.resimlink.com/rWaHC.png",44. Funmax Yeşilçam
 http://prf23.xyz:8080/ibrahimhiraozlu23/06042023BM/104690
 
-#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/zUKjeS.png",42. Teleon HD
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/zUKjeS.png",45. Teleon HD
 http://208.79.153.42/akamaissh101/ssh101/TEBER_10/playlist.m3u8
 
-#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/NSUJdok5.png",43. Cine 5 Türk 
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/NSUJdok5.png",46. Cine 5 Türk 
 http://208.79.153.42/akamaissh101/ssh101/CINE5_TÜRK_TV/playlist.m3u8
 
-#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://www.logovector.org/wp-content/uploads/logos/png/c/cine5_logo.png",44. Cine 5
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://www.logovector.org/wp-content/uploads/logos/png/c/cine5_logo.png",47. Cine 5
 https://cdn-cine5.yayin.com.tr/cine5/cine5/chunklist_w1443635736.m3u8
 
-#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/JZMdgri5.png",45. Star Sinema 1
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/JZMdgri5.png",48. Star Sinema 1
 http://208.79.153.42/akamaissh101/ssh101/teber_star1/playlist.m3u8  
  
-#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/QaKBhpbUXC6.png",46. Star Sinema 2
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/QaKBhpbUXC6.png",49. Star Sinema 2
 http://208.79.153.42/akamaissh101/ssh101/teber_star2/playlist.m3u8
 
-#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/9NO6M.png",47. Sinema HD
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/9NO6M.png",50. Sinema HD
 http://208.79.153.42/akamaissh101/ssh101/ysmtvmedya/chunks.m3u8
 
-#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/1JfgwmRS_qex.png",48. Hbb HD
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/1JfgwmRS_qex.png",51. Hbb HD
 http://208.79.153.42/akamaissh101/ssh101/HBBTV/playlist.m3u8
 
-#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/V5p4oI6bUa9.png",49. Kral 6
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/V5p4oI6bUa9.png",52. Kral 6
 http://208.79.153.42/akamaissh101/ssh101/kral6/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://r.resimlink.com/17wPCWyB.png",53. Film Screen HD 
+https://edge-e3.evrideo.tv/f2dcbecf-5af0-47db-a82e-032112050a23_1000027346_HLS/manifest.m3u8
 
 #EXTINF:-1 group-title="Ulusal Kanallar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/TRT_1_logo_%282012-2021%29.png",50. TRT 1
 https://tv-trt1.medya.trt.com.tr/master.m3u8
@@ -562,6 +565,7 @@ https://scihls.persiana.live/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://r.resimlink.com/oLAyVpfTJH.jpg",777. Test TV
 https://beert7sqimrk0bfdupfgn6qew.medya.trt.com.tr/master.m3u8
+
 
 
 
