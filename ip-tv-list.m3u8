@@ -233,6 +233,9 @@ http://74214be9.edemist.com/iptv/WUX6STDKBG73GKNYAF5U3KMF/2193/index.m3u8
 #EXTINF:-1 group-title="Spor" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/01/%C4%B0dman_TV_logo.png",80. İdman TV
 https://tv.mobyservice.ru/IdmanTV/index.m3u8
 
+#EXTINF:-1 group-title="Spor" tvg-logo="https://r.resimlink.com/tVXc4QGdN.png",81. Sıfır TV
+https://origin1.noisypeak.com/srt_listener_test11/track_3_1100/playlist.m3u8
+
 #EXTINF:-1 group-title="Spor" tvg-logo="https://e7.pngegg.com/pngimages/917/857/png-clipart-eurosport-1-logo-lyngsat-television-hot-bird-13b-discovery-channel-logo-purple-television-thumbnail.png",83. Eurosport
 http://ss.wancolonel.xyz:8080/Redear/gWFBhHX/275
 
@@ -558,6 +561,7 @@ https://scihls.persiana.live/hls/stream.m3u8
 
 #EXTINF:-1 group-title="Spor" tvg-logo="https://r.resimlink.com/Z0xkALpKB1.png",777. Test
 https://beert7sqimrk0bfdupfgn6qew.medya.trt.com.tr/master.m3u8
+
 
 
 
