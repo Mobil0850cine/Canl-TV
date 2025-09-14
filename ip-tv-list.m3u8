@@ -257,12 +257,6 @@ http://74214be9.edemist.com/iptv/WUX6STDKBG73GKNYAF5U3KMF/7333/index.m3u8
 #EXTINF:-1 group-title="Spor" tvg-logo="https://epg.pw/media/images/epg/2024/11/28/20241128022430237756_40.png",91. Arena Sport 6
 http://74214be9.edemist.com/iptv/WUX6STDKBG73GKNYAF5U3KMF/7334/index.m3u8
 
-#EXTINF:-1 group-title="Spor" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1b/Sky_Sports_UK_logo_2020.png",92. Sky Sport PL
-http://cb286df8.rossteleccom.net/iptv/ZCWPCL9K3LR827/9334/index.m3u8
-
-#EXTINF:-1 group-title="Spor" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e3/Polsat_Sport_1_2024.svg/revision/latest/scale-to-width-down/200?cb=20240715131547.png",93. Polsat Sport
-http://cb286df8.rossteleccom.net/iptv/ZCWPCL9K3LR827/7304/index.m3u8
-
 #EXTINF:-1 group-title="Spor" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png",94. ESPN 1
 http://db3a91d9.ucomist.net/iptv/77TCWXB27W5ZWMLMR4CHKWAX/19201/index.m3u8
 
@@ -564,6 +558,7 @@ https://scihls.persiana.live/hls/stream.m3u8
 
 #EXTINF:-1 group-title="Spor" tvg-logo="https://r.resimlink.com/Z0xkALpKB1.png",777. Test
 https://beert7sqimrk0bfdupfgn6qew.medya.trt.com.tr/master.m3u8
+
 
 
 
