@@ -16,7 +16,7 @@ http://208.79.153.42/akamaissh101/ssh101/NOVAMAX_ACTION_TV/playlist.m3u8
 https://spor.cine6tv.com.tr:3860/stream/play.m3u8
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/Qu-Pe9.png",6. Novamax Gold ( Test )
-http://136341.performservers.eu:80/hakanarslann/Ogzo2RdCkd/155
+http://208.79.153.42/akamaissh101/ssh101/NOVAMAX_GOLD_TV/playlist.m3u8
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/KXUuz9.png",7. Novamax Komedi ( Test )
 http://136341.performservers.eu:80/hakanarslann/Ogzo2RdCkd/159
@@ -558,6 +558,7 @@ http://prf23.xyz:8080/ibrahimhiraozlu23/06042023BM/83258
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/yFMEPr98.png",780. Filmbox Yeşilçam 3
 http://prf23.xyz:8080/ibrahimhiraozlu23/06042023BM/83257
+
 
 
 
