@@ -324,7 +324,7 @@ https://dogus-live.daioncdn.net/dmax/dmax.m3u8
 http://75.119.144.48/SUPERTURK_TV_STREAM/index.m3u8
 
 #EXTINF:-1 group-title="Diğer" tvg-logo="https://pbs.twimg.com/media/F-QH1TMXQAAHhKy.png",156. Süper Türk Max
-http://75.119.144.48/SUPERTURK_MAXTV_HD/index.m3u8
+http://75.119.144.48/SUPERTURK_MAX_HD/index.m3u8
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://www.sdmvideo.com/upload/photos/2025/02/Ihhn9QYN6jn2BW5tL8Jz_08_bb9fd41790386666b1c32ce49a3b1b2c_image.png",157. SDM Sinema
 https://host.onlineradyotv.net:8081/sdmtv/tracks-v1a1/mono.m3u8
@@ -558,6 +558,7 @@ http://prf23.xyz:8080/ibrahimhiraozlu23/06042023BM/83258
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/yFMEPr98.png",780. Filmbox Yeşilçam 3
 http://prf23.xyz:8080/ibrahimhiraozlu23/06042023BM/83257
+
 
 
 
