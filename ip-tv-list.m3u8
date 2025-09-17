@@ -290,9 +290,6 @@ http://cb286df8.rossteleccom.net/iptv/ZCWPCL9K3LR827/6864/index.m3u8
 #EXTINF:-1 group-title="Belgesel & Yaşam" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/54/Animal_Planet_logo_%28black_and_green_with_TM%29.png",120. Animal Planet
 http://cb286df8.rossteleccom.net/iptv/ZCWPCL9K3LR827/31284/index.m3u8
 
-#EXTINF:-1 group-title="Çocuk" tvg-logo="https://resmim.net/cdn/2025/09/06/jWWkbR.png",137. Viasat Nature
-http://db3a91d9.ucomist.net/iptv/77TCWXB27W5ZWMLMR4CHKWAX/12084/index.m3u8
-
 #EXTINF:0 user-agent="Firefox" tvg-id="VIASAT EXPLORE" tvg-name="TR: VIASAT EXPLORER" tvg-logo="https://logo.multicms.info/tvlogo/viasatexplore.png" group-title="TR-BELGESEL",TR: 139. Viasat Explore
 http://136341.performservers.eu:80/hakanarslann/Ogzo2RdCkd/234449
 
@@ -400,12 +397,6 @@ http://cb286df8.rossteleccom.net/iptv/ZCWPCL9K3LR827/1082/index.m3u8
 
 #EXTINF:-1 group-title="Çocuk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Nick_Jr._logo_2009.svg/2560px-Nick_Jr._logo_2009.svg.png",413. Nick JR
 http://hottest.vip:80/play/live.php?mac=00:1A:79:1A:2D:A3&stream=913121&extension=ts
-
-#EXTINF:-1 group-title="Çocuk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/Nicktoons_2023_Outlined_Logo.png",414. Nicktoons
-http://vip.qruzetv.site:8080/play/live.php?mac=00:2A:01:90:E8:FA&stream=165&extension=m3u8
-
-#EXTINF:-1 group-title="Çocuk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Nickelodeon_2009_logo.svg/2560px-Nickelodeon_2009_logo.svg.png",415. Nickelodeon
-http://db3a91d9.ucomist.net/iptv/77TCWXB27W5ZWMLMR4CHKWAX/6848/index.m3u8
 
 #EXTINF:-1 group-title="Çocuk" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/b/b1/Babyfirst.png",416. Baby First
 http://cb286df8.rossteleccom.net/iptv/ZCWPCL9K3LR827/30012/index.m3u8
@@ -558,6 +549,7 @@ http://prf23.xyz:8080/ibrahimhiraozlu23/06042023BM/83258
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/yFMEPr98.png",780. Filmbox Yeşilçam 3
 http://prf23.xyz:8080/ibrahimhiraozlu23/06042023BM/83257
+
 
 
 
