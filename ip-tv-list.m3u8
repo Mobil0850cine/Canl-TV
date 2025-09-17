@@ -147,6 +147,9 @@ http://208.79.153.42/akamaissh101/ssh101/teber_star1/playlist.m3u8
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/QaKBhpbUXC6.png",49. Star Sinema 2
 http://208.79.153.42/akamaissh101/ssh101/teber_star2/playlist.m3u8
 
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/ynlxgEju.png",50. İnter Star
+http://208.79.153.42/akamaissh101/ssh101/INTER_STAR/playlist.m3u8
+
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/1JfgwmRS_qex.png",51. Hbb HD
 http://208.79.153.42/akamaissh101/ssh101/HBBTV/playlist.m3u8
 
@@ -535,9 +538,6 @@ https://familyhls.persiana.live/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://r.resimlink.com/Hl9O5JKDd.jpg",596. Persina Science
 https://scihls.persiana.live/hls/stream.m3u8
 
-#EXTINF:-1 group-title="Spor" tvg-logo="https://r.resimlink.com/Z0xkALpKB1.png",777. Test
-https://beert7sqimrk0bfdupfgn6qew.medya.trt.com.tr/master.m3u8
-
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/yFMEPr98.png",778. Filmbox Yeşilçam 1
 http://prf23.xyz:8080/ibrahimhiraozlu23/06042023BM/83256
 
@@ -546,6 +546,40 @@ http://prf23.xyz:8080/ibrahimhiraozlu23/06042023BM/83258
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/yFMEPr98.png",780. Filmbox Yeşilçam 3
 http://prf23.xyz:8080/ibrahimhiraozlu23/06042023BM/83257
+
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/aZyR_gbsPqkA.png",781. Living Cinemax 1
+http://12k-service.com/play/live.php?mac=00:1a:79:5a:dc:83&stream=314939&extension=ts
+
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/g6y1AcJjQ.png",782. Living Cinemax 2
+http://12k-service.com/play/live.php?mac=00:1a:79:5a:dc:83&stream=314938&extension=ts
+
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="hhttps://r.resimlink.com/-3W7yX6Cm.png",783. Living Cinemax 3
+http://12k-service.com/play/live.php?mac=00:1a:79:5a:dc:83&stream=314937&extension=ts
+
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/wroqb.png",784. Living Cinemax 4
+http://12k-service.com/play/live.php?mac=00:1a:79:5a:dc:83&stream=314936&extension=ts
+
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/SoUzr0P.png",785. Living Cinemax 5
+http://12k-service.com/play/live.php?mac=00:1a:79:5a:dc:83&stream=314934&extension=ts
+
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/jxiPq8u.png", 786. Nova Sinema 1
+http://spy17.eu:8080/live/ozkanshmx/06.02.22/316967.ts
+
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/sDgczvWpX0.png", 787. Nova Sinema 2
+http://spy17.eu:8080/live/ozkanshmx/06.02.22/316968.ts
+
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/VvxyAC_u5P.png",788,  Nova Sinema 3
+http://spy17.eu:8080/live/ozkanshmx/06.02.22/316969.ts
+
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/KwU7yf8r.png", 789. Nova Sinema 4
+http://spy17.eu:8080/live/ozkanshmx/06.02.22/316970.ts
+
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/zOsMaymNW7lr.jpg", 790. Nova Sinema 5
+http://spy17.eu:8080/live/ozkanshmx/06.02.22/316971.ts
+
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/HBImzqE9.jpg",791. Nova Sinema 6
+http://spy17.eu:8080/live/ozkanshmx/06.02.22/316972.ts
+
 
 
 
