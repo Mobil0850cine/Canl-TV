@@ -9,56 +9,14 @@ https://cinemax6.cinemax6.com:3118/stream/play.m3u8
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/9wVDq0ILpHRS.png",3. Novamax Premier
 https://tv191.radyotelekom.com.tr:3006/stream/play.m3u8
 
-#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/zK1R83.png",4. Novamax Actıon
-http://208.79.153.42/akamaissh101/ssh101/NOVAMAX_ACTION_TV/playlist.m3u8
-
-#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/ufTUrVw7_N.png",5. Novamax Drama 
-https://spor.cine6tv.com.tr:3860/stream/play.m3u8
-
-#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/Qu-Pe9.png",6. Novamax Gold ( Test )
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/Qu-Pe9.png",6. Novamax Gold 
 http://136341.performservers.eu:80/hakanarslann/Ogzo2RdCkd/155
-
-#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/KXUuz9.png",7. Novamax Komedi ( Test )
-http://136341.performservers.eu:80/hakanarslann/Ogzo2RdCkd/159
-
-#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/DSoH1YUQRm.png",8. Novamax Family ( Test )
-http://136341.performservers.eu:80/hakanarslann/Ogzo2RdCkd/222407
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/0IOYSkl8f2z.png",9. Novamax Türk
 https://novamax.cinemax6.com:3760/stream/play.m3u8
 
-#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/0KURiX.png",10. Novamax Yeşilçam ( Test )
-http://prf23.xyz:8080/ibrahimhiraozlu23/06042023BM/115255
-
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/_fozi2.png",11. Fil TV
 https://mediaserver1.castpin.com/hls/filbox/1_2/index.m3u8
-
-#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/suTEWnO.png",12. Filmbox Premier
-http://spy17.eu:80/ozkanshmx/06.02.22/317203
-
-#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/RrE5fI.png",13. Filmbox Action
-http://spy17.eu:80/ozkanshmx/06.02.22/317204
-
-#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/2Wo5u.png",14. Filmbox Drama
-http://spy17.eu:80/ozkanshmx/06.02.22/317207
-
-#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/TgLphwBxlz9A.png",15. Filmbox Komedi
-http://spy17.eu:80/ozkanshmx/06.02.22/317209
-
-#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/Yc5VyvkduQgD.png",16. Filmbox Family
-http://spy17.eu:80/ozkanshmx/06.02.22/317211
-
-#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/yFMEPr98.png",17. Filmbox Yerli
-http://spy17.eu:80/ozkanshmx/06.02.22/317212
-
-#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/IbV6Exw_lJg.png",18. Filmbox Yeşilçam
-http://spy17.eu:80/ozkanshmx/06.02.22/317213
-
-#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/5iOIN31QJLY2.png",19. Filmbox 4K
-http://prf23.xyz:8080/ibrahimhiraozlu23/06042023BM/123907
-
-#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/mHe2nFW8AELR.png",20. Filmbox Horor
-http://prf23.xyz:8080/ibrahimhiraozlu23/06042023BM/83265
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/lka48jCVh.png",21. Filmbox Fantastic
 http://prf23.xyz:8080/ibrahimhiraozlu23/06042023BM/83267
@@ -78,35 +36,8 @@ https://a8.radyotelekom.com.tr:3513/hybrid/play.m3u8
 #EXTINF:-1 tvg-logo="https://r.resimlink.com/nJS2v.png",26. Netbox Gold
 http://prf23.xyz:8080/ibrahimhiraozlu23/06042023BM/83100
 
-#EXTINF:-1 tvg-logo="https://r.resimlink.com/2aDCBXsy7gh.png",27. Netbox Dram
-http://prf23.xyz:8080/ibrahimhiraozlu23/06042023BM/83099
-
-#EXTINF:-1 tvg-logo="https://r.resimlink.com/TEoc5.png",28. Nextbox Aksiyon
-http://prf23.xyz:8080/ibrahimhiraozlu23/06042023BM/83098
-
 #EXTINF:-1 tvg-logo="https://r.resimlink.com/ilO13.png",29. Nextbox Movie 1
 http://prf23.xyz:8080/ibrahimhiraozlu23/06042023BM/83097
-
-#EXTINF:-1 tvg-logo="https://r.resimlink.com/XrhdDuOlL.png",30. Nextbox Movie 2
-http://prf23.xyz:8080/ibrahimhiraozlu23/06042023BM/83096
-
-#EXTINF:-1 tvg-logo="https://r.resimlink.com/UY_XRiLD0W58.png",31. Nextbox Movie 3
-http://prf23.xyz:8080/ibrahimhiraozlu23/06042023BM/83095
-
-#EXTINF:-1 tvg-logo="https://r.resimlink.com/-zvgFJ5.png",32. Nextbox Movie 4
-http://prf23.xyz:8080/ibrahimhiraozlu23/06042023BM/83094
-
-#EXTINF:-1 tvg-logo="https://r.resimlink.com/-k2cwnt_eyP.png",33. Nextbox Movie 5
-http://prf23.xyz:8080/ibrahimhiraozlu23/06042023BM/83093
-
-#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/bf_AMIDUN.png",34. Max 4K
-http://prf23.xyz:8080/ibrahimhiraozlu23/06042023BM/115202
-
-#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/ji5qBazJwdy.png",35. Max Vizyon
-http://prf23.xyz:8080/ibrahimhiraozlu23/06042023BM/115209
-
-#EXTINF:-1 group-title="Yabancı" tvg-logo="https://r.resimlink.com/s5H0zP.png",36. Max Premier
-http://12k-service.com/play/live.php?mac=00:1a:79:5a:dc:83&stream=151784&extension=ts
 
 #EXTINF:-1 group-title="Yabancı" tvg-logo="https://r.resimlink.com/4n1Sz3ZuxgRh.png",37. Max Aksiyon
 http://12k-service.com/play/live.php?mac=00:1a:79:5a:dc:83&stream=151783&extension=ts
@@ -125,9 +56,6 @@ http://prf23.xyz:8080/ibrahimhiraozlu23/06042023BM/104703
 
 #EXTINF:-1 group-title="Ulusal Kanallar" tvg-logo="https://r.resimlink.com/rWaHC.png",42. Funmax Yeşilçam
 http://prf23.xyz:8080/ibrahimhiraozlu23/06042023BM/104690
-
-#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/5eC-wB.png",43. Fusion Sinema
-http://208.79.153.42/akamaissh101/ssh101/084952510aa/playlist.m3u8
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/I_JM4Vxkv9u.png",44. Fix Cimema Yerli
 http://prf23.xyz:8080/ibrahimhiraozlu23/06042023BM/104418
@@ -159,35 +87,8 @@ http://208.79.153.42/akamaissh101/ssh101/kral6/playlist.m3u8
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/Gi7JW6zOcsF9.png",53. Sinevizyon 1
 http://prf23.xyz:8080/ibrahimhiraozlu23/06042023BM/83251
 
-#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/iuoGZp.png",54. Sinevizyon 2
-http://prf23.xyz:8080/ibrahimhiraozlu23/06042023BM/83250
-
-#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/gyc-qDtr_20.png",55. Sineviyon 3
-http://prf23.xyz:8080/ibrahimhiraozlu23/06042023BM/83249
-
-#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/cBkFSM.png",56. Sinevizyon 4
-http://prf23.xyz:8080/ibrahimhiraozlu23/06042023BM/83248
-
-#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/-gECvWI.png",57. Sineviyon 5
-http://prf23.xyz:8080/ibrahimhiraozlu23/06042023BM/83247
-
-#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/gn4Fmh.png",58. Sinevizyon 6
-http://prf23.xyz:8080/ibrahimhiraozlu23/06042023BM/83246
-
-#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/EWB2Nl.png",59. Globalbox Action
-http://prf23.xyz:8080/ibrahimhiraozlu23/06042023BM/115125
-
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/WxA3o.png",60. Megabox Action
 http://prf23.xyz:8080/ibrahimhiraozlu23/06042023BM/115265
-
-#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/4jcEAWkVT2ne.png",61. KingBox Action
-http://prf23.xyz:8080/ibrahimhiraozlu23/06042023BM/992
-
-#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/K4iBl1qa.png",62. KingBox Prime
-http://prf23.xyz:8080/ibrahimhiraozlu23/06042023BM/993
-
-#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/gbuEdNcqI.png",63. KingBox Türk
-http://prf23.xyz:8080/ibrahimhiraozlu23/06042023BM/104394
 
 #EXTINF:-1 group-title="Yabancı" tvg-logo="https://r.resimlink.com/CwFxbTL.png",64. Byzbox Aksiyon 1
 http://ufosat.xyz:8080/P8TBMUHffV/VBUzFzSzj2Rq/152661
@@ -547,14 +448,4 @@ https://familyhls.persiana.live/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://r.resimlink.com/Hl9O5JKDd.jpg",596. Persina Science
 https://scihls.persiana.live/hls/stream.m3u8
 
-#EXTINF:-1 group-title="Spor" tvg-logo="https://r.resimlink.com/Z0xkALpKB1.png",777. Test
-https://beert7sqimrk0bfdupfgn6qew.medya.trt.com.tr/master.m3u8
 
-#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/yFMEPr98.png",778. Filmbox Yeşilçam 1
-http://prf23.xyz:8080/ibrahimhiraozlu23/06042023BM/83256
-
-#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/yFMEPr98.png",779. Filmbox Yeşilçam 2
-http://prf23.xyz:8080/ibrahimhiraozlu23/06042023BM/83258
-
-#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/yFMEPr98.png",780. Filmbox Yeşilçam 3
-http://prf23.xyz:8080/ibrahimhiraozlu23/06042023BM/83257
