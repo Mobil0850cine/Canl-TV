@@ -118,10 +118,10 @@ http://cdn18.yayin.com.tr/nowplay/video.m3u8
 https://kablosistem.vercel.app/index.m3u8?id=112
 
 #EXTINF:-1 group-title="Spor" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a8/BeIN_Sports_Haber.png",72. beIN Sports Haber
-http://ss.wancolonel.xyz:8080/Redear/gWFBhHX/285
+https://goldvod.org/tv/vavoo?id=3989995533d0efea1c8696
 
 #EXTINF:-1 group-title="Spor" tvg-logo="https://resmim.net/cdn/2025/09/05/jfLwjb.png",73. Tivibu Spor
-http://ss.wancolonel.xyz:8080/Redear/gWFBhHX/125109
+https://goldvod.org/tv/vavoo?id=36535158588fee46401238
 
 #EXTINF:-1 group-title="Spor" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c4/TRT_Spor_kurumsal_logo.png",74. TRT Spor
 https://tv-trtspor1.medya.trt.com.tr:443/master_1080.m3u8
@@ -450,6 +450,7 @@ https://familyhls.persiana.live/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://r.resimlink.com/Hl9O5JKDd.jpg",596. Persina Science
 https://scihls.persiana.live/hls/stream.m3u8
+
 
 
 
