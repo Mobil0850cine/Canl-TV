@@ -117,8 +117,8 @@ http://12k-service.com/play/live.php?mac=00:1a:79:5a:dc:83&stream=151791&extensi
 #EXTINF:-1 group-title="Ulusal Kanallar" tvg-logo="https://r.resimlink.com/0PBNKoXZ.png",39. Max Box
 http://185.53.90.98:8080/Rahmi527/mYUZxnJ585HG/20343
 
-#EXTINF:-1 group-title="Diğer" tvg-logo="https://r.resimlink.com/g6LEuG80.png",40. Funmax Vizyon
-http://prf23.xyz:8080/ibrahimhiraozlu23/06042023BM/104710
+#EXTINF:-1 tvg-logo="https://r.resimlink.com/qUWtwS.png",40. 4K Sinema
+http://185.53.90.98:8080/Rahmi527/mYUZxnJ585HG/102234
 
 #EXTINF:-1 group-title="Diğer" tvg-logo="https://r.resimlink.com/ykuwRiqh.png",41. Funmax Aksiyon
 http://prf23.xyz:8080/ibrahimhiraozlu23/06042023BM/104703
@@ -214,10 +214,10 @@ http://cdn18.yayin.com.tr/nowplay/video.m3u8
 https://kablosistem.vercel.app/index.m3u8?id=112
 
 #EXTINF:-1 group-title="Spor" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a8/BeIN_Sports_Haber.png",72. beIN Sports Haber
-http://ss.wancolonel.xyz:8080/Redear/gWFBhHX/285
+https://goldvod.org/tv/vavoo?id=3989995533d0efea1c8696
 
 #EXTINF:-1 group-title="Spor" tvg-logo="https://resmim.net/cdn/2025/09/05/jfLwjb.png",73. Tivibu Spor
-http://ss.wancolonel.xyz:8080/Redear/gWFBhHX/125109
+https://goldvod.org/tv/vavoo?id=36535158588fee46401238
 
 #EXTINF:-1 group-title="Spor" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c4/TRT_Spor_kurumsal_logo.png",74. TRT Spor
 https://tv-trtspor1.medya.trt.com.tr:443/master_1080.m3u8
@@ -368,9 +368,6 @@ http://136341.performservers.eu:80/hakanarslann/Ogzo2RdCkd/59396
 
 #EXTINF:-1 group-title="Diğer" tvg-logo="https://r.resimlink.com/_Az9IbZP.png",183. Unıversal Yeşilçam
 http://136341.performservers.eu:80/hakanarslann/Ogzo2RdCkd/64002
-
-#EXTINF:-1 tvg-logo="https://r.resimlink.com/qUWtwS.png",184. 4K Sinema
-http://185.53.90.98:8080/Rahmi527/mYUZxnJ585HG/102234
 
 #EXTINF:-1 tvg-logo="https://r.resimlink.com/27CIZ.png",185. Cinemax 1
 http://12k-service.com/play/live.php?mac=00:1a:79:5a:dc:83&stream=314939&extension=ts
@@ -580,6 +577,7 @@ http://spy17.eu:8080/live/ozkanshmx/06.02.22/316971.ts
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/HBImzqE9.jpg",791. Nova Sinema 6
 http://spy17.eu:8080/live/ozkanshmx/06.02.22/316972.ts
+
 
 
 
