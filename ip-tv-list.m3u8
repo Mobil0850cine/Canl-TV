@@ -552,17 +552,21 @@ http://spy17.eu:8080/live/ozkanshmx/06.02.22/316967.ts
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/sDgczvWpX0.png", 712. Nova Sinema 2
 http://spy17.eu:8080/live/ozkanshmx/06.02.22/316968.ts
 
-#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/KwU7yf8r.png", 713. Nova Sinema 4
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/VvxyAC_u5P.png",713,  Nova Sinema 3
+http://spy17.eu:8080/live/ozkanshmx/06.02.22/316969.ts
+
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/KwU7yf8r.png", 714. Nova Sinema 4
 http://spy17.eu:8080/live/ozkanshmx/06.02.22/316970.ts
 
-#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/zOsMaymNW7lr.jpg", 714. Nova Sinema 5
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/zOsMaymNW7lr.jpg", 715. Nova Sinema 5
 http://spy17.eu:8080/live/ozkanshmx/06.02.22/316971.ts
 
-#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/HBImzqE9.jpg",715. Nova Sinema 6
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/HBImzqE9.jpg",716. Nova Sinema 6
 http://spy17.eu:8080/live/ozkanshmx/06.02.22/316972.ts
 
-#EXTINF:-1 group-title="Film & Dizi" tvg-logo="http://spy17.eu:8080/live/ozkanshmx/06.02.22/316969.ts",716. FilmBox Aksiyon
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="http://spy17.eu:8080/live/ozkanshmx/06.02.22/316969.ts",717. FilmBox Aksiyon
 http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49322
+
 
 
 
