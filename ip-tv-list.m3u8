@@ -143,7 +143,7 @@ https://cdn-cine5.yayin.com.tr/cine5/cine5/chunklist_w1443635736.m3u8
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/JZMdgri5.png",48. Star Sinema 1
 http://208.79.153.42/akamaissh101/ssh101/teber_star1/playlist.m3u8
- 
+
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/QaKBhpbUXC6.png",49. Star Sinema 2
 http://208.79.153.42/akamaissh101/ssh101/teber_star2/playlist.m3u8
 
@@ -580,6 +580,7 @@ http://spy17.eu:8080/live/ozkanshmx/06.02.22/316971.ts
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/HBImzqE9.jpg",791. Nova Sinema 6
 http://spy17.eu:8080/live/ozkanshmx/06.02.22/316972.ts
+
 
 
 
