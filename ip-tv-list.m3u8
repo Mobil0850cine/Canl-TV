@@ -369,6 +369,9 @@ http://136341.performservers.eu:80/hakanarslann/Ogzo2RdCkd/59396
 #EXTINF:-1 group-title="Diğer" tvg-logo="https://r.resimlink.com/_Az9IbZP.png",183. Unıversal Yeşilçam
 http://136341.performservers.eu:80/hakanarslann/Ogzo2RdCkd/64002
 
+#EXTINF:-1 group-title="Diğer" tvg-logo="https://r.resimlink.com/_Az9IbZP.png",184. Arenabox Action
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49325
+
 #EXTINF:-1 tvg-logo="https://r.resimlink.com/27CIZ.png",185. Cinemax 1
 http://12k-service.com/play/live.php?mac=00:1a:79:5a:dc:83&stream=314939&extension=ts
 
@@ -577,6 +580,10 @@ http://spy17.eu:8080/live/ozkanshmx/06.02.22/316971.ts
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/HBImzqE9.jpg",791. Nova Sinema 6
 http://spy17.eu:8080/live/ozkanshmx/06.02.22/316972.ts
+
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="http://spy17.eu:8080/live/ozkanshmx/06.02.22/316969.ts",791. FilmBox Aksiyon
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49322
+
 
 
 
