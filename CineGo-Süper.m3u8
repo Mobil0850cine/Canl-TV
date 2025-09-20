@@ -78,8 +78,8 @@ http://208.79.153.42/akamaissh101/ssh101/teber_star1/playlist.m3u8
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/QaKBhpbUXC6.png",49. Star Sinema 2
 http://208.79.153.42/akamaissh101/ssh101/teber_star2/playlist.m3u8
 
-#EXTINF:-1 group-title="Spor" tvg-logo="https://r.resimlink.com/vJzts.png",50. İnter Star
-http://208.79.153.42/akamaissh101/ssh101/İNTER_STAR/playlist.m3u8
+#EXTINF:-1 group-title="Spor" tvg-logo="//r.resimlink.com/ynlxgEju.png",50. İnter Star
+http://208.79.153.42/akamaissh101/ssh101/INTER_STAR/playlist.m3u8
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/1JfgwmRS_qex.png",51. Hbb HD
 http://208.79.153.42/akamaissh101/ssh101/HBBTV/playlist.m3u8
@@ -450,6 +450,7 @@ https://familyhls.persiana.live/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://r.resimlink.com/Hl9O5JKDd.jpg",596. Persina Science
 https://scihls.persiana.live/hls/stream.m3u8
+
 
 
 
