@@ -336,6 +336,9 @@ http://cb286df8.rossteleccom.net/iptv/ZCWPCL9K3LR827/1082/index.m3u8
 #EXTINF:-1 group-title="Çocuk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Nick_Jr._logo_2009.svg/2560px-Nick_Jr._logo_2009.svg.png",413. Nick JR
 http://hottest.vip:80/play/live.php?mac=00:1A:79:1A:2D:A3&stream=913121&extension=ts
 
+#EXTINF:-1 group-title="Çocuk" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/9/98/Bebe_tv.jpg",414. Duck TV
+http://136341.performservers.eu:80/hakanarslann/Ogzo2RdCkd/234451
+
 #EXTINF:-1 group-title="Çocuk" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/b/b1/Babyfirst.png",416. Baby First
 http://cb286df8.rossteleccom.net/iptv/ZCWPCL9K3LR827/30012/index.m3u8
 
@@ -560,6 +563,7 @@ http://208.79.153.42/akamaissh101/ssh101/ysmtvmedya/chunks.m3u8
 
 #EXTINF:-1 tvg-id="3"tvg-logo="https://r.resimlink.com/1oKih76Ggqy.gif"group-title="TEBER_MEDYA",766. Gala TV
 http://208.79.153.42/akamaissh101/ssh101/gala_teber_tv/playlist.m3u8
+
 
 
 
