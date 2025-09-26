@@ -162,22 +162,25 @@ http://208.79.153.42/akamaissh101/ssh101/kral6/playlist.m3u8
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/1JfgwmRS_qex.png",57. Hbb HD
 http://208.79.153.42/akamaissh101/ssh101/HBBTV/playlist.m3u8
 
-#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/Gi7JW6zOcsF9.png",58. Sinevizyon 1
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/xEcAwof.png",58. Kanal 6
+http://208.79.153.42/akamaissh101/ssh101/KANAK_6_TV/playlist.m3u8
+
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/Gi7JW6zOcsF9.png",60. Sinevizyon 1
 http://prf23.xyz:8080/ibrahimhiraozlu23/06042023BM/83251
 
-#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/iuoGZp.png",59. Sinevizyon 2
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/iuoGZp.png",61. Sinevizyon 2
 http://prf23.xyz:8080/ibrahimhiraozlu23/06042023BM/83250
 
-#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/gyc-qDtr_20.png",60. Sineviyon 3
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/gyc-qDtr_20.png",62. Sineviyon 3
 http://prf23.xyz:8080/ibrahimhiraozlu23/06042023BM/83249
 
-#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/cBkFSM.png",61. Sinevizyon 4
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/cBkFSM.png",63. Sinevizyon 4
 http://prf23.xyz:8080/ibrahimhiraozlu23/06042023BM/83248
 
-#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/-gECvWI.png",62. Sineviyon 5
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/-gECvWI.png",64. Sineviyon 5
 http://prf23.xyz:8080/ibrahimhiraozlu23/06042023BM/83247
 
-#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/gn4Fmh.png",63. Sinevizyon 6
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/gn4Fmh.png",65. Sinevizyon 6
 http://prf23.xyz:8080/ibrahimhiraozlu23/06042023BM/83246
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/4jcEAWkVT2ne.png",66. KingBox Action
@@ -536,6 +539,7 @@ http://185.53.90.98:8080/Rahmi527/mYUZxnJ585HG/20343
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/I_JM4Vxkv9u.png",767. Fix Cimema Yerli
 http://prf23.xyz:8080/ibrahimhiraozlu23/06042023BM/104418
+
 
 
 
