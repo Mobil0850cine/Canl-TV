@@ -18,6 +18,9 @@ https://box.cinemax6.com:3732/stream/play.m3u8
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/0IOYSkl8f2z.png",10. Novamax Türk
 https://novamax.cinemax6.com:3760/stream/play.m3u8
 
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/KDQxX.png",16. TV Platformları
+http://208.79.153.42/akamaissh101/ssh101/TV_PLATFORMLARI_TV/playlist.m3u8
+
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/UFmCy.png",17. Dizimax
 http://208.79.153.42/akamaissh101/ssh101/DİZİ_MAX_TV/playlist.m3u8
 
@@ -460,6 +463,7 @@ http://136341.performservers.eu:80/hakanarslann/Ogzo2RdCkd/13739
 
 #EXTINF:-1 group-title="Diğer" tvg-logo="https://r.resimlink.com/9mxfjRbv_X7.png",753. Unıversal Vizyon
 http://136341.performservers.eu:80/hakanarslann/Ogzo2RdCkd/222407
+
 
 
 
