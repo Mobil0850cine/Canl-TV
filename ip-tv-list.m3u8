@@ -177,12 +177,6 @@ http://prf23.xyz:8080/ibrahimhiraozlu23/06042023BM/83247
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/gn4Fmh.png",63. Sinevizyon 6
 http://prf23.xyz:8080/ibrahimhiraozlu23/06042023BM/83246
 
-#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/kE4ySBF.png", 64. Nova Sinema 1
-http://spy17.eu:8080/live/ozkanshmx/06.02.22/316967.ts
-
-#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/IZYDR.png", 65. Nova Sinema 2
-http://spy17.eu:8080/live/ozkanshmx/06.02.22/316968.ts
-
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/4jcEAWkVT2ne.png",66. KingBox Action
 http://prf23.xyz:8080/ibrahimhiraozlu23/06042023BM/992
 
@@ -489,18 +483,6 @@ http://12k-service.com/play/live.php?mac=00:1a:79:5a:dc:83&stream=314936&extensi
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/SoUzr0P.png",710. Living Cinemax 5
 http://12k-service.com/play/live.php?mac=00:1a:79:5a:dc:83&stream=314934&extension=ts
 
-#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/VvxyAC_u5P.png",712,  Nova Sinema 3
-http://spy17.eu:8080/live/ozkanshmx/06.02.22/316969.ts
-
-#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/KwU7yf8r.png", 713. Nova Sinema 4
-http://spy17.eu:8080/live/ozkanshmx/06.02.22/316970.ts
-
-#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/zOsMaymNW7lr.jpg", 714. Nova Sinema 5
-http://spy17.eu:8080/live/ozkanshmx/06.02.22/316971.ts
-
-#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/HBImzqE9.jpg",715. Nova Sinema 6
-http://spy17.eu:8080/live/ozkanshmx/06.02.22/316972.ts
-
 #EXTINF:-1 group-title="Diğer" tvg-logo="https://r.resimlink.com/Y4gAE-Vpc6.png",750. Play Cinema
 https://a8.radyotelekom.com.tr:3899/stream/play.m3u8
 
@@ -551,6 +533,7 @@ http://185.53.90.98:8080/Rahmi527/mYUZxnJ585HG/20343
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/I_JM4Vxkv9u.png",767. Fix Cimema Yerli
 http://prf23.xyz:8080/ibrahimhiraozlu23/06042023BM/104418
+
 
 
 
