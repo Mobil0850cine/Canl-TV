@@ -4,7 +4,7 @@
 https://cine6tv2.cine6tv.com.tr:3614/stream/play.m3u8
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/LeJmvbatdBx.png",2. Cine Premier
-https://cinemax6.cinemax6.com:3118/stream/play.m3u8
+https://box6.cinemax6.com:3118/stream/play.m3u8
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/dxFRW6y-i.png",3. Cine 6 Aksiyon
 https://box.cinemax6.com:3020/stream/play.m3u8
@@ -536,6 +536,7 @@ http://185.53.90.98:8080/Rahmi527/mYUZxnJ585HG/20343
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/I_JM4Vxkv9u.png",767. Fix Cimema Yerli
 http://prf23.xyz:8080/ibrahimhiraozlu23/06042023BM/104418
+
 
 
 
