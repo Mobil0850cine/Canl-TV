@@ -4,7 +4,7 @@
 https://cine6tv2.cine6tv.com.tr:3614/stream/play.m3u8
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/spMbd.png",2. Cine Premier
-https://box6.cinemax6.com:3118/stream/play.m3u8
+https://cinemax6.cinemax6.com:3118/live/eminlive.m3u8
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/9wVDq0ILpHRS.png",5. Novamax Premier
 https://tv191.radyotelekom.com.tr:3006/stream/play.m3u8
@@ -463,6 +463,7 @@ http://136341.performservers.eu:80/hakanarslann/Ogzo2RdCkd/13739
 
 #EXTINF:-1 group-title="Diğer" tvg-logo="https://r.resimlink.com/9mxfjRbv_X7.png",753. Unıversal Vizyon
 http://136341.performservers.eu:80/hakanarslann/Ogzo2RdCkd/222407
+
 
 
 
