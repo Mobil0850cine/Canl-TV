@@ -220,7 +220,7 @@ https://tv.mobyservice.ru/IdmanTV/index.m3u8
 https://origin1.noisypeak.com/srt_listener_test11/track_3_1100/playlist.m3u8
 
 #EXTINF:-1 group-title="Spor" tvg-logo="https://pbs.twimg.com/profile_images/1884171440934563840/8PAU1gpT_200x200.jpg",84. Ekol Sports
-https://kablosistem.vercel.app/index.m3u8?id=112
+http://136341.performservers.eu:80/hakanarslann/Ogzo2RdCkd/314140
 
 #EXTINF:-1 group-title="Spor" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a8/BeIN_Sports_Haber.png",85. beIN Sports Haber
 https://goldvod.org/tv/vavoo?id=3989995533d0efea1c8696
@@ -262,10 +262,10 @@ http://db3a91d9.ucomist.net/iptv/77TCWXB27W5ZWMLMR4CHKWAX/19201/index.m3u8
 http://db3a91d9.ucomist.net/iptv/77TCWXB27W5ZWMLMR4CHKWAX/19202/index.m3u8
 
 #EXTINF:-1 group-title="Spor" tvg-logo="https://cdn.comedy.co.uk/images/channels/tnt_sports_1.jpg",99. TNT Spor
-http://cb286df8.rossteleccom.net/iptv/ZCWPCL9K3LR827/6566/index.m3u8
+http://136341.performservers.eu:80/hakanarslann/Ogzo2RdCkd/234366
 
 #EXTINF:-1 group-title="Spor" tvg-logo="https://img01.products.bt.co.uk/content/dam/bt/portal/images/logos/tnt/TNTSports2_Logo_TNTBlack_RGB.png",100. TNT Spor 2
-http://cb286df8.rossteleccom.net/iptv/ZCWPCL9K3LR827/2506/index.m3u8
+http://136341.performservers.eu:80/hakanarslann/Ogzo2RdCkd/234365
 
 #EXTINF:-1 group-title="Spor" tvg-logo="https://r.resimlink.com/4mf0hVJHjwzs.jpg",101. Solh Sports
 https://solhtvhls.wns.live/hls/stream.m3u8
@@ -282,11 +282,11 @@ https://amg00090-blueantmedia-naturetime-samsungfr-yakbf.amagi.tv/playlist/amg00
 #EXTINF:-1 group-title="Belgesel & Yaşam" tvg-logo="https://r.resimlink.com/NhyZ7X2H.png",116. Cine Belgesel
 http://208.79.153.42/akamaissh101/ssh101/CINE7_SAFARİ/playlist.m3u8
 
-#EXTINF:-1 group-title="Belgesel & Yaşam" tvg-logo="https://r.resimlink.com/ChNQv_L.png",118. Anımaux HD
-https://goldvod.org/tv/vavoo?id=2103702130b5451883e2a7
+#EXTINF:-1 group-title="Belgesel & Yaşam" tvg-logo="https://r.resimlink.com/ChNQv_L.png",118. Universal Belgesel
+http://136341.performservers.eu:80/hakanarslann/Ogzo2RdCkd/97172
 
 #EXTINF:-1 group-title="Belgesel & Yaşam" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/54/Animal_Planet_logo_%28black_and_green_with_TM%29.png",120. Animal Planet
-http://cb286df8.rossteleccom.net/iptv/ZCWPCL9K3LR827/31284/index.m3u8
+http://136341.performservers.eu:80/hakanarslann/Ogzo2RdCkd/230492
 
 #EXTINF:0 user-agent="Firefox" tvg-id="VIASAT EXPLORE" tvg-name="TR: VIASAT EXPLORER" tvg-logo="https://logo.multicms.info/tvlogo/viasatexplore.png" group-title="TR-BELGESEL",TR: 139. Viasat Explore
 http://136341.performservers.eu:80/hakanarslann/Ogzo2RdCkd/234449
@@ -539,6 +539,7 @@ http://185.53.90.98:8080/Rahmi527/mYUZxnJ585HG/20343
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/I_JM4Vxkv9u.png",767. Fix Cimema Yerli
 http://prf23.xyz:8080/ibrahimhiraozlu23/06042023BM/104418
+
 
 
 
