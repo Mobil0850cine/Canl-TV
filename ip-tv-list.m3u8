@@ -39,7 +39,7 @@ https://box.cinemax6.com:3720/stream/play.m3u8
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/_IwJ65r91.png",13. Sinevizyon Adrenalin
 http://208.79.153.42/akamaissh101/ssh101/SİNE_VİZYON_TV/playlist.m3u8
 
-#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/_IwJ65r91.png",14. Sinevizyon Premıum
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/4WlMdKLIfvF.png",14. Sinevizyon Premıum
 https://box.cinemax6.com:3111/stream/play.m3u8
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/KDQxX.png",19. TV Platformları
@@ -542,6 +542,7 @@ http://185.53.90.98:8080/Rahmi527/mYUZxnJ585HG/20343
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/I_JM4Vxkv9u.png",767. Fix Cimema Yerli
 http://prf23.xyz:8080/ibrahimhiraozlu23/06042023BM/104418
+
 
 
 
