@@ -42,8 +42,8 @@ https://mediaserver1.castpin.com/hls/filbox/1_2/index.m3u8
 #EXTINF:-1 group-title="Yabancı" tvg-logo="https://r.resimlink.com/EROuUDAL.png",31. Now Movies Horror
 https://a8.radyotelekom.com.tr:3881/hybrid/play.m3u8
 
-#EXTINF:-1 group-title="Yabancı" tvg-logo="https://r.resimlink.com/i1HloAbZV.png",32. Now Movies Scı-fi
-https://a8.radyotelekom.com.tr:3513/hybrid/play.m3u8
+#EXTINF:-1 group-title="Yabancı" tvg-logo="https://r.resimlink.com/i1HloAbZV.png",32. Now Movies Universal
+https://a8.radyotelekom.com.tr:3978/hybrid/play.m3u8
 
 #EXTINF:-1 tvg-logo="https://r.resimlink.com/nJS2v.png",33. Netbox Gold
 http://prf23.xyz:8080/ibrahimhiraozlu23/06042023BM/83100
@@ -466,6 +466,7 @@ http://136341.performservers.eu:80/hakanarslann/Ogzo2RdCkd/13739
 
 #EXTINF:-1 group-title="Diğer" tvg-logo="https://r.resimlink.com/9mxfjRbv_X7.png",753. Unıversal Vizyon
 http://136341.performservers.eu:80/hakanarslann/Ogzo2RdCkd/222407
+
 
 
 
