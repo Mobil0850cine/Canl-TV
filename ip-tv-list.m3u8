@@ -16,7 +16,7 @@ https://box.cinemax6.com:3843/stream/play.m3u8
 https://tv191.radyotelekom.com.tr:3006/stream/play.m3u8
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/zK1R83.png",6. Novamax Actıon
-https://box.cinemax6.com:3680/stream/play.m3u8
+https://box.cinemax6.com:3183/stream/play.m3u8
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/ufTUrVw7_N.png",7. Novamax Drama 
 https://spor.cine6tv.com.tr:3860/stream/play.m3u8
@@ -545,6 +545,7 @@ http://185.53.90.98:8080/Rahmi527/mYUZxnJ585HG/20343
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/I_JM4Vxkv9u.png",767. Fix Cimema Yerli
 http://prf23.xyz:8080/ibrahimhiraozlu23/06042023BM/104418
+
 
 
 
