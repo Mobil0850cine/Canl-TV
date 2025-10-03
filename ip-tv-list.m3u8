@@ -546,8 +546,12 @@ http://185.53.90.98:8080/Rahmi527/mYUZxnJ585HG/20343
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/I_JM4Vxkv9u.png",767. Fix Cimema Yerli
 http://prf23.xyz:8080/ibrahimhiraozlu23/06042023BM/104418
 
-#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/uCbgwpcKs.png",768. Fix Cimema Yerli
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/uCbgwpcKs.png",768. D+ Player
 http://208.79.153.42/akamaissh101/ssh101/canavarplayer/playlist.m3u8
+
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/uCbgwpcKs.png",769. Cinemax
+http://vipdeluxetv.trbluetv.xyz:2095/hmd1114/cn.0705/181756
+
 
 
 
