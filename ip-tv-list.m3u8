@@ -150,11 +150,11 @@ http://208.79.153.42/akamaissh101/ssh101/star2/playlist.m3u8
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/ynlxgEju.png",53. İnter Star
 http://208.79.153.42/akamaissh101/ssh101/star3/playlist.m3u8
 
-#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/L5vszd.png",54. Cine 5
-https://cdn-cine5.yayin.com.tr/cine5/cine5/chunklist_w1443635736.m3u8
-
-#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/NSUJdok5.png",55. Star 5 Türk 
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/NSUJdok5.png",54. Star 5 Türk 
 http://208.79.153.42/akamaissh101/ssh101/star5/playlist.m3u8
+
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/L5vszd.png",55. Cine 5
+https://cdn-cine5.yayin.com.tr/cine5/cine5/chunklist_w1443635736.m3u8
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/V5p4oI6bUa9.png",56. Kral 6
 http://208.79.153.42/akamaissh101/ssh101/star6/playlist.m3u8
@@ -538,13 +538,14 @@ http://185.53.90.98:8080/Rahmi527/mYUZxnJ585HG/188107
 http://185.53.90.98:8080/Rahmi527/mYUZxnJ585HG/195052
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/9NO6M.png",765. Sinema HD
-http://208.79.153.42/akamaissh101/ssh101/ysmtvmedya/chunks.m3u8
+http://cdn4.yayin.com.tr/yansimasinematv/video.m3u8
 
 #EXTINF:-1 group-title="Ulusal Kanallar" tvg-logo="https://r.resimlink.com/0PBNKoXZ.png",766. Max Box
 http://185.53.90.98:8080/Rahmi527/mYUZxnJ585HG/20343
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/I_JM4Vxkv9u.png",767. Fix Cimema Yerli
 http://prf23.xyz:8080/ibrahimhiraozlu23/06042023BM/104418
+
 
 
 
