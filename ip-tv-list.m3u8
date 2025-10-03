@@ -90,38 +90,38 @@ http://prf23.xyz:8080/ibrahimhiraozlu23/06042023BM/83268
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/_fozi2.png",33. Fil TV
 https://mediaserver1.castpin.com/hls/filbox/1_2/index.m3u8
 
-#EXTINF:-1 group-title="Yabancı" tvg-logo="https://r.resimlink.com/EROuUDAL.png",34. Now Movies Horror
-https://a8.radyotelekom.com.tr:3881/hybrid/play.m3u8
-
-#EXTINF:-1 group-title="Yabancı" tvg-logo="https://r.resimlink.com/i1HloAbZV.png",35. Now Movies Universal
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/VwF6n0pY.png",33. Now Movies Action
 https://a8.radyotelekom.com.tr:3978/hybrid/play.m3u8
 
-#EXTINF:-1 tvg-logo="https://r.resimlink.com/nJS2v.png",36. Netbox Gold
+#EXTINF:-1 group-title="Yabancı" tvg-logo="https://r.resimlink.com/EROuUDAL.png",35. Now Movies Horror
+https://a8.radyotelekom.com.tr:3881/hybrid/play.m3u8
+
+#EXTINF:-1 group-title="Yabancı" tvg-logo="https://r.resimlink.com/i1HloAbZV.png",36. Now Movies Universal
+https://a8.radyotelekom.com.tr:3978/hybrid/play.m3u8
+
+#EXTINF:-1 tvg-logo="https://r.resimlink.com/nJS2v.png",37. Netbox Gold
 http://prf23.xyz:8080/ibrahimhiraozlu23/06042023BM/83100
 
-#EXTINF:-1 tvg-logo="https://r.resimlink.com/2aDCBXsy7gh.png",37. Netbox Dram
+#EXTINF:-1 tvg-logo="https://r.resimlink.com/2aDCBXsy7gh.png",38. Netbox Dram
 http://prf23.xyz:8080/ibrahimhiraozlu23/06042023BM/83099
 
-#EXTINF:-1 tvg-logo="https://r.resimlink.com/TEoc5.png",38. Nextbox Aksiyon
+#EXTINF:-1 tvg-logo="https://r.resimlink.com/TEoc5.png",39. Nextbox Aksiyon
 http://prf23.xyz:8080/ibrahimhiraozlu23/06042023BM/83098
 
-#EXTINF:-1 tvg-logo="https://r.resimlink.com/ilO13.png",39. Nextbox Movie 1
+#EXTINF:-1 tvg-logo="https://r.resimlink.com/ilO13.png",40. Nextbox Movie 1
 http://prf23.xyz:8080/ibrahimhiraozlu23/06042023BM/83097
 
-#EXTINF:-1 tvg-logo="https://r.resimlink.com/XrhdDuOlL.png",40. Nextbox Movie 2
+#EXTINF:-1 tvg-logo="https://r.resimlink.com/XrhdDuOlL.png",41. Nextbox Movie 2
 http://prf23.xyz:8080/ibrahimhiraozlu23/06042023BM/83096
 
-#EXTINF:-1 tvg-logo="https://r.resimlink.com/UY_XRiLD0W58.png",41. Nextbox Movie 3
+#EXTINF:-1 tvg-logo="https://r.resimlink.com/UY_XRiLD0W58.png",42. Nextbox Movie 3
 http://prf23.xyz:8080/ibrahimhiraozlu23/06042023BM/83095
 
-#EXTINF:-1 tvg-logo="https://r.resimlink.com/-zvgFJ5.png",42. Nextbox Movie 4
+#EXTINF:-1 tvg-logo="https://r.resimlink.com/-zvgFJ5.png",43. Nextbox Movie 4
 http://prf23.xyz:8080/ibrahimhiraozlu23/06042023BM/83094
 
-#EXTINF:-1 tvg-logo="https://r.resimlink.com/-k2cwnt_eyP.png",43. Nextbox Movie 5
+#EXTINF:-1 tvg-logo="https://r.resimlink.com/-k2cwnt_eyP.png",44. Nextbox Movie 5
 http://prf23.xyz:8080/ibrahimhiraozlu23/06042023BM/83093
-
-#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/ji5qBazJwdy.png",44. Max Vizyon
-http://prf23.xyz:8080/ibrahimhiraozlu23/06042023BM/115209
 
 #EXTINF:-1 group-title="Yabancı" tvg-logo="https://r.resimlink.com/s5H0zP.png",45. Max Premier
 http://12k-service.com/play/live.php?mac=00:1a:79:5a:dc:83&stream=151784&extension=ts
@@ -142,28 +142,28 @@ http://185.53.90.98:8080/Rahmi527/mYUZxnJ585HG/102234
 http://208.79.153.42/akamaissh101/ssh101/TEBER_10/playlist.m3u8
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/JZMdgri5.png",51. Star Sinema 1
-http://208.79.153.42/akamaissh101/ssh101/teber_star1/playlist.m3u8
+http://208.79.153.42/akamaissh101/ssh101/star1/playlist.m3u8
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/QaKBhpbUXC6.png",52. Star Sinema 2
-http://208.79.153.42/akamaissh101/ssh101/teber_star2/playlist.m3u8
+http://208.79.153.42/akamaissh101/ssh101/star2/playlist.m3u8
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/ynlxgEju.png",53. İnter Star
-http://208.79.153.42/akamaissh101/ssh101/INTER_STAR/playlist.m3u8
+http://208.79.153.42/akamaissh101/ssh101/star3/playlist.m3u8
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/L5vszd.png",54. Cine 5
 https://cdn-cine5.yayin.com.tr/cine5/cine5/chunklist_w1443635736.m3u8
 
-#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/NSUJdok5.png",55. Cine 5 Türk 
-http://208.79.153.42/akamaissh101/ssh101/CINE5_TÜRK_TV/playlist.m3u8
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/NSUJdok5.png",55. Star 5 Türk 
+http://208.79.153.42/akamaissh101/ssh101/star5/playlist.m3u8
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/V5p4oI6bUa9.png",56. Kral 6
-http://208.79.153.42/akamaissh101/ssh101/kral6/playlist.m3u8
+http://208.79.153.42/akamaissh101/ssh101/star6/playlist.m3u8
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/1JfgwmRS_qex.png",57. Hbb HD
-http://208.79.153.42/akamaissh101/ssh101/HBBTV/playlist.m3u8
+http://208.79.153.42/akamaissh101/ssh101/hbb_star8/playlist.m3u8
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/xEcAwof.png",58. Kanal 6
-http://208.79.153.42/akamaissh101/ssh101/KANAL_6_TV/playlist.m3u8
+http://208.79.153.42/akamaissh101/ssh101/084952510aa/playlist.m3u8
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/Gi7JW6zOcsF9.png",60. Sinevizyon 1
 http://prf23.xyz:8080/ibrahimhiraozlu23/06042023BM/83251
@@ -286,7 +286,7 @@ https://sp1564435593.mytvchain.info/live/sp1564435593/index.m3u8
 https://amg00090-blueantmedia-naturetime-samsungfr-yakbf.amagi.tv/playlist/amg00090-blueantmedia-naturetime-samsungfr/playlist.m3u8
 
 #EXTINF:-1 group-title="Belgesel & Yaşam" tvg-logo="https://r.resimlink.com/NhyZ7X2H.png",116. Cine Belgesel
-http://208.79.153.42/akamaissh101/ssh101/CINE7_SAFARİ/playlist.m3u8
+http://208.79.153.42/akamaissh101/ssh101/star7/playlist.m3u8
 
 #EXTINF:-1 group-title="Belgesel & Yaşam" tvg-logo="https://r.resimlink.com/ChNQv_L.png",118. Universal Belgesel
 http://136341.performservers.eu:80/hakanarslann/Ogzo2RdCkd/97172
@@ -545,6 +545,7 @@ http://185.53.90.98:8080/Rahmi527/mYUZxnJ585HG/20343
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/I_JM4Vxkv9u.png",767. Fix Cimema Yerli
 http://prf23.xyz:8080/ibrahimhiraozlu23/06042023BM/104418
+
 
 
 
