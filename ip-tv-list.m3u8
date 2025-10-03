@@ -90,7 +90,7 @@ http://prf23.xyz:8080/ibrahimhiraozlu23/06042023BM/83268
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/_fozi2.png",33. Fil TV
 https://mediaserver1.castpin.com/hls/filbox/1_2/index.m3u8
 
-#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/VwF6n0pY.png",33. Now Movies Action
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/VwF6n0pY.png",34. Now Movies Action
 https://a8.radyotelekom.com.tr:3978/hybrid/play.m3u8
 
 #EXTINF:-1 group-title="Yabancı" tvg-logo="https://r.resimlink.com/EROuUDAL.png",35. Now Movies Horror
@@ -545,6 +545,7 @@ http://185.53.90.98:8080/Rahmi527/mYUZxnJ585HG/20343
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/I_JM4Vxkv9u.png",767. Fix Cimema Yerli
 http://prf23.xyz:8080/ibrahimhiraozlu23/06042023BM/104418
+
 
 
 
