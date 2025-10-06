@@ -198,9 +198,6 @@ http://prf23.xyz:8080/ibrahimhiraozlu23/06042023BM/993
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/gbuEdNcqI.png",70. KingBox Türk
 http://prf23.xyz:8080/ibrahimhiraozlu23/06042023BM/104394
 
-#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/Xs1ObiVve6.png",71. Fusion TV
-http://208.79.153.42/akamaissh101/ssh101/084952510aa/playlist.m3u8
-
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://lh6.googleusercontent.com/proxy/VLrnOczCmI56ZLJhcK_FAt8spuSkmuR2cJgDNxWGfh48ZYca48uomRA2ONcnNnYRl8B5DNaWYZIz",73. Cine 1
 https://live.artidijitalmedya.com/artidijital_cine1/cine1/playlist.m3u8
 
@@ -399,9 +396,6 @@ http://ufosat.xyz:8080/P8TBMUHffV/VBUzFzSzj2Rq/152681
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/uCbgwpcKs.png",196. Cinemax
 http://vipdeluxetv.trbluetv.xyz:2095/hmd1114/cn.0705/181756
 
-#EXTINF:-1 group-title="Çocuk" tvg-logo="https://r.resimlink.com/lGQO4konX.png",413. Fusion Çocuk
-http://208.79.153.42/akamaissh101/ssh101/084952510aaa/playlist.m3u8
-
 #EXTINF:-1 group-title="Çocuk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Nick_Jr._logo_2009.svg/2560px-Nick_Jr._logo_2009.svg.png",414. Nick JR
 http://hottest.vip:80/play/live.php?mac=00:1A:79:1A:2D:A3&stream=913121&extension=ts
 
@@ -524,6 +518,7 @@ https://familyhls.persiana.live/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://r.resimlink.com/Hl9O5JKDd.jpg",596. Persina Science
 https://scihls.persiana.live/hls/stream.m3u8
+
 
 
 
