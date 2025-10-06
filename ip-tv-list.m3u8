@@ -45,10 +45,13 @@ https://box.cinemax6.com:3111/stream/play.m3u8
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/AeaB0LITPS.png",18. Sinevizyon Yerli
 https://box.cinemax6.com:3592/stream/play.m3u8
 
-#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/KDQxX.png",19. TV Platformları
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/-V4H5TFB.png",18. Sinevizyon Nostalji
+http://208.79.153.42/akamaissh101/ssh101/SİNE_NOSTALJİ_TV/playlist.m3u8
+
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/KDQxX.png",20. TV Platformları
 http://208.79.153.42/akamaissh101/ssh101/TV_PLATFORMLARI_TV/playlist.m3u8
 
-#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/UFmCy.png",20. Dizimax
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/UFmCy.png",21. Dizimax
 http://208.79.153.42/akamaissh101/ssh101/DİZİ_MAX_TV/playlist.m3u8
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/5iOIN31QJLY2.png",24. Filmbox 4K
@@ -524,6 +527,7 @@ https://familyhls.persiana.live/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://r.resimlink.com/Hl9O5JKDd.jpg",596. Persina Science
 https://scihls.persiana.live/hls/stream.m3u8
+
 
 
 
