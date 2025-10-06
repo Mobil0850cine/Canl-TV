@@ -97,7 +97,7 @@ https://a8.radyotelekom.com.tr:3881/hybrid/play.m3u8
 http://208.79.153.42/akamaissh101/ssh101/hbb_star8/playlist.m3u8
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/zUKjeS.png",40. Teleon HD
-http://208.79.153.42/akamaissh101/ssh101/TEBER_10/playlist.m3u8
+http://208.79.153.42/akamaissh101/ssh101/teber_on/playlist.m3u8   
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/JZMdgri5.png",41. Star Sinema 1
 http://208.79.153.42/akamaissh101/ssh101/star1/playlist.m3u8
@@ -108,7 +108,7 @@ http://208.79.153.42/akamaissh101/ssh101/star2/playlist.m3u8
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/ynlxgEju.png",43. İnter Star
 http://208.79.153.42/akamaissh101/ssh101/star3/playlist.m3u8
 
-#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/NSUJdok5.png",44. Star 5 Türk 
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/WZbC9x6f4u_7.png",44. Star 5 Türk 
 http://208.79.153.42/akamaissh101/ssh101/star5/playlist.m3u8
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/L5vszd.png",45. Cine 5
@@ -524,6 +524,7 @@ https://familyhls.persiana.live/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://r.resimlink.com/Hl9O5JKDd.jpg",596. Persina Science
 https://scihls.persiana.live/hls/stream.m3u8
+
 
 
 
