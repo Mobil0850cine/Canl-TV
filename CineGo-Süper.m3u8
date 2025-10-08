@@ -73,7 +73,7 @@ https://cdn-cine5.yayin.com.tr/cine5/cine5/chunklist_w1443635736.m3u8
 http://208.79.153.42/akamaissh101/ssh101/star6/playlist.m3u8
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/OYwrdHT2cn.png",48. Kanal 6
-http://208.79.153.42/akamaissh101/ssh101/KANAL_6_TV/playlist.m3u8
+http://208.79.153.42/akamaissh101/ssh101/ALT_6_TV/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://r.resimlink.com/nJS2v.png",49. Netbox Gold
 http://prf23.xyz:8080/ibrahimhiraozlu23/06042023BM/83100
@@ -371,6 +371,7 @@ https://familyhls.persiana.live/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://r.resimlink.com/Hl9O5JKDd.jpg",596. Persina Science
 https://scihls.persiana.live/hls/stream.m3u8
+
 
 
 
