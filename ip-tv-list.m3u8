@@ -37,7 +37,7 @@ https://novamax.cinemax6.com:3760/stream/play.m3u8
 https://box.cinemax6.com:3720/stream/play.m3u8
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/_IwJ65r91.png",14. Sinevizyon Adrenalin
-http://208.79.153.42/akamaissh101/ssh101/SİNE_A_TV/playlist.m3u8
+http://208.79.153.42/akamaissh101/ssh101/ADRENALİN_TV/playlist.m3u8
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/4WlMdKLIfvF.png",15. Sinevizyon Premıum
 https://box7.cinemax6.com:3111/stream/play.m3u8
@@ -46,10 +46,10 @@ https://box7.cinemax6.com:3111/stream/play.m3u8
 https://box.cinemax6.com:3592/stream/play.m3u8
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/-V4H5TFB.png",19. Sinevizyon Nostalji
-http://208.79.153.42/akamaissh101/ssh101/SİNE_N_TV/playlist.m3u8
+http://208.79.153.42/akamaissh101/ssh101/NOSTALJİ_TV/playlist.m3u8
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/KDQxX.png",20. TV Platformları
-http://208.79.153.42/akamaissh101/ssh101/TV_TVP_TV/playlist.m3u8
+http://208.79.153.42/akamaissh101/ssh101/PLT_TV/playlist.m3u8
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/UFmCy.png",21. Dizimax
 http://208.79.153.42/akamaissh101/ssh101/TV_SERİES_TV/playlist.m3u8
@@ -126,7 +126,7 @@ https://cdn-cine5.yayin.com.tr/cine5/cine5/chunklist_w1443635736.m3u8
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/V5p4oI6bUa9.png",47. Kral 6
 http://208.79.153.42/akamaissh101/ssh101/star6/playlist.m3u8
 
-#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/OYwrdHT2cn.png",48. Kanal 6
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/OYwrdHT2cn.png",48. Medya 6
 http://208.79.153.42/akamaissh101/ssh101/KANAL_6_TV/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://r.resimlink.com/nJS2v.png",49. Netbox Gold
@@ -521,6 +521,7 @@ https://familyhls.persiana.live/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://r.resimlink.com/Hl9O5JKDd.jpg",596. Persina Science
 https://scihls.persiana.live/hls/stream.m3u8
+
 
 
 
