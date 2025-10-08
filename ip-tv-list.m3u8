@@ -10,7 +10,7 @@ https://cinemax6.cinemax6.com:3118/stream/play.m3u8
 https://box2.cinemax6.com:3020/stream/play.m3u8
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/M_qj5-K.png",5. Cine 6 Türk
-https://box.cinemax6.com:3843/stream/play.m3u8
+https://box9.cinemax6.com:3843/stream/play.m3u8
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/9wVDq0ILpHRS.png",6. Novamax Premier
 https://tv191.radyotelekom.com.tr:3006/stream/play.m3u8
@@ -40,7 +40,7 @@ https://box.cinemax6.com:3720/stream/play.m3u8
 http://208.79.153.42/akamaissh101/ssh101/SİNE_A_TV/playlist.m3u8
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/4WlMdKLIfvF.png",15. Sinevizyon Premıum
-https://box.cinemax6.com:3111/stream/play.m3u8
+https://box7.cinemax6.com:3111/stream/play.m3u8
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/AeaB0LITPS.png",18. Sinevizyon Yerli
 https://box.cinemax6.com:3592/stream/play.m3u8
@@ -49,7 +49,7 @@ https://box.cinemax6.com:3592/stream/play.m3u8
 http://208.79.153.42/akamaissh101/ssh101/SİNE_N_TV/playlist.m3u8
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/KDQxX.png",20. TV Platformları
-http://208.79.153.42/akamaissh101/ssh101/TV_PLATFORMLARI_TV/playlist.m3u8
+http://208.79.153.42/akamaissh101/ssh101/TV_TVP_TV/playlist.m3u8
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/UFmCy.png",21. Dizimax
 http://208.79.153.42/akamaissh101/ssh101/DİZİ_MAX_TV/playlist.m3u8
@@ -518,6 +518,7 @@ https://familyhls.persiana.live/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://r.resimlink.com/Hl9O5JKDd.jpg",596. Persina Science
 https://scihls.persiana.live/hls/stream.m3u8
+
 
 
 
