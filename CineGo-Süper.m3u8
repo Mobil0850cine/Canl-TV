@@ -171,6 +171,9 @@ https://amg00090-blueantmedia-naturetime-samsungfr-yakbf.amagi.tv/playlist/amg00
 #EXTINF:-1 group-title="Belgesel & Yaşam" tvg-logo="https://r.resimlink.com/NhyZ7X2H.png",116. Cine Belgesel
 http://208.79.153.42/akamaissh101/ssh101/star7/playlist.m3u8
 
+#EXTINF:-1 group-title="Belgesel & Yaşam" tvg-logo="https://r.resimlink.com/Pfmp1e.png",117. Living Belgesel
+http://12k-service.com/play/live.php?mac=00:1a:79:5a:dc:83&stream=314482&extension=ts
+
 #EXTINF:-1 group-title="Belgesel & Yaşam" tvg-logo="https://r.resimlink.com/ChNQv_L.png",118. Universal Belgesel
 http://136341.performservers.eu:80/hakanarslann/Ogzo2RdCkd/97172
 
@@ -368,6 +371,7 @@ https://familyhls.persiana.live/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://r.resimlink.com/Hl9O5JKDd.jpg",596. Persina Science
 https://scihls.persiana.live/hls/stream.m3u8
+
 
 
 
