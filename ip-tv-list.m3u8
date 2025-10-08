@@ -52,7 +52,7 @@ http://208.79.153.42/akamaissh101/ssh101/SİNE_N_TV/playlist.m3u8
 http://208.79.153.42/akamaissh101/ssh101/TV_TVP_TV/playlist.m3u8
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/UFmCy.png",21. Dizimax
-http://208.79.153.42/akamaissh101/ssh101/DİZİ_MAX_TV/playlist.m3u8
+http://208.79.153.42/akamaissh101/ssh101/TV_SERİES_TV/playlist.m3u8
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/5iOIN31QJLY2.png",24. Filmbox 4K
 http://prf23.xyz:8080/ibrahimhiraozlu23/06042023BM/123907
@@ -521,6 +521,7 @@ https://familyhls.persiana.live/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://r.resimlink.com/Hl9O5JKDd.jpg",596. Persina Science
 https://scihls.persiana.live/hls/stream.m3u8
+
 
 
 
