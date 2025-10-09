@@ -375,28 +375,13 @@ http://136341.performservers.eu:80/hakanarslann/Ogzo2RdCkd/64002
 #EXTINF:-1 group-title="Diğer" tvg-logo="https://r.resimlink.com/_Az9IbZP.png",186. Arenabox Action
 http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49325
 
-#EXTINF:-1 group-title="Ulusal Kanallar" tvg-logo="https://r.resimlink.com/1hBOYRL4fnq.png",188. Movie Max
-http://185.53.90.98:8080/Rahmi527/mYUZxnJ585HG/188107
-
-#EXTINF:-1 group-title="Ulusal Kanallar" tvg-logo="https://r.resimlink.com/1hBOYRL4fnq.png",189. Max Yerli
-http://185.53.90.98:8080/Rahmi527/mYUZxnJ585HG/195052
-
-#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/9NO6M.png",190. Sinema HD
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/9NO6M.png",187. Sinema HD
 http://cdn4.yayin.com.tr/yansimasinematv/video.m3u8
 
-#EXTINF:-1 group-title="Ulusal Kanallar" tvg-logo="https://r.resimlink.com/0PBNKoXZ.png",191. Max Box
-http://185.53.90.98:8080/Rahmi527/mYUZxnJ585HG/20343
-
-#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/I_JM4Vxkv9u.png",192. Fix Cimema Yerli
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/I_JM4Vxkv9u.png",188. Fix Cimema Yerli
 http://prf23.xyz:8080/ibrahimhiraozlu23/06042023BM/104418
 
-#EXTINF:-1 group-title="Yabancı" tvg-logo="https://r.resimlink.com/CwFxbTL.png",193. Byzbox Aksiyon 1
-http://ufosat.xyz:8080/P8TBMUHffV/VBUzFzSzj2Rq/152661
-
-#EXTINF:-1 group-title="Yabancı" tvg-logo="https://r.resimlink.com/CQ8UbMGomP9.png",194. Byzbox Drama 1
-http://ufosat.xyz:8080/P8TBMUHffV/VBUzFzSzj2Rq/152681
-
-#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/uCbgwpcKs.png",196. Cinemax
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/uCbgwpcKs.png",189. Cinemax
 http://vipdeluxetv.trbluetv.xyz:2095/hmd1114/cn.0705/181756
 
 #EXTINF:-1 group-title="Çocuk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Nick_Jr._logo_2009.svg/2560px-Nick_Jr._logo_2009.svg.png",414. Nick JR
@@ -521,6 +506,7 @@ https://familyhls.persiana.live/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://r.resimlink.com/Hl9O5JKDd.jpg",596. Persina Science
 https://scihls.persiana.live/hls/stream.m3u8
+
 
 
 
