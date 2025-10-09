@@ -111,14 +111,11 @@ http://208.79.153.42/akamaissh101/ssh101/star1/playlist.m3u8
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/QaKBhpbUXC6.png",42. Star Sinema 2
 http://208.79.153.42/akamaissh101/ssh101/star2/playlist.m3u8
 
-#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/ynlxgEju.png",43. İnter Star
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/ynlxgEju.png",43. Star Sinema 3
 http://208.79.153.42/akamaissh101/ssh101/star3/playlist.m3u8
 
 #EXTINF:-1 group-title="Yabancı" tvg-logo="https://r.resimlink.com/s0jStOAvrNL.png",44. Star 4 Ehlibeyt
 http://208.79.153.42/akamaissh101/ssh101/star4/playlist.m3u8
-
-#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/WZbC9x6f4u_7.png",45. Star 5 Türk 
-http://208.79.153.42/akamaissh101/ssh101/star5/playlist.m3u8
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/L5vszd.png",46. Cine 5
 https://cdn-cine5.yayin.com.tr/cine5/cine5/chunklist_w1443635736.m3u8
@@ -384,8 +381,8 @@ http://prf23.xyz:8080/ibrahimhiraozlu23/06042023BM/104418
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/uCbgwpcKs.png",189. Cinemax
 http://vipdeluxetv.trbluetv.xyz:2095/hmd1114/cn.0705/181756
 
-#EXTINF:-1 group-title="Çocuk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Nick_Jr._logo_2009.svg/2560px-Nick_Jr._logo_2009.svg.png",414. Nick JR
-http://hottest.vip:80/play/live.php?mac=00:1A:79:1A:2D:A3&stream=913121&extension=ts
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/WZbC9x6f4u_7.png",414. Star Maxi 
+http://208.79.153.42/akamaissh101/ssh101/star5/playlist.m3u8
 
 #EXTINF:-1 group-title="Çocuk" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/9/98/Bebe_tv.jpg",415. Duck TV
 http://136341.performservers.eu:80/hakanarslann/Ogzo2RdCkd/234451
@@ -506,6 +503,7 @@ https://familyhls.persiana.live/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://r.resimlink.com/Hl9O5JKDd.jpg",596. Persina Science
 https://scihls.persiana.live/hls/stream.m3u8
+
 
 
 
