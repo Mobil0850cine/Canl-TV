@@ -37,7 +37,7 @@ https://novamax.cinemax6.com:3760/stream/play.m3u8
 https://box.cinemax6.com:3720/stream/play.m3u8
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/_IwJ65r91.png",14. Sinevizyon Adrenalin
-http://208.79.153.42/akamaissh101/ssh101/ADRENALİN_TV/playlist.m3u8
+http://208.79.153.42/akamaissh101/ssh101/adrn/playlist.m3u8
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/4WlMdKLIfvF.png",15. Sinevizyon Premıum
 https://box7.cinemax6.com:3111/stream/play.m3u8
@@ -479,6 +479,7 @@ https://familyhls.persiana.live/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://r.resimlink.com/Hl9O5JKDd.jpg",596. Persina Science
 https://scihls.persiana.live/hls/stream.m3u8
+
 
 
 
