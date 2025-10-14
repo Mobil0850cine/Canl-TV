@@ -54,6 +54,9 @@ http://208.79.153.42/akamaissh101/ssh101/PLT_TV/playlist.m3u8
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://resmim.net/cdn/2025/10/13/jRPtqR.png",20. Cine Club 
 http://208.79.153.42/akamaissh101/ssh101/starstv/playlist.m3u8
 
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/zqK7Q8BCtGa.png",21. Cine Club 2
+http://208.79.153.42/akamaissh101/ssh101/cineclub2/playlist.m3u8
+
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/fFgNtdXYJnL7.png",23. Nova Series
 http://208.79.153.42/akamaissh101/ssh101/SERİES_TV/playlist.m3u8
 
@@ -255,12 +258,6 @@ http://74214be9.edemist.com/iptv/WUX6STDKBG73GKNYAF5U3KMF/7333/index.m3u8
 #EXTINF:-1 group-title="Spor" tvg-logo="https://epg.pw/media/images/epg/2024/11/28/20241128022430237756_40.png",96. Arena Sport 6
 http://74214be9.edemist.com/iptv/WUX6STDKBG73GKNYAF5U3KMF/7334/index.m3u8
 
-#EXTINF:-1 group-title="Spor" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png",97. ESPN 1
-http://db3a91d9.ucomist.net/iptv/77TCWXB27W5ZWMLMR4CHKWAX/19201/index.m3u8
-
-#EXTINF:-1 group-title="Spor" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/2560px-ESPN2_logo.svg.png",98. ESPN 2
-http://db3a91d9.ucomist.net/iptv/77TCWXB27W5ZWMLMR4CHKWAX/19202/index.m3u8
-
 #EXTINF:-1 group-title="Spor" tvg-logo="https://cdn.comedy.co.uk/images/channels/tnt_sports_1.jpg",99. TNT Spor
 http://136341.performservers.eu:80/hakanarslann/Ogzo2RdCkd/234366
 
@@ -281,9 +278,6 @@ http://208.79.153.42/akamaissh101/ssh101/TBRT9/playlist.m3u8
 
 #EXTINF:-1 group-title="Belgesel & Yaşam" tvg-logo="https://r.resimlink.com/Pfmp1e.png",117. Living Belgesel
 http://12k-service.com/play/live.php?mac=00:1a:79:5a:dc:83&stream=314482&extension=ts
-
-#EXTINF:-1 group-title="Belgesel & Yaşam" tvg-logo="https://r.resimlink.com/ChNQv_L.png",118. Universal Belgesel
-http://136341.performservers.eu:80/hakanarslann/Ogzo2RdCkd/97172
 
 #EXTINF:-1 group-title="Belgesel & Yaşam" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/54/Animal_Planet_logo_%28black_and_green_with_TM%29.png",120. Animal Planet
 http://136341.performservers.eu:80/hakanarslann/Ogzo2RdCkd/230492
@@ -357,17 +351,11 @@ http://12k-service.com/play/live.php?mac=00:1a:79:5a:dc:83&stream=314940&extensi
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/JhZ4a.png",180. Play Sinema
 https://ip100.radyotelekomtv.com:3784/stream/play.m3u8
 
-#EXTINF:-1 group-title="Diğer" tvg-logo="https://r.resimlink.com/_Az9IbZP.png",186. Arenabox Action
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49325
-
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/9NO6M.png",187. Sinema HD
 http://cdn4.yayin.com.tr/yansimasinematv/video.m3u8
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/I_JM4Vxkv9u.png",188. Fix Cimema Yerli
 http://prf23.xyz:8080/ibrahimhiraozlu23/06042023BM/104418
-
-#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/uCbgwpcKs.png",189. Cinemax
-http://vipdeluxetv.trbluetv.xyz:2095/hmd1114/cn.0705/181756
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/WZbC9x6f4u_7.png",414. TBRT Çocuk 
 http://208.79.153.42/akamaissh101/ssh101/TBRT8/playlist.m3u8
@@ -491,6 +479,7 @@ https://familyhls.persiana.live/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://r.resimlink.com/Hl9O5JKDd.jpg",596. Persina Science
 https://scihls.persiana.live/hls/stream.m3u8
+
 
 
 
