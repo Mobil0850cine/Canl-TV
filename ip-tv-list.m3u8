@@ -54,9 +54,6 @@ http://208.79.153.42/akamaissh101/ssh101/PLT_TV/playlist.m3u8
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://resmim.net/cdn/2025/10/13/jRPtqR.png",20. Cine Club 
 http://208.79.153.42/akamaissh101/ssh101/starstv/playlist.m3u8
 
-EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/fsi4MTu3yF6.png",21. Cine Club 2
-http://208.79.153.42/akamaissh101/ssh101/cineclub2/playlist.m3u8
-
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/fFgNtdXYJnL7.png",23. Nova Series
 http://208.79.153.42/akamaissh101/ssh101/SERİES_TV/playlist.m3u8
 
@@ -494,6 +491,7 @@ https://familyhls.persiana.live/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://r.resimlink.com/Hl9O5JKDd.jpg",596. Persina Science
 https://scihls.persiana.live/hls/stream.m3u8
+
 
 
 
