@@ -435,14 +435,8 @@ http://74214be9.edemist.com/iptv/WUX6STDKBG73GKNYAF5U3KMF/7005/index.m3u8
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/18/HBO3_gradient.PNG",572. HBO 3
 http://74214be9.edemist.com/iptv/WUX6STDKBG73GKNYAF5U3KMF/7013/index.m3u8
 
-#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://cdn.broadbandtvnews.com/wp-content/uploads/2023/12/07100555/wedotv_PLATFORM_LOGO-BLACK-TYPW.png",576. Movies HD
-http://cb286df8.rossteleccom.net/iptv/ZCWPCL9K3LR827/31437/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://r.resimlink.com/oCm24hIejP.png",585. FX Movies
 https://fxtvhls.wns.live/hls/stream.m3u8
-
-#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/FX_Comedy_Logo_2023.svg/2405px-FX_Comedy_Logo_2023.svg.png",586. FX Comedy
-http://cb286df8.rossteleccom.net/iptv/ZCWPCL9K3LR827/6107/index.m3u8
 
 #EXTINF:-1 group-title="Yabancı" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Rai_1_HD_Logo.svg/2560px-Rai_1_HD_Logo.svg.png",587. Rai 1
 https://ilglobotv-live.akamaized.net/channels/RAI1/events(1000)/RAI1-video=5000000.m3u8
@@ -491,6 +485,7 @@ http://filmboxtv.xyz:8080/Test/RY6skQ7HeALB/76
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/wPW39.png",7. Fil TV
 http://filmboxtv.xyz:8080/Test/RY6skQ7HeALB/69
+
 
 
 
