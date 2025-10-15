@@ -96,14 +96,8 @@ http://prf23.xyz:8080/ibrahimhiraozlu23/06042023BM/83263
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/la5uyk1nI0FN.png",35. Filmbox Scı-Fi
 http://prf23.xyz:8080/ibrahimhiraozlu23/06042023BM/83268
 
-#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/VwF6n0pY.png",36. Now Movies Action
-https://a8.radyotelekom.com.tr:3978/hybrid/play.m3u8
-
 #EXTINF:-1 group-title="Yabancı" tvg-logo="https://r.resimlink.com/EROuUDAL.png",37. Now Movies Horror
 https://a8.radyotelekom.com.tr:3881/hybrid/play.m3u8
-
-#EXTINF:-1 group-title="Yabancı" tvg-logo="https://r.resimlink.com/Vm3ArGh.png",38. Fil TV
-https://mediaserver1.castpin.com/hls/filbox/1_2/index.m3u8
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/zUKjeS.png",40. TBRT ON
 http://208.79.153.42/akamaissh101/ssh101/TBRT_ON/playlist.m3u8  
@@ -485,6 +479,7 @@ http://filmboxtv.xyz:8080/Test/RY6skQ7HeALB/76
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/wPW39.png",7. Fil TV
 http://filmboxtv.xyz:8080/Test/RY6skQ7HeALB/69
+
 
 
 
