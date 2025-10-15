@@ -258,12 +258,6 @@ http://74214be9.edemist.com/iptv/WUX6STDKBG73GKNYAF5U3KMF/7333/index.m3u8
 #EXTINF:-1 group-title="Spor" tvg-logo="https://epg.pw/media/images/epg/2024/11/28/20241128022430237756_40.png",96. Arena Sport 6
 http://74214be9.edemist.com/iptv/WUX6STDKBG73GKNYAF5U3KMF/7334/index.m3u8
 
-#EXTINF:-1 group-title="Spor" tvg-logo="https://cdn.comedy.co.uk/images/channels/tnt_sports_1.jpg",99. TNT Spor
-http://136341.performservers.eu:80/hakanarslann/Ogzo2RdCkd/234366
-
-#EXTINF:-1 group-title="Spor" tvg-logo="https://img01.products.bt.co.uk/content/dam/bt/portal/images/logos/tnt/TNTSports2_Logo_TNTBlack_RGB.png",100. TNT Spor 2
-http://136341.performservers.eu:80/hakanarslann/Ogzo2RdCkd/234365
-
 #EXTINF:-1 group-title="Spor" tvg-logo="https://r.resimlink.com/4mf0hVJHjwzs.jpg",101. Solh Sports
 https://solhtvhls.wns.live/hls/stream.m3u8
 
@@ -359,9 +353,6 @@ http://prf23.xyz:8080/ibrahimhiraozlu23/06042023BM/104418
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/WZbC9x6f4u_7.png",414. TBRT Çocuk 
 http://208.79.153.42/akamaissh101/ssh101/TBRT8/playlist.m3u8
-
-#EXTINF:-1 group-title="Çocuk" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/9/98/Bebe_tv.jpg",415. Duck TV
-http://136341.performservers.eu:80/hakanarslann/Ogzo2RdCkd/234451
 
 #EXTINF:-1 group-title="Çocuk" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/2/2b/Spacetoon_logo.png?20250618011617",426. Spacetoon
 http://vip.qruzetv.site:8080/play/live.php?mac=00:2A:01:90:E8:FA&stream=594812&extension=m3u8
@@ -486,7 +477,7 @@ http://filmboxtv.xyz:8080/Test/RY6skQ7HeALB/71
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/Sd9GCtKn5_i8.png",2. Filmclup Aksiyon
 http://filmboxtv.xyz:8080/Test/RY6skQ7HeALB/72
 
-#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/DQ5FbGyUXn.png",3. Filmclup Komedi
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/9ozqwc-.png",3. Filmclup Komedi
 http://filmboxtv.xyz:8080/Test/RY6skQ7HeALB/74
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/6wrZV3KT4n07.png",4. Filmclup Family
@@ -500,6 +491,7 @@ http://filmboxtv.xyz:8080/Test/RY6skQ7HeALB/76
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/wPW39.png",7. Fil TV
 http://filmboxtv.xyz:8080/Test/RY6skQ7HeALB/69
+
 
 
 
