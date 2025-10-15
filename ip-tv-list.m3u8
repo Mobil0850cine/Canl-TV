@@ -36,13 +36,13 @@ https://novamax.cinemax6.com:3760/stream/play.m3u8
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/0KURiX.png",13. Novamax Yeşilçam
 https://box.cinemax6.com:3720/stream/play.m3u8
 
-#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/_IwJ65r91.png",14. Sinevizyon Adrenalin
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/_IwJ65r91.png",14. Sine Adrenalin
 http://208.79.153.42/akamaissh101/ssh101/adrn/playlist.m3u8
 
-#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/4WlMdKLIfvF.png",15. Sinevizyon Premıum
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/4WlMdKLIfvF.png",15. Sine Premıum
 https://box7.cinemax6.com:3111/stream/play.m3u8
 
-#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/AeaB0LITPS.png",16. Sinevizyon Yerli
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/AeaB0LITPS.png",16. Sine Yerli
 https://box.cinemax6.com:3592/stream/play.m3u8
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/OCQzjIkS_Emd.png",17. Max 6
@@ -479,6 +479,7 @@ http://filmboxtv.xyz:8080/Test/RY6skQ7HeALB/76
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/wPW39.png",7. Fil TV
 http://filmboxtv.xyz:8080/Test/RY6skQ7HeALB/69
+
 
 
 
