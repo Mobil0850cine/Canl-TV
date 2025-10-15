@@ -283,7 +283,7 @@ http://12k-service.com/play/live.php?mac=00:1a:79:5a:dc:83&stream=314482&extensi
 http://136341.performservers.eu:80/hakanarslann/Ogzo2RdCkd/230492
 
 #EXTINF:0 user-agent="Firefox" tvg-id="VIASAT EXPLORE" tvg-name="TR: VIASAT EXPLORER" tvg-logo="https://logo.multicms.info/tvlogo/viasatexplore.png" group-title="TR-BELGESEL",TR: 139. Viasat Explore
-http://136341.performservers.eu:80/hakanarslann/Ogzo2RdCkd/234449
+http://filmboxtv.xyz:8080/Test/RY6skQ7HeALB/113
 
 #EXTINF:-1 group-title="Belgesel & Yaşam" tvg-logo="https://static.12core.net/media/content/stream/c69f95b1-ad0f-4e90-93bb-236dfcde3d9c/00e3797e1bbd2dd719239a849d42b546",144. Travel 4K
 https://streams2.sofast.tv/sofastplayout/33c31ac4-51fa-46ae-afd0-0d1fe5e60a80_0_HLS/bitrate2.m3u8
@@ -479,6 +479,28 @@ https://familyhls.persiana.live/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://r.resimlink.com/Hl9O5JKDd.jpg",596. Persina Science
 https://scihls.persiana.live/hls/stream.m3u8
+
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/-GIevgXu2.png",1. Filmclup
+http://filmboxtv.xyz:8080/Test/RY6skQ7HeALB/71
+
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/Sd9GCtKn5_i8.png",2. Filmclup Aksiyon
+http://filmboxtv.xyz:8080/Test/RY6skQ7HeALB/72
+
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/DQ5FbGyUXn.png",3. Filmclup Komedi
+http://filmboxtv.xyz:8080/Test/RY6skQ7HeALB/74
+
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/6wrZV3KT4n07.png",4. Filmclup Family
+http://filmboxtv.xyz:8080/Test/RY6skQ7HeALB/73
+
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/r1OHgjyea5.png",5. Filmax
+http://filmboxtv.xyz:8080/Test/RY6skQ7HeALB/70
+
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/sWLZhE.png",6. Filodi
+http://filmboxtv.xyz:8080/Test/RY6skQ7HeALB/76
+
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/wPW39.png",7. Fil TV
+http://filmboxtv.xyz:8080/Test/RY6skQ7HeALB/69
+
 
 
 
