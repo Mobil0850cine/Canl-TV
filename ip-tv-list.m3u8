@@ -246,14 +246,11 @@ http://74214be9.edemist.com/iptv/WUX6STDKBG73GKNYAF5U3KMF/7333/index.m3u8
 #EXTINF:-1 group-title="Spor" tvg-logo="https://epg.pw/media/images/epg/2024/11/28/20241128022430237756_40.png",96. Arena Sport 6
 http://74214be9.edemist.com/iptv/WUX6STDKBG73GKNYAF5U3KMF/7334/index.m3u8
 
-#EXTINF:-1 group-title="Spor" tvg-logo="https://r.resimlink.com/4mf0hVJHjwzs.jpg",101. Solh Sports
+#EXTINF:-1 group-title="Spor" tvg-logo="https://r.resimlink.com/4mf0hVJHjwzs.jpg",97. Solh Sports
 https://solhtvhls.wns.live/hls/stream.m3u8
 
 #EXTINF:-1 group-title="Spor" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/TraceSSLogo.png/1200px-TraceSSLogo.png",107. Trace Sports
 https://trace-sportstars-samsungnz.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 group-title="Belgesel & Yaşam" tvg-logo="https://naturetimetv.com/wp-content/uploads/2023/09/NatureTime_Primary-Logo.png",115. Nature Time
-https://amg00090-blueantmedia-naturetime-samsungfr-yakbf.amagi.tv/playlist/amg00090-blueantmedia-naturetime-samsungfr/playlist.m3u8
 
 #EXTINF:-1 group-title="Belgesel & Yaşam" tvg-logo="https://r.resimlink.com/NhyZ7X2H.png",116. Cine Belgesel
 http://208.79.153.42/akamaissh101/ssh101/TBRT9/playlist.m3u8
@@ -261,17 +258,14 @@ http://208.79.153.42/akamaissh101/ssh101/TBRT9/playlist.m3u8
 #EXTINF:-1 group-title="Belgesel & Yaşam" tvg-logo="https://r.resimlink.com/Pfmp1e.png",117. Living Belgesel
 http://12k-service.com/play/live.php?mac=00:1a:79:5a:dc:83&stream=314482&extension=ts
 
-#EXTINF:-1 group-title="Belgesel & Yaşam" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/54/Animal_Planet_logo_%28black_and_green_with_TM%29.png",120. Animal Planet
-http://136341.performservers.eu:80/hakanarslann/Ogzo2RdCkd/230492
-
-#EXTINF:0 user-agent="Firefox" tvg-id="VIASAT EXPLORE" tvg-name="TR: VIASAT EXPLORER" tvg-logo="https://logo.multicms.info/tvlogo/viasatexplore.png" group-title="TR-BELGESEL",TR: 139. Viasat Explore
+#EXTINF:0 user-agent="Firefox" tvg-id="VIASAT EXPLORE" tvg-name="TR: VIASAT EXPLORER" tvg-logo="https://logo.multicms.info/tvlogo/viasatexplore.png" group-title="TR-BELGESEL",TR: 118. Viasat Explore
 http://filmboxtv.xyz:8080/Test/RY6skQ7HeALB/113
+
+#EXTINF:-1 group-title="Belgesel & Yaşam" tvg-logo="https://naturetimetv.com/wp-content/uploads/2023/09/NatureTime_Primary-Logo.png",143. Nature Time
+https://amg00090-blueantmedia-naturetime-samsungfr-yakbf.amagi.tv/playlist/amg00090-blueantmedia-naturetime-samsungfr/playlist.m3u8
 
 #EXTINF:-1 group-title="Belgesel & Yaşam" tvg-logo="https://static.12core.net/media/content/stream/c69f95b1-ad0f-4e90-93bb-236dfcde3d9c/00e3797e1bbd2dd719239a849d42b546",144. Travel 4K
 https://streams2.sofast.tv/sofastplayout/33c31ac4-51fa-46ae-afd0-0d1fe5e60a80_0_HLS/bitrate2.m3u8
-
-#EXTINF:-1 group-title="Belgesel & Yaşam" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/3/38/Yabantv_logo.png?20150615101642",147. Yaban TV
-http://ss.wancolonel.xyz:8080/Redear/gWFBhHX/484
 
 #EXTINF:-1 group-title="Belgesel & Yaşam" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/TRT_Belgesel_logo_%282019-%29.svg/2560px-TRT_Belgesel_logo_%282019-%29.svg.png",148. TRT Belgesel
 https://tv-trtbelgesel.medya.trt.com.tr/master.m3u8
@@ -518,6 +512,7 @@ http://filmboxtv.xyz:8080/Test/RY6skQ7HeALB/38
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/IbV6Exw_lJg.png",31. Filmbox Yeşilçam
 http://filmboxtv.xyz:8080/Test/RY6skQ7HeALB/37
+
 
 
 
