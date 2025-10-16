@@ -93,25 +93,25 @@ http://prf23.xyz:8080/ibrahimhiraozlu23/06042023BM/83268
 #EXTINF:-1 group-title="Yabancı" tvg-logo="https://r.resimlink.com/EROuUDAL.png",37. Now Movies Horror
 https://a8.radyotelekom.com.tr:3881/hybrid/play.m3u8
 
-#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/zUKjeS.png",40. TBRT ON
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/ytRuG.gif",40. Zirve ON
 http://208.79.153.42/akamaissh101/ssh101/TBRT_ON/playlist.m3u8  
 
-#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/RpvseN.png",41. TBRT Sinema 1
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/VHzsFj.gif",41. Zirve Sinema 1
 http://208.79.153.42/akamaissh101/ssh101/TBRT1/playlist.m3u8
 
-#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/0SYLzCd.png",42. TBRT Sinema 2
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/7L1UY.gif",42. Zirve Sinema 2
 http://208.79.153.42/akamaissh101/ssh101/TBRT2/playlist.m3u8
 
-#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/XuH2Dh_y.png",43. TBRT Sinema 3
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/xqAVgOl.gif",43. Zirve Sinema 3
 http://208.79.153.42/akamaissh101/ssh101/TBRT3/playlist.m3u8
 
-#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/bNOupIzwPQ8.png",44. TBRT Sinema 4
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/RDIhV.gif",44. Zirve Sinema 4
 http://208.79.153.42/akamaissh101/ssh101/TBRT4/playlist.m3u8
 
-#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/yKkzaFjq84u.png",45. TBRT Sinema 5
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/_suvPz.gif",45. Zirve Sinema 5
 http://208.79.153.42/akamaissh101/ssh101/TBRT5/playlist.m3u8
 
-#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/V5p4oI6bUa9.png",46. TBRT 6
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/T3fg2XGW.gif",46. Zirve Sinema 6
 http://208.79.153.42/akamaissh101/ssh101/TBRT6/playlist.m3u8
 
 #EXTINF:-1 group-title="Yabancı" tvg-logo="https://r.resimlink.com/2njJqkwxl.png",47. TBRT 7 Ehlibeyt
@@ -333,7 +333,7 @@ http://cdn4.yayin.com.tr/yansimasinematv/video.m3u8
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/I_JM4Vxkv9u.png",188. Fix Cimema Yerli
 http://prf23.xyz:8080/ibrahimhiraozlu23/06042023BM/104418
 
-#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/WZbC9x6f4u_7.png",414. TBRT Çocuk 
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/OyDeaCiUYuJ.gif",414. Zirve Çocuk 
 http://208.79.153.42/akamaissh101/ssh101/TBRT8/playlist.m3u8
 
 #EXTINF:-1 group-title="Çocuk" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/2/2b/Spacetoon_logo.png?20250618011617",426. Spacetoon
@@ -512,6 +512,7 @@ http://filmboxtv.xyz:8080/Test/RY6skQ7HeALB/38
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/IbV6Exw_lJg.png",31. Filmbox Yeşilçam
 http://filmboxtv.xyz:8080/Test/RY6skQ7HeALB/37
+
 
 
 
