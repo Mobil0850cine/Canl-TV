@@ -42,28 +42,25 @@ http://prf23.xyz:8080/ibrahimhiraozlu23/06042023BM/83263
 #EXTINF:-1 group-title="Yabancı" tvg-logo="https://r.resimlink.com/EROuUDAL.png",37. Now Movies Horror
 https://a8.radyotelekom.com.tr:3881/hybrid/play.m3u8
 
-#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/ytRuG.gif",40. Zirve ON
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/CDoQZrgA.gif",40. Net ON
 http://208.79.153.42/akamaissh101/ssh101/TBRT_ON/playlist.m3u8  
 
-#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/VHzsFj.gif",41. Zirve Sinema 1
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/5WyT1b.gif",41. Net Sinema 1
 http://208.79.153.42/akamaissh101/ssh101/TBRT1/playlist.m3u8
 
-#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/7L1UY.gif",42. Zirve Sinema 2
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/x6BDV875RZbS.gif",42. Net Sinema 2
 http://208.79.153.42/akamaissh101/ssh101/TBRT2/playlist.m3u8
 
-#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/xqAVgOl.gif",43. Zirve Sinema 3
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/p0ChOvay.gif",43. Zirve Sinema 3
 http://208.79.153.42/akamaissh101/ssh101/TBRT3/playlist.m3u8
 
-#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/RDIhV.gif",44. Zirve Sinema 4
-http://208.79.153.42/akamaissh101/ssh101/TBRT4/playlist.m3u8
-
-#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/_suvPz.gif",45. Zirve Sinema 5
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/XZRwc.gif",45. Net Sinema 5
 http://208.79.153.42/akamaissh101/ssh101/TBRT5/playlist.m3u8
 
-#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/T3fg2XGW.gif",46. Zirve Sinema 6
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/BziHLKEOP7.gif",46. Net Sinema 6
 http://208.79.153.42/akamaissh101/ssh101/TBRT6/playlist.m3u8
 
-#EXTINF:-1 group-title="Yabancı" tvg-logo="https://r.resimlink.com/2njJqkwxl.png",47. TBRT 7 Ehlibeyt
+#EXTINF:-1 group-title="Yabancı" tvg-logo="https://r.resimlink.com/nlHUFkDaAcG.gif",47. Net 7 Ehlibeyt
 http://208.79.153.42/akamaissh101/ssh101/TBRT7/playlist.m3u8
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/L5vszd.png",48. Cine 5
@@ -201,7 +198,7 @@ https://solhtvhls.wns.live/hls/stream.m3u8
 #EXTINF:-1 group-title="Spor" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/TraceSSLogo.png/1200px-TraceSSLogo.png",107. Trace Sports
 https://trace-sportstars-samsungnz.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 group-title="Belgesel & Yaşam" tvg-logo="https://r.resimlink.com/NhyZ7X2H.png",116. Cine Belgesel
+#EXTINF:-1 group-title="Belgesel & Yaşam" tvg-logo="https://r.resimlink.com/q4dDuZiY.gif",116. Net Belgesel
 http://208.79.153.42/akamaissh101/ssh101/TBRT9/playlist.m3u8
 
 #EXTINF:-1 group-title="Belgesel & Yaşam" tvg-logo="https://r.resimlink.com/Pfmp1e.png",117. Living Belgesel
@@ -282,7 +279,7 @@ http://cdn4.yayin.com.tr/yansimasinematv/video.m3u8
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/I_JM4Vxkv9u.png",188. Fix Cimema Yerli
 http://prf23.xyz:8080/ibrahimhiraozlu23/06042023BM/104418
 
-#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/WZbC9x6f4u_7.png",414. Zirve Çocuk 
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/n5kj4NHLup9S.gif",414. Net Çocuk 
 http://208.79.153.42/akamaissh101/ssh101/TBRT8/playlist.m3u8
 
 #EXTINF:-1 group-title="Çocuk" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/2/2b/Spacetoon_logo.png?20250618011617",426. Spacetoon
@@ -309,8 +306,8 @@ https://cdn-4turkpop.yayin.com.tr/4turkpop/4turkpop/playlist.m3u8
 #EXTINF:-1 group-title="Müzik" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/thumb/9/9f/Kral_Pop_logosu.png/250px-Kral_Pop_logosu.png",442. Kral Pop
 https://dogus-live.daioncdn.net/kralpoptv/kralpoptv_720p.m3u8
 
-#EXTINF:-1 group-title="Müzik" tvg-logo="https://r.resimlink.com/-iUglbvzr.png",Star Müzik
-http://208.79.153.42/akamaissh101/ssh101/star9/playlist.m3u8
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/nIiqY.gif",44. Net Müzik 4
+http://208.79.153.42/akamaissh101/ssh101/TBRT4/playlist.m3u8
 
 #EXTINF:-1 group-title="Müzik" tvg-logo="https://pbs.twimg.com/profile_images/1225330672853602307/IhN3v0s7_400x400.jpg",444. NR 1
 https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e187770143.smil/playlist.m3u8
@@ -419,6 +416,7 @@ http://filmboxtv.xyz:8080/Test/RY6skQ7HeALB/25
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/IbV6Exw_lJg.png",31. Filmbox Yeşilçam
 http://filmboxtv.xyz:8080/Test/RY6skQ7HeALB/37
+
 
 
 
