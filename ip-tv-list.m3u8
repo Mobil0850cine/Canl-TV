@@ -10,7 +10,7 @@ https://cinemax6.cinemax6.com:3118/stream/play.m3u8
 https://box9.cinemax6.com:3020/stream/play.m3u8
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/l6uHwn.png",4. Cine 6 Vizyon
-http://208.79.153.42/akamaissh101/ssh101/vzyn/playlist.m3u8
+https://box.cinemax6.com:3937/stream/play.m3u8
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/M_qj5-K.png",5. Cine 6 Türk
 https://box9.cinemax6.com:3843/stream/play.m3u8
@@ -470,6 +470,7 @@ http://filmboxtv.xyz:8080/Test/RY6skQ7HeALB/69
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/sWLZhE.png",270. Filodi ( 1 Kasımda Yayında )
 http://filmboxtv.xyz:8080/Test/RY6skQ7HeALB/76
+
 
 
 
