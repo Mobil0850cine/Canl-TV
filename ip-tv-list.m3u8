@@ -58,7 +58,7 @@ http://208.79.153.42/akamaissh101/ssh101/SERİES_TV/playlist.m3u8
 http://prf23.xyz:8080/ibrahimhiraozlu23/06042023BM/123907
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/1TtRuz.png",24. Filmbox Vizyon
-https://box8.cinemax6.com:3406/stream/play.m3u8
+http://208.79.153.42/akamaissh101/ssh101/flmbox/playlist.m3u8
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/suTEWnO.png",25. Filmbox Premier
 http://prf23.xyz:8080/ibrahimhiraozlu23/06042023BM/83270
@@ -470,6 +470,7 @@ http://filmboxtv.xyz:8080/Test/RY6skQ7HeALB/69
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/sWLZhE.png",270. Filodi ( 1 Kasımda Yayında )
 http://filmboxtv.xyz:8080/Test/RY6skQ7HeALB/76
+
 
 
 
