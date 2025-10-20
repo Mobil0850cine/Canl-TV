@@ -201,6 +201,9 @@ https://live.artidijitalmedya.com/artidijital_tivi6/tivi6/chunks.m3u8
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/S8LYk.png",76. Now Play
 http://cdn18.yayin.com.tr/nowplay/video.m3u8
 
+#EXTINF:-1 group-title="Spor" tvg-logo="https://r.resimlink.com/-6jkfev4.png",77. Vizon Spor ( Test )
+http://208.79.153.42/akamaissh101/ssh101/VizonS/playlist.m3u8 
+
 #EXTINF:-1 group-title="Spor" tvg-logo="https://upload.wikimedia.org/wikipedia/az/0/04/CBC_Sport_TV_loqo.png",79. CBC Sport
 http://74214be9.edemist.com/iptv/WUX6STDKBG73GKNYAF5U3KMF/2193/index.m3u8 
 
@@ -467,6 +470,7 @@ http://filmboxtv.xyz:8080/Test/RY6skQ7HeALB/69
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/sWLZhE.png",270. Filodi ( 1 Kasımda Yayında )
 http://filmboxtv.xyz:8080/Test/RY6skQ7HeALB/76
+
 
 
 
