@@ -102,7 +102,7 @@ http://prf23.xyz:8080/ibrahimhiraozlu23/06042023BM/83262
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/yFMEPr98.png",41. Filmbox Yerli
 http://prf23.xyz:8080/ibrahimhiraozlu23/06042023BM/83261
 
-#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/IbV6Exw_lJg.png"42. Filmbox Yeşilçam
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/IbV6Exw_lJg.png",31. Filmbox Yeşilçam
 http://prf23.xyz:8080/ibrahimhiraozlu23/06042023BM/83260
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/mHe2nFW8AELR.png",43. Filmbox Horor
@@ -140,6 +140,12 @@ http://12k-service.com/play/live.php?mac=00:1a:79:5a:dc:83&stream=314932&extensi
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/Y-wyz8.png",54. Cinemax Yeşilçam
 http://12k-service.com/play/live.php?mac=00:1a:79:5a:dc:83&stream=314940&extension=ts
+
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/JhZ4a.png",67. Play Sinema
+https://ip100.radyotelekomtv.com:3784/stream/play.m3u8
+
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/9NO6M.png",68. Yansıma Sinema
+http://cdn4.yayin.com.tr/yansimasinematv/video.m3u8
 
 #EXTINF:-1 group-title="Diğer" tvg-logo="https://pbs.twimg.com/media/F-QH1TMXQAAHhKy.png",69. Süper Türk
 http://75.119.144.48/SUPERTURK_TV_STREAM/index.m3u8
@@ -356,6 +362,7 @@ http://filmboxtv.xyz:8080/Test/RY6skQ7HeALB/69
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/sWLZhE.png",270. Filodi ( 1 Kasımda Yayında )
 http://filmboxtv.xyz:8080/Test/RY6skQ7HeALB/76
+
 
 
 
