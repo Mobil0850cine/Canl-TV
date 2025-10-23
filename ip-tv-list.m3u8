@@ -72,7 +72,7 @@ http://208.79.153.42/akamaissh101/ssh101/TBRT1/playlist.m3u8
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/nZgsGNkfH9b.png",31. Star Sinema 2
 http://208.79.153.42/akamaissh101/ssh101/TBRT2/playlist.m3u8
 
-#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/dqu-sE.gif",32. Net Sinema 5
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/N6zf0Z4l.png",32. Net Sinema 5
 http://208.79.153.42/akamaissh101/ssh101/TBRT5/playlist.m3u8
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/Xm0CDldezUn.png",33. Sinema 6
@@ -182,12 +182,6 @@ http://136341.performservers.eu:80/hakanarslann/Ogzo2RdCkd/316094
 
 #EXTINF:-1 group-title="Spor" tvg-logo="https://pbs.twimg.com/profile_images/1884171440934563840/8PAU1gpT_200x200.jpg",84. Ekol Sports
 http://136341.performservers.eu:80/hakanarslann/Ogzo2RdCkd/314140
-
-#EXTINF:-1 group-title="Spor" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a8/BeIN_Sports_Haber.png",85. beIN Sports Haber
-https://goldvod.org/tv/vavoo?id=3989995533d0efea1c8696
-
-#EXTINF:-1 group-title="Spor" tvg-logo="https://resmim.net/cdn/2025/09/05/jfLwjb.png",86. Tivibu Spor
-https://goldvod.org/tv/vavoo?id=36535158588fee46401238
 
 #EXTINF:-1 group-title="Spor" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c4/TRT_Spor_kurumsal_logo.png",87. TRT Spor
 https://tv-trtspor1.medya.trt.com.tr:443/master_1080.m3u8
@@ -354,7 +348,7 @@ http://filmboxtv.xyz:8080/Test/RY6skQ7HeALB/74
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/6wrZV3KT4n07.png",19. Filmclup Family ( 1 Kasımda Yayında )
 http://filmboxtv.xyz:8080/Test/RY6skQ7HeALB/73
 
-#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/r1OHgjyea5.png",20. Filmax ( 1 Kasımda Yayında )
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/8E5gw.png",20. Filmax ( 1 Kasımda Yayında )
 http://filmboxtv.xyz:8080/Test/RY6skQ7HeALB/70
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/wPW39.png",21. Fil TV ( 1 Kasımda Yayında )
@@ -362,6 +356,7 @@ http://filmboxtv.xyz:8080/Test/RY6skQ7HeALB/69
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/sWLZhE.png",270. Filodi ( 1 Kasımda Yayında )
 http://filmboxtv.xyz:8080/Test/RY6skQ7HeALB/76
+
 
 
 
