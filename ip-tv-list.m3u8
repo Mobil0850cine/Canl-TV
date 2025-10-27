@@ -58,7 +58,7 @@ http://208.79.153.42/akamaissh101/ssh101/Stars/playlist.m3u8
 http://208.79.153.42/akamaissh101/ssh101/novaplt/playlist.m3u8
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/fFgNtdXYJnL7.png",26. Nova Dizi
-http://208.79.153.42/akamaissh101/ssh101/vizd/playlist.m3u8
+http://208.79.153.42/akamaissh101/ssh101/diziv/playlist.m3u8
 
 #EXTINF:-1 group-title="Yabancı" tvg-logo="https://r.resimlink.com/EROuUDAL.png",27. Now Movies Horror
 https://a8.radyotelekom.com.tr:3881/hybrid/play.m3u8
@@ -359,6 +359,7 @@ http://filmboxtv.xyz:8080/Test/RY6skQ7HeALB/69
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/sWLZhE.png",270. Filodi ( 1 Kasımda Yayında )
 http://filmboxtv.xyz:8080/Test/RY6skQ7HeALB/76
+
 
 
 
