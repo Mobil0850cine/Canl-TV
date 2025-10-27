@@ -282,10 +282,10 @@ http://195.189.60.31:8003/play/a0fe/index.m3u8
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/oZAzHU36j.png",551. Filmbox Premium
 http://195.189.60.31:8003/play/a0f6/index.m3u8
 
-#EXTINF:-1 group-title="Yabancı" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/34/AzTV_%282005-2009%29.png/revision/latest?cb=20170831053034",551. Az TV
+#EXTINF:-1 group-title="Yabancı" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/34/AzTV_%282005-2009%29.png/revision/latest?cb=20170831053034",552. Az TV
 https://str.yodacdn.net/aztv/index.m3u8
 
-#EXTINF:-1 group-title="Yabancı" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/Ictimai_TV_yeni_logo_2019.png",552. İçtimal TV
+#EXTINF:-1 group-title="Yabancı" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/Ictimai_TV_yeni_logo_2019.png",553. İçtimal TV
 https://live.itv.az/itv.m3u8
 
 #EXTINF:-1 group-title="Yabancı" tvg-logo="https://ichef.bbci.co.uk/images/ic/1920xn/p09xtmrp.jpg",554. BBC Drama
@@ -362,6 +362,7 @@ http://filmboxtv.xyz:8080/Test/RY6skQ7HeALB/69
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/sWLZhE.png",270. Filodi ( 1 Kasımda Yayında )
 http://filmboxtv.xyz:8080/Test/RY6skQ7HeALB/76
+
 
 
 
