@@ -117,8 +117,8 @@ http://prf23.xyz:8080/ibrahimhiraozlu23/06042023BM/83263
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/la5uyk1nI0FN.png",46. Filmbox Scı-Fi
 http://prf23.xyz:8080/ibrahimhiraozlu23/06042023BM/83268
 
-#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/L5vszd.png",47. Cine 5
-https://cdn-cine5.yayin.com.tr/cine5/cine5/chunklist_w1443635736.m3u8
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/aNoxG.png",47. Kuzey Max HD
+http://75.119.144.48/kuzeymaxtv_hd/index.m3u8
 
 #EXTINF:-1 group-title="Yabancı" tvg-logo="https://r.resimlink.com/s5H0zP.png",48. Max Premier
 http://12k-service.com/play/live.php?mac=00:1a:79:5a:dc:83&stream=151784&extension=ts
@@ -150,17 +150,17 @@ http://cdn4.yayin.com.tr/yansimasinematv/video.m3u8
 #EXTINF:-1 group-title="Diğer" tvg-logo="https://pbs.twimg.com/media/F-QH1TMXQAAHhKy.png",69. Süper Türk
 http://75.119.144.48/SUPERTURK_TV_STREAM/index.m3u8
 
-#EXTINF:-1 group-title="Diğer" tvg-logo="https://pbs.twimg.com/media/F-QH1TMXQAAHhKy.png",70. Süper Türk Max
-http://75.119.144.48/SUPERTURK_MAX_HD/index.m3u8
-
-#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://www.sdmvideo.com/upload/photos/2025/02/Ihhn9QYN6jn2BW5tL8Jz_08_bb9fd41790386666b1c32ce49a3b1b2c_image.png",71. SDM Sinema
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://www.sdmvideo.com/upload/photos/2025/02/Ihhn9QYN6jn2BW5tL8Jz_08_bb9fd41790386666b1c32ce49a3b1b2c_image.png",70. SDM Sinema
 https://host.onlineradyotv.net:8081/sdmtv/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://i.imgur.com/Mm8hdfx.png",72. Deniz Sinema
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://i.imgur.com/Mm8hdfx.png",71. Deniz Sinema
 https://live.artidijitalmedya.com/artidijital_denizpostasi/denizpostasi/chunks.m3u8
 
-#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://lh6.googleusercontent.com/proxy/VLrnOczCmI56ZLJhcK_FAt8spuSkmuR2cJgDNxWGfh48ZYca48uomRA2ONcnNnYRl8B5DNaWYZIz",73. Cine 1
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/zuIbJUPh.png",72. Cine 1
 https://live.artidijitalmedya.com/artidijital_cine1/cine1/playlist.m3u8
+
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/L5vszd.png",73. Cine 5
+https://cdn-cine5.yayin.com.tr/cine5/cine5/chunklist_w1443635736.m3u8
 
 #EXTINF:-1 group-title="Diğer" tvg-logo="https://asset.artidijitalmedya.com/image/400x400/channels/v1/logo_293.png?v=9",74. Bi Kanal
 https://live.artidijitalmedya.com/artidijital_bikanal/bikanal/playlist.m3u8
@@ -359,6 +359,7 @@ http://filmboxtv.xyz:8080/Test/RY6skQ7HeALB/69
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/sWLZhE.png",270. Filodi ( 1 Kasımda Yayında )
 http://filmboxtv.xyz:8080/Test/RY6skQ7HeALB/76
+
 
 
 
