@@ -1,40 +1,40 @@
 #EXTM3U
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/DQ5FbGyUXn.png",1. Cine 6
-https://mox.cinemax6.com:3614/stream/play.m3u8
+https://mox9.cinemax6.com:3614/stream/play.m3u8
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/LeJmvbatdBx.png",2. Cine 6 Premier
-https://mox2.cinemax6.com:3118/stream/play.m3u8
+https://mox8.cinemax6.com:3118/stream/play.m3u8
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/dxFRW6y-i.png",3. Cine 6 Aksiyon
-https://box2.cinemax6.com:3020/stream/play.m3u8
+https://box7.cinemax6.com:3020/stream/play.m3u8
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/l6uHwn.png",4. Cine 6 Vizyon
-https://box5.cinemax6.com:3406/stream/play.m3u8
+https://box6.cinemax6.com:3406/stream/play.m3u8
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/M_qj5-K.png",5. Cine 6 Türk
-https://box5.cinemax6.com:3843/stream/play.m3u8
+https://box1.cinemax6.com:3843/stream/play.m3u8
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/mkrtiTy5AH.png",6. Vizon Prime ( 1 Kasım'da yayında
-https://mox.cinemax6.com:3006/stream/play.m3u8
+https://mox7.cinemax6.com:3006/stream/play.m3u8
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/QzwdsRYOWek1.png",7. Vizon Action ( 1 Kasımda Yayında ) 
-https://box6.cinemax6.com:3183/stream/play.m3u8
+https://box5.cinemax6.com:3183/stream/play.m3u8
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/jRcTr3be.png",8. Vizon Gold ( 1 Kasımda Yayında ) 
-https://box7.cinemax6.com:3516/stream/play.m3u8
+https://box4.cinemax6.com:3516/stream/play.m3u8
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/lXNg9biSMhcL.png",9. Vizon Türk ( 1 Kasımda Yayında ) 
-https://mox4.cinemax6.com:3760/stream/play.m3u8
+https://mox6.cinemax6.com:3760/stream/play.m3u8
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/_IwJ65r91.png",10. Sine Adrenalin
-https://box1.cinemax6.com:3040/stream/play.m3u8
+https://box10.cinemax6.com:3040/stream/play.m3u8
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/4WlMdKLIfvF.png",11. Sine Premıum
-https://box10.cinemax6.com:3111/stream/play.m3u8
+https://box9.cinemax6.com:3111/stream/play.m3u8
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/AeaB0LITPS.png",12. Sine Yerli
-https://box9.cinemax6.com:3592/stream/play.m3u8
+https://box8.cinemax6.com:3592/stream/play.m3u8
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/-GIevgXu2.png",13. Filmclup ( 1 Kasımda Yayında )
 http://filmboxtv.xyz:8080/Test/RY6skQ7HeALB/71
@@ -64,7 +64,7 @@ http://208.79.153.42/akamaissh101/ssh101/filmViz/playlist.m3u8
 http://208.79.153.42/akamaissh101/ssh101/filmstar/playlist.m3u8
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/KDQxX.png",27. TV Platformları
-https://box8.cinemax6.com:3350/stream/play.m3u8
+https://box3.cinemax6.com:3350/stream/play.m3u8
 
 #EXTINF:-1 group-title="Yabancı" tvg-logo="https://r.resimlink.com/EROuUDAL.png",28. Now Movies Horror
 https://a8.radyotelekom.com.tr:3881/hybrid/play.m3u8
@@ -100,7 +100,7 @@ http://prf23.xyz:8080/ibrahimhiraozlu23/06042023BM/83269
 http://prf23.xyz:8080/ibrahimhiraozlu23/06042023BM/83266
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/TgLphwBxlz9A.png",39. Filmbox Komedi
-http://prf23.xyz:8080/ibrahimhiraozlu23/06042023BM/83264
+http://162.212.179.33:80/gin-trn09/gt-sinevizyon-1/playlist.m3u8
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/Yc5VyvkduQgD.png",40. Filmbox Family
 http://prf23.xyz:8080/ibrahimhiraozlu23/06042023BM/83262
@@ -272,6 +272,7 @@ http://hasaiptv.xyz:80/play/Z-sB805WyHM-SRZUxmSQetvsl23AWoDqOmGJrAvrTug
 
 #EXTINF:-1 xui-id="43688" tvg-id="" tvg-name="STAR PREMIER" tvg-logo="http://penatv76.xyz:80/images/a31bf74144c0ed8eddcb7ba90bf6b118.jpg" group-title="SİNEMA",111. Star Premier
 http://hasaiptv.xyz:80/play/Z-sB805WyHM-SRZUxmSQejRd4pQEhJt8wGMJ3dgJcFc
+
 
 
 
