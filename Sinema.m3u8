@@ -273,6 +273,10 @@ http://hasaiptv.xyz:80/play/Z-sB805WyHM-SRZUxmSQetvsl23AWoDqOmGJrAvrTug
 #EXTINF:-1 xui-id="43688" tvg-id="" tvg-name="STAR PREMIER" tvg-logo="http://penatv76.xyz:80/images/a31bf74144c0ed8eddcb7ba90bf6b118.jpg" group-title="SİNEMA",111. Star Premier
 http://hasaiptv.xyz:80/play/Z-sB805WyHM-SRZUxmSQejRd4pQEhJt8wGMJ3dgJcFc
 
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/ZFpe1a.png",112. Teleon
+https://live.tecostream.xyz/teleon.php
+
+
 
 
 
