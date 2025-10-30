@@ -63,6 +63,9 @@ http://208.79.153.42/akamaissh101/ssh101/filmViz/playlist.m3u8
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/WaojR0zVxU.png",21. Filmbox Stars
 http://208.79.153.42/akamaissh101/ssh101/filmstar/playlist.m3u8
 
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/TgLphwBxlz9A.png",22. Filmbox Komedi
+http://162.212.179.33:80/gin-trn09/gt-sinevizyon-1/playlist.m3u8
+
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/KDQxX.png",27. TV Platformları
 https://box8.cinemax6.com:3350/stream/play.m3u8
 
@@ -290,6 +293,7 @@ https://scihls.persiana.live/hls/stream.m3u8
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/sWLZhE.png",270. Filodi ( 1 Kasımda Yayında )
 http://filmboxtv.xyz:8080/Test/RY6skQ7HeALB/76
+
 
 
 
