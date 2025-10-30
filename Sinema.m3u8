@@ -246,6 +246,22 @@ https://host.onlineradyotv.net:8081/sdmtv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://i.imgur.com/Mm8hdfx.png",95. Deniz Sinema
 https://live.artidijitalmedya.com/artidijital_denizpostasi/denizpostasi/chunks.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="TR: FILMAX AKSIYON" tvg-logo="https://logodix.com/logo/1315967.png" group-title="TR | SINEMA 7/24",96. Filmax Aksiyon
+http://ss.wancolonel.xyz:8080/Redear/gWFBhHX/385
+
+#EXTINF:-1 tvg-id="" tvg-name="TR: FILMAX GOLD" tvg-logo="https://logodix.com/logo/1315967.png" group-title="TR | SINEMA 7/24",97. Filmax Gold
+http://ss.wancolonel.xyz:8080/Redear/gWFBhHX/389
+
+#EXTINF:-1 tvg-id="" tvg-name="TR: FILMAX KORKU" tvg-logo="https://logodix.com/logo/1315967.png" group-title="TR | SINEMA 7/24",98. Filmax Korku
+http://ss.wancolonel.xyz:8080/Redear/gWFBhHX/383
+
+#EXTINF:-1 tvg-id="" tvg-name="TR: FILMAX AILE" tvg-logo="https://logodix.com/logo/1315967.png" group-title="TR | SINEMA 7/24",99. Filmax Aile
+http://ss.wancolonel.xyz:8080/Redear/gWFBhHX/214620
+
+#EXTINF:-1 tvg-id="" tvg-name="TR: FILMAX TURK" tvg-logo="https://logodix.com/logo/1315967.png" group-title="TR | SINEMA 7/24",100. Filmax Türk
+http://ss.wancolonel.xyz:8080/Redear/gWFBhHX/387
+
+
 
 
 
