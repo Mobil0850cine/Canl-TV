@@ -187,13 +187,13 @@ http://prf23.xyz:8080/ibrahimhiraozlu23/06042023BM/104703
 http://prf23.xyz:8080/ibrahimhiraozlu23/06042023BM/104690
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/4jcEAWkVT2ne.png",69. KingBox Action
-http://prf23.xyz:8080/ibrahimhiraozlu23/06042023BM/992
+http://4k.nxdns6.com:8080/Talhakucuk0512/QRFVUTu4PqqX/124776
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/K4iBl1qa.png",70. KingBox Prime
 http://prf23.xyz:8080/ibrahimhiraozlu23/06042023BM/993
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/gbuEdNcqI.png",71. KingBox Türk
-http://prf23.xyz:8080/ibrahimhiraozlu23/06042023BM/104394
+http://4k.nxdns6.com:8080/Talhakucuk0512/QRFVUTu4PqqX/124782
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/aZyR_gbsPqkA.png",72. Living Cinemax 1
 http://12k-service.com/play/live.php?mac=00:1a:79:5a:dc:83&stream=314939&extension=ts
@@ -213,7 +213,7 @@ http://12k-service.com/play/live.php?mac=00:1a:79:5a:dc:83&stream=314934&extensi
 #EXTINF:-1 tvg-logo="https://r.resimlink.com/9B6t_PY.png",77. Living Cinemax Türk
 http://12k-service.com/play/live.php?mac=00:1a:79:5a:dc:83&stream=314932&extension=ts
 
-#EXTINF:-1 tvg-logo="https://r.resimlink.com/jmt9xA7V.png",78. Kiving Cinemax Yeşilçam
+#EXTINF:-1 tvg-logo="https://r.resimlink.com/jmt9xA7V.png",78. Living Cinemax Yeşilçam
 http://12k-service.com/play/live.php?mac=00:1a:79:5a:dc:83&stream=314940&extension=ts
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/JhZ4a.png",79. Play Sinema
@@ -223,7 +223,7 @@ https://ip100.radyotelekomtv.com:3784/stream/play.m3u8
 http://cdn4.yayin.com.tr/yansimasinematv/video.m3u8
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/I_JM4Vxkv9u.png",81. Fix Cimema Yerli
-http://prf23.xyz:8080/ibrahimhiraozlu23/06042023BM/104418
+http://4k.nxdns6.com:8080/Talhakucuk0512/QRFVUTu4PqqX/124810
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/Zy4Mzwgvk9V.png",82. Sinema 36
 http://cdn4.yayin.com.tr/tv36cinema/video.m3u8
@@ -266,6 +266,13 @@ http://ss.wancolonel.xyz:8080/Redear/gWFBhHX/387
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/ZFpe1a.png",102. Filmax Yeşilçam
 http://ss.wancolonel.xyz:8080/Redear/gWFBhHX/586238
+
+#EXTINF:-1 xui-id="43682" tvg-id="" tvg-name="STAR ACTION" tvg-logo="http://penatv76.xyz:80/images/ef39f432fa21bd58c8addd0924dd0640.png" group-title="SİNEMA",110. Star Action
+http://hasaiptv.xyz:80/play/Z-sB805WyHM-SRZUxmSQetvsl23AWoDqOmGJrAvrTug
+
+#EXTINF:-1 xui-id="43688" tvg-id="" tvg-name="STAR PREMIER" tvg-logo="http://penatv76.xyz:80/images/a31bf74144c0ed8eddcb7ba90bf6b118.jpg" group-title="SİNEMA",111. Star Premier
+http://hasaiptv.xyz:80/play/Z-sB805WyHM-SRZUxmSQejRd4pQEhJt8wGMJ3dgJcFc
+
 
 
 
