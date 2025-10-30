@@ -165,13 +165,13 @@ http://208.79.153.42/akamaissh101/ssh101/TBRT8/playlist.m3u8
 #EXTINF:-1 group-title="Belgesel & Yaşam" tvg-logo="https://r.resimlink.com/OurzJP1hEwo.png",118. Living Belgesel
 http://12k-service.com/play/live.php?mac=00:1a:79:5a:dc:83&stream=314482&extension=ts
 
-#EXTINF:-1 group-title="Belgesel & Yaşam" tvg-logo="https://r.resimlink.com/OurzJP1hEwo.png",119. Docuax Wild
+#EXTINF:-1 group-title="Belgesel & Yaşam" tvg-logo="https://r.resimlink.com/DRC81axSlemZ.png",119. Docuax Wild
 http://ss.wancolonel.xyz:8080/Redear/gWFBhHX/219403
 
-#EXTINF:-1 group-title="Belgesel & Yaşam" tvg-logo="https://r.resimlink.com/OurzJP1hEwo.png",120. Docuax Earth
+#EXTINF:-1 group-title="Belgesel & Yaşam" tvg-logo="https://r.resimlink.com/lIx_tfw.png",120. Docuax Earth
 http://ss.wancolonel.xyz:8080/Redear/gWFBhHX/259796
 
-#EXTINF:-1 group-title="Belgesel & Yaşam" tvg-logo="https://r.resimlink.com/OurzJP1hEwo.png",121. Docuax History
+#EXTINF:-1 group-title="Belgesel & Yaşam" tvg-logo="https://r.resimlink.com/cK9OU1zPB.png",121. Docuax History
 http://ss.wancolonel.xyz:8080/Redear/gWFBhHX/219402
 
 #EXTINF:0 user-agent="Firefox" tvg-id="VIASAT EXPLORE" tvg-name="TR: VIASAT EXPLORER" tvg-logo="https://logo.multicms.info/tvlogo/viasatexplore.png" group-title="TR-BELGESEL",TR: 119. Viasat Explore
@@ -290,6 +290,7 @@ https://scihls.persiana.live/hls/stream.m3u8
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/sWLZhE.png",270. Filodi ( 1 Kasımda Yayında )
 http://filmboxtv.xyz:8080/Test/RY6skQ7HeALB/76
+
 
 
 
