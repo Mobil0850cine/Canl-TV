@@ -37,16 +37,16 @@ https://box9.cinemax6.com:3111/stream/play.m3u8
 https://box8.cinemax6.com:3592/stream/play.m3u8
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/-GIevgXu2.png",13. Filmclup
-http://filmboxtv.xyz:8080/Test/RY6skQ7HeALB/71
+https://mox.cinemax6.com:3468/stream/play.m3u8
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/Sd9GCtKn5_i8.png",14. Filmclup Aksiyon
-http://filmboxtv.xyz:8080/Test/RY6skQ7HeALB/72
+https://box3.cinemax6.com:3732/stream/play.m3u8
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/9ozqwc-.png",15. Filmclup Komedi
-http://filmboxtv.xyz:8080/Test/RY6skQ7HeALB/74
+https://mox1.cinemax6.com:3860/stream/play.m3u8
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/6wrZV3KT4n07.png",16. Filmclup Family
-http://filmboxtv.xyz:8080/Test/RY6skQ7HeALB/73
+https://mox.cinemax6.com:3055/stream/play.m3u8
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/8E5gw.png",17. Filmax
 http://filmboxtv.xyz:8080/Test/RY6skQ7HeALB/70
@@ -287,6 +287,7 @@ https://familyhls.persiana.live/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://r.resimlink.com/Hl9O5JKDd.jpg",573. Persina Science
 https://scihls.persiana.live/hls/stream.m3u8
+
 
 
 
