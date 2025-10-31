@@ -15,16 +15,16 @@ https://box6.cinemax6.com:3406/stream/play.m3u8
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/M_qj5-K.png",5. Cine 6 Türk
 https://box1.cinemax6.com:3843/stream/play.m3u8
 
-#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/mkrtiTy5AH.png",6. Vizon Prime ( 1 Kasım'da yayında
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/mkrtiTy5AH.png",6. Vizon Prime 
 https://mox7.cinemax6.com:3006/stream/play.m3u8
 
-#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/QzwdsRYOWek1.png",7. Vizon Action ( 1 Kasımda Yayında ) 
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/QzwdsRYOWek1.png",7. Vizon Action 
 https://box5.cinemax6.com:3183/stream/play.m3u8
 
-#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/jRcTr3be.png",8. Vizon Gold ( 1 Kasımda Yayında ) 
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/jRcTr3be.png",8. Vizon Gold  
 https://box4.cinemax6.com:3516/stream/play.m3u8
 
-#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/lXNg9biSMhcL.png",9. Vizon Türk ( 1 Kasımda Yayında ) 
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/lXNg9biSMhcL.png",9. Vizon Türk 
 https://mox6.cinemax6.com:3760/stream/play.m3u8
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/_IwJ65r91.png",10. Sine Adrenalin
@@ -36,22 +36,22 @@ https://box9.cinemax6.com:3111/stream/play.m3u8
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/AeaB0LITPS.png",12. Sine Yerli
 https://box8.cinemax6.com:3592/stream/play.m3u8
 
-#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/-GIevgXu2.png",13. Filmclup ( 1 Kasımda Yayında )
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/-GIevgXu2.png",13. Filmclup 
 http://filmboxtv.xyz:8080/Test/RY6skQ7HeALB/71
 
-#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/Sd9GCtKn5_i8.png",14. Filmclup Aksiyon ( 1 Kasımda Yayında )
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/Sd9GCtKn5_i8.png",14. Filmclup Aksiyon 
 http://filmboxtv.xyz:8080/Test/RY6skQ7HeALB/72
 
-#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/9ozqwc-.png",15. Filmclup Komedi ( 1 Kasımda Yayında )
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/9ozqwc-.png",15. Filmclup Komedi 
 http://filmboxtv.xyz:8080/Test/RY6skQ7HeALB/74
 
-#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/6wrZV3KT4n07.png",16. Filmclup Family ( 1 Kasımda Yayında )
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/6wrZV3KT4n07.png",16. Filmclup Family 
 http://filmboxtv.xyz:8080/Test/RY6skQ7HeALB/73
 
-#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/8E5gw.png",17. Filmax ( 1 Kasımda Yayında )
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/8E5gw.png",17. Filmax 
 http://filmboxtv.xyz:8080/Test/RY6skQ7HeALB/70
 
-#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/wPW39.png",18. Fil TV ( 1 Kasımda Yayında )
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/wPW39.png",18. Fil TV 
 http://filmboxtv.xyz:8080/Test/RY6skQ7HeALB/69
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/qaeisRXj.png",19. Filmbox Action
@@ -192,6 +192,7 @@ https://host.onlineradyotv.net:8081/sdmtv/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://i.imgur.com/Mm8hdfx.png",105. Deniz Sinema
 https://live.artidijitalmedya.com/artidijital_denizpostasi/denizpostasi/chunks.m3u8
+
 
 
 
