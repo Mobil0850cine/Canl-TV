@@ -169,10 +169,10 @@ https://ip100.radyotelekomtv.com:3784/stream/play.m3u8
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/9NO6M.png",61. Sinema HD
 http://cdn4.yayin.com.tr/yansimasinematv/video.m3u8
 
-#EXTINF:-1 xui-id="43682" tvg-id="" tvg-name="STAR ACTION" tvg-logo="http://penatv76.xyz:80/images/ef39f432fa21bd58c8addd0924dd0640.png" group-title="SİNEMA",62. Star Action
+#EXTINF:-1 xui-id="43682" tvg-id="" tvg-name="STAR ACTION" tvg-logo="https://r.resimlink.com/5xsoVHN9waF.png",62. Star Action
 http://hasaiptv.xyz:80/play/Z-sB805WyHM-SRZUxmSQetvsl23AWoDqOmGJrAvrTug
 
-#EXTINF:-1 xui-id="43688" tvg-id="" tvg-name="STAR PREMIER" tvg-logo="http://penatv76.xyz:80/images/a31bf74144c0ed8eddcb7ba90bf6b118.jpg" group-title="SİNEMA",63. Star Premier
+#EXTINF:-1 xui-id="43688" tvg-id="" tvg-name="STAR PREMIER" tvg-logo="https://r.resimlink.com/K1i2xMbOq.png",63. Star Premier
 http://hasaiptv.xyz:80/play/Z-sB805WyHM-SRZUxmSQejRd4pQEhJt8wGMJ3dgJcFc
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/I_JM4Vxkv9u.png",64. Fix Cimema Yerli
@@ -201,6 +201,7 @@ https://host.onlineradyotv.net:8081/sdmtv/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://i.imgur.com/Mm8hdfx.png",105. Deniz Sinema
 https://live.artidijitalmedya.com/artidijital_denizpostasi/denizpostasi/chunks.m3u8
+
 
 
 
