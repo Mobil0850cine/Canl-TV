@@ -145,23 +145,20 @@ http://prf23.xyz:8080/ibrahimhiraozlu23/06042023BM/83263
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/la5uyk1nI0FN.png",53. Filmbox Scı-Fi
 http://prf23.xyz:8080/ibrahimhiraozlu23/06042023BM/83268
 
-#EXTINF:-1 group-title="Yabancı" tvg-logo="https://r.resimlink.com/s5H0zP.png",54. Max Premier
+#EXTINF:-1 xui-id="43682" tvg-id="" tvg-name="STAR ACTION" tvg-logo="https://r.resimlink.com/5xsoVHN9waF.png",54. Star Action
+http://hasaiptv.xyz:80/play/Z-sB805WyHM-SRZUxmSQetvsl23AWoDqOmGJrAvrTug
+
+#EXTINF:-1 xui-id="43688" tvg-id="" tvg-name="STAR PREMIER" tvg-logo="https://r.resimlink.com/K1i2xMbOq.png",55. Star Premier
+http://hasaiptv.xyz:80/play/Z-sB805WyHM-SRZUxmSQejRd4pQEhJt8wGMJ3dgJcFc
+
+#EXTINF:-1 group-title="Yabancı" tvg-logo="https://r.resimlink.com/s5H0zP.png",56. Max Premier
 http://12k-service.com/play/live.php?mac=00:1a:79:5a:dc:83&stream=151784&extension=ts
 
-#EXTINF:-1 group-title="Yabancı" tvg-logo="https://r.resimlink.com/4n1Sz3ZuxgRh.png",55. Max Aksiyon
+#EXTINF:-1 group-title="Yabancı" tvg-logo="https://r.resimlink.com/4n1Sz3ZuxgRh.png",57. Max Aksiyon
 http://12k-service.com/play/live.php?mac=00:1a:79:5a:dc:83&stream=151783&extension=ts
 
-#EXTINF:-1 group-title="Yabancı" tvg-logo="https://r.resimlink.com/hYG6Wn9TN.png",56. Max Türk
+#EXTINF:-1 group-title="Yabancı" tvg-logo="https://r.resimlink.com/hYG6Wn9TN.png",58. Max Türk
 http://ss.wancolonel.xyz:8080/Redear/gWFBhHX/10851
-
-#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/aZyR_gbsPqkA.png",57. Living Cinemax 1
-http://12k-service.com/play/live.php?mac=00:1a:79:5a:dc:83&stream=314939&extension=ts
-
-#EXTINF:-1 tvg-logo="https://r.resimlink.com/9B6t_PY.png",58. Living Cinemax Türk
-http://12k-service.com/play/live.php?mac=00:1a:79:5a:dc:83&stream=314932&extension=ts
-
-#EXTINF:-1 tvg-logo="https://r.resimlink.com/jmt9xA7V.png",59. Living Cinemax Yeşilçam
-http://12k-service.com/play/live.php?mac=00:1a:79:5a:dc:83&stream=314940&extension=ts
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/JhZ4a.png",60. Play Sinema
 https://ip100.radyotelekomtv.com:3784/stream/play.m3u8
@@ -169,13 +166,7 @@ https://ip100.radyotelekomtv.com:3784/stream/play.m3u8
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/9NO6M.png",61. Sinema HD
 http://cdn4.yayin.com.tr/yansimasinematv/video.m3u8
 
-#EXTINF:-1 xui-id="43682" tvg-id="" tvg-name="STAR ACTION" tvg-logo="https://r.resimlink.com/5xsoVHN9waF.png",62. Star Action
-http://hasaiptv.xyz:80/play/Z-sB805WyHM-SRZUxmSQetvsl23AWoDqOmGJrAvrTug
-
-#EXTINF:-1 xui-id="43688" tvg-id="" tvg-name="STAR PREMIER" tvg-logo="https://r.resimlink.com/K1i2xMbOq.png",63. Star Premier
-http://hasaiptv.xyz:80/play/Z-sB805WyHM-SRZUxmSQejRd4pQEhJt8wGMJ3dgJcFc
-
-#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/I_JM4Vxkv9u.png",64. Fix Cimema Yerli
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/I_JM4Vxkv9u.png",62. Fix Cimema Yerli
 http://4k.nxdns6.com:8080/Talhakucuk0512/QRFVUTu4PqqX/124810
 
 #EXTINF:-1 group-title="Yabancı" tvg-logo="https://r.resimlink.com/2njJqkwxl.png",66. TBRT 7 Ehlibeyt
@@ -201,6 +192,7 @@ https://host.onlineradyotv.net:8081/sdmtv/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://i.imgur.com/Mm8hdfx.png",105. Deniz Sinema
 https://live.artidijitalmedya.com/artidijital_denizpostasi/denizpostasi/chunks.m3u8
+
 
 
 
