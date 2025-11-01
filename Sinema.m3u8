@@ -84,7 +84,7 @@ http://208.79.153.42/akamaissh101/ssh101/TBRT1/playlist.m3u8
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/nZgsGNkfH9b.png",32. Star Sinema 2
 http://208.79.153.42/akamaissh101/ssh101/TBRT2/playlist.m3u8
 
-#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/N6zf0Z4l.png",33. Net Sinema 5
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/oitO-_.png",33. Planet Sinema 5
 http://208.79.153.42/akamaissh101/ssh101/TBRT5/playlist.m3u8
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/Xm0CDldezUn.png",34. Sinema 6
@@ -195,6 +195,7 @@ https://host.onlineradyotv.net:8081/sdmtv/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://i.imgur.com/Mm8hdfx.png",105. Deniz Sinema
 https://live.artidijitalmedya.com/artidijital_denizpostasi/denizpostasi/chunks.m3u8
+
 
 
 
