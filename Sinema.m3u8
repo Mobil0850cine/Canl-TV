@@ -19,10 +19,10 @@ https://box1.cinemax6.com:3843/stream/play.m3u8
 https://mox7.cinemax6.com:3006/stream/play.m3u8
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/QzwdsRYOWek1.png",7. Vizon Action 
-https://box5.cinemax6.com:3183/stream/play.m3u8
+https://box8.cinemax6.com:3183/stream/play.m3u8
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/jRcTr3be.png",8. Vizon Gold  
-https://box4.cinemax6.com:3516/stream/play.m3u8
+https://box7.cinemax6.com:3516/stream/play.m3u8
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/lXNg9biSMhcL.png",9. Vizon Türk 
 https://mox6.cinemax6.com:3760/stream/play.m3u8
@@ -46,7 +46,7 @@ https://box1.cinemax6.com:3732/stream/play.m3u8
 https://mox3.cinemax6.com:3860/stream/play.m3u8
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/6wrZV3KT4n07.png",16. Filmclup Family 
-https://mox5.cinemax6.com:3055/stream/play.m3u8
+https://mox9.cinemax6.com:3055/stream/play.m3u8
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/8E5gw.png",17. Filmax 
 https://mox2.cinemax6.com:3914/stream/play.m3u8
@@ -192,6 +192,7 @@ https://host.onlineradyotv.net:8081/sdmtv/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://i.imgur.com/Mm8hdfx.png",105. Deniz Sinema
 https://live.artidijitalmedya.com/artidijital_denizpostasi/denizpostasi/chunks.m3u8
+
 
 
 
