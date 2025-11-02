@@ -90,6 +90,9 @@ http://208.79.153.42/akamaissh101/ssh101/TBRT2/playlist.m3u8
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/oitO-_.png",35. Planet Sinema 
 http://208.79.153.42/akamaissh101/ssh101/TBRT5/playlist.m3u8
 
+EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/qiIYVPl.png",36. Planet Aksiyon 
+http://208.79.153.42/akamaissh101/ssh101/TBRT4/playlist.m3u8
+
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/Xm0CDldezUn.png",37. Sinema 6
 http://208.79.153.42/akamaissh101/ssh101/TBRT6/playlist.m3u8
 
@@ -290,6 +293,7 @@ https://familyhls.persiana.live/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://r.resimlink.com/Hl9O5JKDd.jpg",573. Persina Science
 https://scihls.persiana.live/hls/stream.m3u8
+
 
 
 
