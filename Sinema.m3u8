@@ -72,23 +72,11 @@ https://box9.cinemax6.com:3350/stream/play.m3u8
 #EXTINF:-1 group-title="Yabancı" tvg-logo="https://r.resimlink.com/EROuUDAL.png",28. Now Movies Horror
 https://a8.radyotelekom.com.tr:3881/hybrid/play.m3u8
 
-#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/ytRuG.gif",29. Tele ON
-http://208.79.153.42/akamaissh101/ssh101/TBRT10/playlist.m3u8
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/qiIYVPl.png",33. Planet Aksiyon
+http://208.79.153.42/akamaissh101/ssh101/planet_aksiyon1/playlist.m3u8
 
-#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/-vZLBco.png",30. HBB TV
-http://208.79.153.42/akamaissh101/ssh101/TBRT3/playlist.m3u8
-
-#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/tgVjr.png",31. Star Sinema 1
-http://208.79.153.42/akamaissh101/ssh101/TBRT1/playlist.m3u8
-
-#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/nZgsGNkfH9b.png",32. Star Sinema 2
-http://208.79.153.42/akamaissh101/ssh101/TBRT2/playlist.m3u8
-
-#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/oitO-_.png",33. Planet Sinema 5
-http://208.79.153.42/akamaissh101/ssh101/TBRT5/playlist.m3u8
-
-#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/Xm0CDldezUn.png",34. Sinema 6
-http://208.79.153.42/akamaissh101/ssh101/TBRT6/playlist.m3u8
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/X5Q4nh.png",34. Planet Türk
+http://208.79.153.42/akamaissh101/ssh101/planet_turk2/playlist.m3u8
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/9vT5ZIX-tr7d.png",35. Filmax Aksiyon
 http://ss.wancolonel.xyz:8080/Redear/gWFBhHX/385
@@ -195,6 +183,7 @@ https://host.onlineradyotv.net:8081/sdmtv/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://i.imgur.com/Mm8hdfx.png",105. Deniz Sinema
 https://live.artidijitalmedya.com/artidijital_denizpostasi/denizpostasi/chunks.m3u8
+
 
 
 
