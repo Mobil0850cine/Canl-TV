@@ -63,9 +63,6 @@ http://208.79.153.42/akamaissh101/ssh101/filmViz/playlist.m3u8
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/WaojR0zVxU.png",21. Filmbox Stars
 http://208.79.153.42/akamaissh101/ssh101/filmstar/playlist.m3u8
 
-#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/TgLphwBxlz9A.png",22. Filmbox Komedi
-http://162.212.179.33:80/gin-trn09/gt-sinevizyon-1/playlist.m3u8
-
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/KDQxX.png",27. TV Platformları
 https://box9.cinemax6.com:3350/stream/play.m3u8
 
@@ -284,6 +281,7 @@ https://familyhls.persiana.live/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://r.resimlink.com/Hl9O5JKDd.jpg",573. Persina Science
 https://scihls.persiana.live/hls/stream.m3u8
+
 
 
 
