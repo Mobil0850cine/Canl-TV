@@ -78,12 +78,6 @@ https://live.artidijitalmedya.com/artidijital_denizpostasi/denizpostasi/chunks.m
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/bk8Q3zw1BK.png",73. Cine 5
 https://host.onlineradyotv.net:8081/cine5tv/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="Diğer" tvg-logo="https://asset.artidijitalmedya.com/image/400x400/channels/v1/logo_293.png?v=9",74. Bi Kanal
-https://live.artidijitalmedya.com/artidijital_bikanal/bikanal/playlist.m3u8
-
-#EXTINF:-1 group-title="Diğer" tvg-logo="https://tivi6.com.tr/wp-content/uploads/2022/11/tivi6_logo-300x113-1.png",75. Tivi 6
-https://live.artidijitalmedya.com/artidijital_tivi6/tivi6/chunks.m3u8
-
 #EXTINF:-1 group-title="Spor" tvg-logo="https://upload.wikimedia.org/wikipedia/az/0/04/CBC_Sport_TV_loqo.png",79. CBC Sport
 http://74214be9.edemist.com/iptv/WUX6STDKBG73GKNYAF5U3KMF/2193/index.m3u8 
 
@@ -245,6 +239,7 @@ https://familyhls.persiana.live/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://r.resimlink.com/Hl9O5JKDd.jpg",573. Persina Science
 https://scihls.persiana.live/hls/stream.m3u8
+
 
 
 
