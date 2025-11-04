@@ -126,9 +126,6 @@ https://live.artidijitalmedya.com/artidijital_bikanal/bikanal/playlist.m3u8
 #EXTINF:-1 group-title="Diğer" tvg-logo="https://tivi6.com.tr/wp-content/uploads/2022/11/tivi6_logo-300x113-1.png",75. Tivi 6
 https://live.artidijitalmedya.com/artidijital_tivi6/tivi6/chunks.m3u8
 
-#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/S8LYk.png",76. Now Play
-http://cdn18.yayin.com.tr/nowplay/video.m3u8
-
 #EXTINF:-1 group-title="Spor" tvg-logo="https://r.resimlink.com/-6jkfev4.png",77. Vizon Spor
 http://208.79.153.42/akamaissh101/ssh101/vizspor/playlist.m3u8
 
@@ -147,7 +144,7 @@ http://74214be9.edemist.com/iptv/WUX6STDKBG73GKNYAF5U3KMF/7329/index.m3u8
 #EXTINF:-1 group-title="Spor" tvg-logo="https://epg.pw/media/images/epg/2024/09/30/20240930020915077572_54.png",92. Arena Sport 2
 http://74214be9.edemist.com/iptv/WUX6STDKBG73GKNYAF5U3KMF/7330/index.m3u8
 
-#EXTINF:-1 group-title="Spor" tvg-logo="https://epg.pw/media/images/epg/2024/09/30/20240930021242784769_92.png",93. Arena Sport 3
+EXTINF:-1 group-title="Spor" tvg-logo="https://epg.pw/media/images/epg/2024/09/30/20240930021242784769_92.png",93. Arena Sport 3
 http://74214be9.edemist.com/iptv/WUX6STDKBG73GKNYAF5U3KMF/7331/index.m3u8
 
 #EXTINF:-1 group-title="Spor" tvg-logo="https://www.tvarenasport.si/uploads/web/arenasport4.png",94. Arena Sport 4
@@ -293,6 +290,7 @@ https://familyhls.persiana.live/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://r.resimlink.com/Hl9O5JKDd.jpg",573. Persina Science
 https://scihls.persiana.live/hls/stream.m3u8
+
 
 
 
