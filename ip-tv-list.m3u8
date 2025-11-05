@@ -55,19 +55,19 @@ https://mox1.cinemax6.com:3914/stream/play.m3u8
 http://filmboxtv.xyz:8080/Test/RY6skQ7HeALB/69
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/qaeisRXj.png",19. Filmbox Action
-http://208.79.153.42/akamaissh101/ssh101/filmact/playlist.m3u8
+http://208.79.153.42/akamaissh101/ssh101/aksiyonfilm/playlist.m3u8
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/1TtRuz.png",20. Filmbox Vizyon
-http://208.79.153.42/akamaissh101/ssh101/filmViz/playlist.m3u8
+http://208.79.153.42/akamaissh101/ssh101/vizyonfilm/playlist.m3u8
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/WaojR0zVxU.png",21. Filmbox Stars
-http://208.79.153.42/akamaissh101/ssh101/filmstar/playlist.m3u8
+http://208.79.153.42/akamaissh101/ssh101/vizyonstar/playlist.m3u8
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/KDQxX.png",27. TV Platformları
 https://box9.cinemax6.com:3350/stream/play.m3u8
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/ro8Vw.png",28. Nova Dizi
-http://208.79.153.42/akamaissh101/ssh101/diziv/playlist.m3u8
+http://208.79.153.42/akamaissh101/ssh101/vizondizi/playlist.m3u8
 
 #EXTINF:-1 group-title="Yabancı" tvg-logo="https://r.resimlink.com/EROuUDAL.png",30. Now Movies Horror
 https://a8.radyotelekom.com.tr:3881/hybrid/play.m3u8
@@ -266,6 +266,7 @@ https://familyhls.persiana.live/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://r.resimlink.com/Hl9O5JKDd.jpg",573. Persina Science
 https://scihls.persiana.live/hls/stream.m3u8
+
 
 
 
