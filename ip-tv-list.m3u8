@@ -78,6 +78,9 @@ http://208.79.153.42/akamaissh101/ssh101/planet_aksiyon1/playlist.m3u8
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/X5Q4nh.png",34. Planet Türk
 http://208.79.153.42/akamaissh101/ssh101/planet_turk2/playlist.m3u8
 
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/v5jRqL_D.png",34. Planet Süpermax
+http://208.79.153.42/akamaissh101/ssh101/planet_supermax7/playlist.m3u8
+
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/JhZ4a.png",66. Play Sinema
 https://ip100.radyotelekomtv.com:3784/stream/play.m3u8
 
@@ -266,6 +269,7 @@ https://familyhls.persiana.live/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://r.resimlink.com/Hl9O5JKDd.jpg",573. Persina Science
 https://scihls.persiana.live/hls/stream.m3u8
+
 
 
 
