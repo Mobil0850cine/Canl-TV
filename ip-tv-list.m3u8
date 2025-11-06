@@ -16,7 +16,7 @@ https://box3.cinemax6.com:3406/stream/play.m3u8
 https://box4.cinemax6.com:3843/stream/play.m3u8
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/mkrtiTy5AH.png",6. Vizon Prime
-https://mox7.cinemax6.com:3006/stream/play.m3u8
+https://mox10.cinemax6.com:3006/stream/play.m3u8
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/QzwdsRYOWek1.png",7. Vizon Action
 https://box9.cinemax6.com:3183/stream/play.m3u8
@@ -269,6 +269,7 @@ https://familyhls.persiana.live/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://r.resimlink.com/Hl9O5JKDd.jpg",573. Persina Science
 https://scihls.persiana.live/hls/stream.m3u8
+
 
 
 
