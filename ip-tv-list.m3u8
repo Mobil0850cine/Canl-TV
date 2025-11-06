@@ -10,7 +10,7 @@ https://mox7.cinemax6.com:3118/stream/play.m3u8
 https://box1.cinemax6.com:3020/stream/play.m3u8
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/l6uHwn.png",4. Cine 6 Vizyon
-https://box3.cinemax6.com:3406/stream/play.m3u8
+https://box10.cinemax6.com:3406/stream/play.m3u8
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/M_qj5-K.png",5. Cine 6 Türk
 https://box4.cinemax6.com:3843/stream/play.m3u8
@@ -71,6 +71,12 @@ http://208.79.153.42/akamaissh101/ssh101/vizondizi/playlist.m3u8
 
 #EXTINF:-1 group-title="Yabancı" tvg-logo="https://r.resimlink.com/EROuUDAL.png",30. Now Movies Horror
 https://a8.radyotelekom.com.tr:3881/hybrid/play.m3u8
+
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/w4I73ZqXJF.png",31. HBB TV
+http://208.79.153.42/akamaissh101/ssh101/hbb_tv/playlist.m3u8
+
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/KrPIM.png",32. Vizon HD
+http://208.79.153.42/akamaissh101/ssh101/vizon_teber8/playlist.m3u8
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/qiIYVPl.png",33. Planet Aksiyon
 http://208.79.153.42/akamaissh101/ssh101/planet_aksiyon1/playlist.m3u8
@@ -269,6 +275,7 @@ https://familyhls.persiana.live/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://r.resimlink.com/Hl9O5JKDd.jpg",573. Persina Science
 https://scihls.persiana.live/hls/stream.m3u8
+
 
 
 
