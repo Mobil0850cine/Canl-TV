@@ -67,7 +67,7 @@ http://208.79.153.42/akamaissh101/ssh101/vizyonstar/playlist.m3u8
 https://box9.cinemax6.com:3350/stream/play.m3u8
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/ro8Vw.png",28. Vizon Dizi
-http://208.79.153.42/akamaissh101/ssh101/vizondizi/playlist.m3u8
+http://208.79.153.42/akamaissh101/ssh101/vzndizi/playlist.m3u8
 
 #EXTINF:-1 group-title="Yabancı" tvg-logo="https://r.resimlink.com/EROuUDAL.png",30. Now Movies Horror
 https://a8.radyotelekom.com.tr:3881/hybrid/play.m3u8
@@ -284,6 +284,7 @@ https://familyhls.persiana.live/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://r.resimlink.com/Hl9O5JKDd.jpg",573. Persina Science
 https://scihls.persiana.live/hls/stream.m3u8
+
 
 
 
