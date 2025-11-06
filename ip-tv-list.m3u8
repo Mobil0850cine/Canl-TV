@@ -55,40 +55,40 @@ https://mox5.cinemax6.com:3914/stream/play.m3u8
 http://filmboxtv.xyz:8080/Test/RY6skQ7HeALB/69
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/qaeisRXj.png",19. Filmbox Action
-http://208.79.153.42/akamaissh101/ssh101/filmaksiyon/playlist.m3u8
+https://live20.bozztv.com/akamaissh101/ssh101/filmaksiyon/playlist.m3u8
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/1TtRuz.png",20. Filmbox Vizyon
-http://208.79.153.42/akamaissh101/ssh101/vizyonfilm/playlist.m3u8
+https://live20.bozztv.com/akamaissh101/ssh101/vizyonfilm/playlist.m3u8
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/WaojR0zVxU.png",21. Filmbox Stars
-http://208.79.153.42/akamaissh101/ssh101/vizyonstar/playlist.m3u8
+https://live20.bozztv.com/akamaissh101/ssh101/vizyonstar/playlist.m3u8
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/KDQxX.png",27. TV Platformları
 https://box9.cinemax6.com:3350/stream/play.m3u8
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/ro8Vw.png",28. Vizon Dizi
-http://208.79.153.42/akamaissh101/ssh101/vzndizi/playlist.m3u8
+https://live20.bozztv.com/akamaissh101/ssh101/vzndizi/playlist.m3u8
 
 #EXTINF:-1 group-title="Yabancı" tvg-logo="https://r.resimlink.com/EROuUDAL.png",30. Now Movies Horror
 https://a8.radyotelekom.com.tr:3881/hybrid/play.m3u8
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/w4I73ZqXJF.png",31. HBB TV
-http://208.79.153.42/akamaissh101/ssh101/hbb_tv/playlist.m3u8
+https://live20.bozztv.com/akamaissh101/ssh101/hbb_tv/playlist.m3u8
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/KrPIM.png",32. Vizon HD
-http://208.79.153.42/akamaissh101/ssh101/vizon_teber8/playlist.m3u8
+https://live20.bozztv.com/akamaissh101/ssh101/vizon_teber8/playlist.m3u8
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/RrDJ9fpgsA5G.png",33. Kral 6
-http://208.79.153.42/akamaissh101/ssh101/turk6/playlist.m3u8
+https://live20.bozztv.com/akamaissh101/ssh101/turk6/playlist.m3u8
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/qiIYVPl.png",34. Planet Aksiyon
-http://208.79.153.42/akamaissh101/ssh101/planet_aksiyon1/playlist.m3u8
+https://live20.bozztv.com/akamaissh101/ssh101/planet_aksiyon1/playlist.m3u8
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/X5Q4nh.png",35. Planet Türk
 https://live20.bozztv.com/akamaissh101/ssh101/planet_turk2/chunks.m3u8
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/v5jRqL_D.png",36. Planet Süpermax
-http://208.79.153.42/akamaissh101/ssh101/planet_supermax7/playlist.m3u8
+https://live20.bozztv.com/akamaissh101/ssh101/planet_supermax7/playlist.m3u8
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/JhZ4a.png",66. Play Sinema
 https://ip100.radyotelekomtv.com:3784/stream/play.m3u8
@@ -284,6 +284,7 @@ https://familyhls.persiana.live/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://r.resimlink.com/Hl9O5JKDd.jpg",573. Persina Science
 https://scihls.persiana.live/hls/stream.m3u8
+
 
 
 
