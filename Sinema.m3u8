@@ -78,13 +78,16 @@ http://208.79.153.42/akamaissh101/ssh101/hbb_tv/playlist.m3u8
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/KrPIM.png",32. Vizon HD
 http://208.79.153.42/akamaissh101/ssh101/vizon_teber8/playlist.m3u8
 
-#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/qiIYVPl.png",33. Planet Aksiyon
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/RrDJ9fpgsA5G.png",33. Kral 6
+http://208.79.153.42/akamaissh101/ssh101/turk6/playlist.m3u8
+
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/qiIYVPl.png",34. Planet Aksiyon
 http://208.79.153.42/akamaissh101/ssh101/planet_aksiyon1/playlist.m3u8
 
-#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/X5Q4nh.png",34. Planet Türk
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/X5Q4nh.png",35. Planet Türk
 http://208.79.153.42/akamaissh101/ssh101/planet_turk2/playlist.m3u8
 
-#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/v5jRqL_D.png",35. Planet Süpermax
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/v5jRqL_D.png",36. Planet Süpermax
 http://208.79.153.42/akamaissh101/ssh101/planet_supermax7/playlist.m3u8
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/9vT5ZIX-tr7d.png",35. Filmax Aksiyon
@@ -192,6 +195,7 @@ https://host.onlineradyotv.net:8081/sdmtv/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://i.imgur.com/Mm8hdfx.png",105. Deniz Sinema
 https://live.artidijitalmedya.com/artidijital_denizpostasi/denizpostasi/chunks.m3u8
+
 
 
 
