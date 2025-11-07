@@ -153,13 +153,13 @@ https://live.artidijitalmedya.com/artidijital_denizpostasi/denizpostasi/chunks.m
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/bmLaf9Kdne.png",106. TV 90
 https://tv.ismailturret.workers.dev/euro90tvglobal.m3u8
 
-#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/Ezh80L2d.png" Germany Aksiyon
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/Ezh80L2d.png" ,Germany Aksiyon
 http://germanyqdnsx17.com:8080/enis11/enis1111/112311
 
-#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/Ezh80L2d.png" Max 4K
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/Ezh80L2d.png" ,Max 4K
 http://germanyqdnsx17.com:8080/enis11/enis1111/90128
 
-#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/Ezh80L2d.png" Max Vizyon
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/Ezh80L2d.png" ,Max Vizyon
 http://germanyqdnsx17.com:8080/enis11/enis1111/90113
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/Ezh80L2d.png" Max Aksiyon
@@ -218,6 +218,7 @@ http://kavsam55932.xyz:8080/ytc3326/202ce39d03a8f970/188107
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/Ezh80L2d.png" Salon Max
 http://kavsam55932.xyz:8080/rmzn2268/rmzn.28/6154
+
 
 
 
