@@ -184,7 +184,7 @@ https://amg00090-blueantmedia-naturetime-samsungfr-yakbf.amagi.tv/playlist/amg00
 https://streams2.sofast.tv/sofastplayout/33c31ac4-51fa-46ae-afd0-0d1fe5e60a80_0_HLS/bitrate2.m3u8
 
 #EXTINF:-1 group-title="Çocuk" tvg-logo="https://r.resimlink.com/pJ0l6_koKFjX.png",250. Vizon Çocuk
-https://playlist.fasttvcdn.com/pl/rf...laylist/1.m3u8
+https://catcast.ismailturret.workers.dev/futurama.m3u8
 
 #EXTINF:-1 group-title="Çocuk" tvg-logo="https://r.resimlink.com/bLJBC4.png",251. Planet Çocuk
 https://live20.bozztv.com/akamaissh101/ssh101/planet_cocuk4/playlist.m3u8
@@ -272,6 +272,7 @@ https://familyhls.persiana.live/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://r.resimlink.com/Hl9O5JKDd.jpg",573. Persina Science
 https://scihls.persiana.live/hls/stream.m3u8
+
 
 
 
