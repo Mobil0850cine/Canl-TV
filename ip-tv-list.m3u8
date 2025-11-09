@@ -34,7 +34,7 @@ https://box5.cinemax6.com:3040/stream/play.m3u8
 https://box9.cinemax6.com:3111/stream/play.m3u8
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/bE0BSAH.png",12. Sine Yerli
-https://box6.cinemax6.com:3592/stream/play.m3u8
+https://box2.cinemax6.com:3592/stream/play.m3u8
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/-GIevgXu2.png",13. Filmclup
 https://mox2.cinemax6.com:3468/stream/play.m3u8
@@ -278,6 +278,7 @@ https://familyhls.persiana.live/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://r.resimlink.com/Hl9O5JKDd.jpg",573. Persina Science
 https://scihls.persiana.live/hls/stream.m3u8
+
 
 
 
