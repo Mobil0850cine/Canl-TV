@@ -7,40 +7,40 @@ https://mox9.cinemax6.com:3614/stream/play.m3u8
 https://mox7.cinemax6.com:3118/stream/play.m3u8
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/dxFRW6y-i.png",3. Cine 6 Aksiyon
-https://box1.cinemax6.com:3020/stream/play.m3u8
+https://box4.cinemax6.com:3020/stream/play.m3u8
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/l6uHwn.png",4. Cine 6 Vizyon
-https://box10.cinemax6.com:3478/stream/play.m3u8
+https://box7.cinemax6.com:3478/stream/play.m3u8
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/M_qj5-K.png",5. Cine 6 Türk
-https://box4.cinemax6.com:3843/stream/play.m3u8
+https://box1.cinemax6.com:3843/stream/play.m3u8
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/mkrtiTy5AH.png",6. Vizon Prime
 https://mox10.cinemax6.com:3006/stream/play.m3u8
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/QzwdsRYOWek1.png",7. Vizon Action
-https://box9.cinemax6.com:3183/stream/play.m3u8
+https://box6.cinemax6.com:3183/stream/play.m3u8
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/jRcTr3be.png",8. Vizon Gold
-https://box5.cinemax6.com:3516/stream/play.m3u8
+https://box10.cinemax6.com:3516/stream/play.m3u8
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/lXNg9biSMhcL.png",9. Vizon Türk 
 https://mox8.cinemax6.com:3760/stream/play.m3u8
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/kgeM8fb5np9q.png",10. Sine Adrenalin
-https://box2.cinemax6.com:3040/stream/play.m3u8
+https://box5.cinemax6.com:3040/stream/play.m3u8
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/exIQ7NG.png",11. Sine Premıum
-https://box8.cinemax6.com:3111/stream/play.m3u8
+https://box9.cinemax6.com:3111/stream/play.m3u8
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/bE0BSAH.png",12. Sine Yerli
 https://box6.cinemax6.com:3592/stream/play.m3u8
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/-GIevgXu2.png",13. Filmclup
-https://mox6.cinemax6.com:3468/stream/play.m3u8
+https://mox2.cinemax6.com:3468/stream/play.m3u8
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/Sd9GCtKn5_i8.png",14. Filmclup Aksiyon
-https://box3.cinemax6.com:3732/stream/play.m3u8
+https://box8.cinemax6.com:3732/stream/play.m3u8
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/9ozqwc-.png",15. Filmclup Komedi
 https://mox1.cinemax6.com:3860/stream/play.m3u8
@@ -64,7 +64,7 @@ http://162.212.179.32/akamaissh101/ssh101/vizyonbox/playlist.m3u8
 http://162.212.179.32/akamaissh101/ssh101/starbox/playlist.m3u8
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/KDQxX.png",27. TV Platformları
-https://box7.cinemax6.com:3838/stream/play.m3u8
+https://box3.cinemax6.com:3838/stream/play.m3u8
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/ro8Vw.png",28. Vizon Dizi
 http://162.212.179.32/akamaissh101/ssh101/dizivizon/playlist.m3u8
@@ -278,6 +278,7 @@ https://familyhls.persiana.live/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://r.resimlink.com/Hl9O5JKDd.jpg",573. Persina Science
 https://scihls.persiana.live/hls/stream.m3u8
+
 
 
 
