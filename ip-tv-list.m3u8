@@ -123,6 +123,9 @@ https://tv.ismailturret.workers.dev/euro90tvglobal.m3u8
 #EXTINF:-1 group-title="Spor" tvg-logo="https://r.resimlink.com/-6jkfev4.png",77. Vizon Spor
 http://162.212.179.32/akamaissh101/ssh101/vizspor/playlist.m3u8
 
+#EXTINF:-1 group-title="Spor" tvg-logo="https://r.resimlink.com/p8BVryq620C.png",77. Vizon Spor
+https://cdn-gzcspor.yayin.com.tr/gzcspor/gzcspor/playlist.m3u8
+
 #EXTINF:-1 group-title="Spor" tvg-logo="https://upload.wikimedia.org/wikipedia/az/0/04/CBC_Sport_TV_loqo.png",79. CBC Sport
 http://vizi.vizi.workers.dev/?ID=52 
 
@@ -275,6 +278,7 @@ https://familyhls.persiana.live/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://r.resimlink.com/Hl9O5JKDd.jpg",573. Persina Science
 https://scihls.persiana.live/hls/stream.m3u8
+
 
 
 
