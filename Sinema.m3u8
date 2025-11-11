@@ -33,44 +33,44 @@ https://a8.radyotelekom.com.tr:3881/hybrid/play.m3u8
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/w4I73ZqXJF.png",31. HBB TV
 http://162.212.179.32/akamaissh101/ssh101/hbb_tv/playlist.m3u8
 
-#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/RrDJ9fpgsA5G.png",33. Kral 6
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/RrDJ9fpgsA5G.png",32. Kral 6
 http://162.212.179.32/akamaissh101/ssh101/turk6/playlist.m3u8
 
-#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/qiIYVPl.png",34. Planet Aksiyon
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/qiIYVPl.png",33. Planet Aksiyon
 http://162.212.179.32/akamaissh101/ssh101/planet_aksiyon1/playlist.m3u8
 
-#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/X5Q4nh.png",35. Planet Türk
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/X5Q4nh.png",34. Planet Türk
 http://162.212.179.32/akamaissh101/ssh101/planet_turk2/chunks.m3u8
 
-#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/v5jRqL_D.png",36. Planet Süpermax
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/v5jRqL_D.png",35. Planet Süpermax
 http://162.212.179.32/akamaissh101/ssh101/teber_star/playlist.m3u8
 
 
-#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/9vT5ZIX-tr7d.png",37. Filmax Aksiyon
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/9vT5ZIX-tr7d.png",40. Filmax Aksiyon
 http://ss.wancolonel.xyz:8080/Redear/gWFBhHX/385
 
-#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/LR4IfKcq8.png,38. Filmax Gold
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/LR4IfKcq8.png,41. Filmax Gold
 http://ss.wancolonel.xyz:8080/Redear/gWFBhHX/389
 
-#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/iIZfSrgp.png",39. Filmax Korku
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/iIZfSrgp.png",42. Filmax Korku
 http://ss.wancolonel.xyz:8080/Redear/gWFBhHX/383
 
-#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/MNqz2lLfp.png",40. Filmax Aile
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/MNqz2lLfp.png",43. Filmax Aile
 http://ss.wancolonel.xyz:8080/Redear/gWFBhHX/214620
 
-#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/yGEuj6.png",41. Filmax Komedi
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/yGEuj6.png",44. Filmax Komedi
 http://ss.wancolonel.xyz:8080/Redear/gWFBhHX/388
 
-#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/QtEOW5AGMb.png",42. Filmax Türk
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/QtEOW5AGMb.png",45. Filmax Türk
 http://ss.wancolonel.xyz:8080/Redear/gWFBhHX/387
 
-#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/ZFpe1a.png",43. Filmax Yeşilçam
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/ZFpe1a.png",46. Filmax Yeşilçam
 http://ss.wancolonel.xyz:8080/Redear/gWFBhHX/586238
 
-#EXTINF:-1 xui-id="43682" tvg-id="" tvg-name="STAR ACTION" tvg-logo="https://r.resimlink.com/5xsoVHN9waF.png",44. Star Action
+#EXTINF:-1 xui-id="43682" tvg-id="" tvg-name="STAR ACTION" tvg-logo="https://r.resimlink.com/5xsoVHN9waF.png",47. Star Action
 http://hasaiptv.xyz:80/play/Z-sB805WyHM-SRZUxmSQetvsl23AWoDqOmGJrAvrTug
 
-#EXTINF:-1 xui-id="43688" tvg-id="" tvg-name="STAR PREMIER" tvg-logo="https://r.resimlink.com/K1i2xMbOq.png",45. Star Premier
+#EXTINF:-1 xui-id="43688" tvg-id="" tvg-name="STAR PREMIER" tvg-logo="https://r.resimlink.com/K1i2xMbOq.png",48. Star Premier
 http://hasaiptv.xyz:80/play/Z-sB805WyHM-SRZUxmSQejRd4pQEhJt8wGMJ3dgJcFc
 
 #EXTINF:-1 group-title="Yabancı" tvg-logo="https://r.resimlink.com/hYG6Wn9TN.png",60. Max Türk
@@ -180,6 +180,10 @@ http://kavsam55932.xyz:8080/ytc3326/202ce39d03a8f970/188107
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/Ezh80L2d.png" ,135. Salon Max
 http://kavsam55932.xyz:8080/rmzn2268/rmzn.28/6154
+
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/rm-gk7q.png" ,136. Cine AZ
+https://tv191.radyotelekom.com.tr:3394/stream/play.m3u8
+
 
 
 
