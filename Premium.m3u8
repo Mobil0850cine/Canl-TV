@@ -147,6 +147,9 @@ http://74214be9.edemist.com/iptv/WUX6STDKBG73GKNYAF5U3KMF/7329/index.m3u8
 #EXTINF:-1 group-title="Spor" tvg-logo="https://epg.pw/media/images/epg/2024/09/30/20240930020915077572_54.png",92. Arena Sport 2
 http://74214be9.edemist.com/iptv/WUX6STDKBG73GKNYAF5U3KMF/7330/index.m3u8
 
+EXTINF:-1 group-title="Spor" tvg-logo="https://epg.pw/media/images/epg/2024/09/30/20240930021242784769_92.png",93. Arena Sport 3
+http://74214be9.edemist.com/iptv/WUX6STDKBG73GKNYAF5U3KMF/7331/index.m3u8
+
 #EXTINF:-1 group-title="Spor" tvg-logo="https://www.tvarenasport.si/uploads/web/arenasport4.png",94. Arena Sport 4
 http://74214be9.edemist.com/iptv/WUX6STDKBG73GKNYAF5U3KMF/7332/index.m3u8
 
@@ -287,6 +290,7 @@ https://familyhls.persiana.live/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://r.resimlink.com/Hl9O5JKDd.jpg",573. Persina Science
 https://scihls.persiana.live/hls/stream.m3u8
+
 
 
 
