@@ -207,6 +207,9 @@ https://kanal53.ozelip.com:3448/hybrid/play.m3u8
 #EXTINF:-1 group-title="Belgesel & Yaşam" tvg-logo="https://r.resimlink.com/bpsInN8cqWY.png",152. Rize Türk TV
 https://yayin.rizeturk.com:3777/hybrid/play.m3u8
 
+#EXTINF:-1 group-title="Belgesel & Yaşam" tvg-logo="https://r.resimlink.com/X8YcZE2_w5D.png",153. Life TV
+https://live.artidijitalmedya.com/artidijital_lifetv/lifetv/chunks.m3u8
+
 #EXTINF:-1 group-title="Çocuk" tvg-logo="https://r.resimlink.com/pJ0l6_koKFjX.png",250. Vizon Çocuk
 https://catcast.ismailturret.workers.dev/futurama.m3u8
 
@@ -299,6 +302,7 @@ https://familyhls.persiana.live/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://r.resimlink.com/Hl9O5JKDd.jpg",573. Persina Science
 https://scihls.persiana.live/hls/stream.m3u8
+
 
 
 
