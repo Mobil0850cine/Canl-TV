@@ -121,6 +121,9 @@ http://hasaiptv.xyz:80/play/Z-sB805WyHM-SRZUxmSQetvsl23AWoDqOmGJrAvrTug
 #EXTINF:-1 xui-id="43688" tvg-id="" tvg-name="STAR PREMIER" tvg-logo="https://r.resimlink.com/K1i2xMbOq.png",48. Star Premier
 http://hasaiptv.xyz:80/play/Z-sB805WyHM-SRZUxmSQejRd4pQEhJt8wGMJ3dgJcFc
 
+#EXTINF:-1 xui-id="43688" tvg-id="" tvg-name="STAR PREMIER" tvg-logo="https://r.resimlink.com/dfxmG6YZVK.png",49. Cine Verse
+http://apk.beinbet.online:8080/live/cm1202/cm00xyy/181915.ts
+
 #EXTINF:-1 group-title="Yabancı" tvg-logo="https://r.resimlink.com/hYG6Wn9TN.png",60. Max Türk
 http://ss.wancolonel.xyz:8080/Redear/gWFBhHX/10851
 
@@ -231,6 +234,7 @@ http://kavsam55932.xyz:8080/rmzn2268/rmzn.28/6154
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/rm-gk7q.png" ,136. Cine AZ
 https://tv191.radyotelekom.com.tr:3394/stream/play.m3u8
+
 
 
 
