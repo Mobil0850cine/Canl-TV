@@ -142,9 +142,6 @@ http://cdn4.yayin.com.tr/tv36cinema/video.m3u8
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/Edry7VhCWiO.png",99. İsviçre TV
 https://tivi44.ozelip.com:3269/stream/play.m3u8
 
-#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://lh6.googleusercontent.com/proxy/VLrnOczCmI56ZLJhcK_FAt8spuSkmuR2cJgDNxWGfh48ZYca48uomRA2ONcnNnYRl8B5DNaWYZIz",100. Cine 1
-https://live.artidijitalmedya.com/artidijital_cine1/cine1/playlist.m3u8
-
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/L5vszd.png",101. Cine 5
 https://host.onlineradyotv.net:8081/cine5tv/tracks-v1a1/mono.m3u8
 
@@ -202,35 +199,9 @@ http://vip99nx.xyz:80/live/msavustmakbule/a.29112020bas/861233.ts
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/Ezh80L2d.png" ,124. Cinetime Aksiyon
 http://vip99nx.xyz:80/live/msavustmakbule/a.29112020bas/846948.ts
 
-#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/Ezh80L2d.png" ,125. Cinetime Yeşilçam
-http://vip99nx.xyz:80/live/msavustmakbule/a.29112020bas/860448.ts
-
-#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/Ezh80L2d.png" ,126. Cinema Vizyon
-http://vip99nx.xyz:80/live/msavustmakbule/a.29112020bas/863102.ts
-
-#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/Ezh80L2d.png" ,127. Cinema Yerli
-http://vip99nx.xyz:80/live/msavustmakbule/a.29112020bas/863140.ts
-
-#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/Ezh80L2d.png" ,128. Cinema Western
-http://vip99nx.xyz:80/live/msavustmakbule/a.29112020bas/863259.ts
-
-#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/Ezh80L2d.png" ,129. Maxim Sinema
-http://kavsam55932.xyz:8080/ytc3326/202ce39d03a8f970/452845
-
-#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/Ezh80L2d.png" ,130. 4K Cinema
-http://kavsam55932.xyz:8080/ytc3326/202ce39d03a8f970/102233
-
-#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/Ezh80L2d.png" ,133. Sine Max
-http://kavsam55932.xyz:8080/ytc3326/202ce39d03a8f970/170441
-
-#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/Ezh80L2d.png" ,134. Max Film
-http://kavsam55932.xyz:8080/ytc3326/202ce39d03a8f970/188107
-
-#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/Ezh80L2d.png" ,135. Salon Max
-http://kavsam55932.xyz:8080/rmzn2268/rmzn.28/6154
-
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/rm-gk7q.png" ,136. Cine AZ
 https://tv191.radyotelekom.com.tr:3394/stream/play.m3u8
+
 
 
 
