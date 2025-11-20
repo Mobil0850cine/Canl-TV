@@ -40,7 +40,7 @@ https://box4.cinemax6.com:3592/stream/play.m3u8
 https://mox4.cinemax6.com:3468/stream/play.m3u8
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/Sd9GCtKn5_i8.png",14. Filmclup Aksiyon
-https://box1.cinemax6.com:3732/stream/play.m3u8
+https://box2.cinemax6.com:3732/stream/play.m3u8
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/9ozqwc-.png",15. Filmclup Komedi
 https://mox7.cinemax6.com:3860/stream/play.m3u8
@@ -55,13 +55,13 @@ https://mox8.cinemax6.com:3914/stream/play.m3u8
 https://mox6.cinemax6.com:3943/stream/play.m3u8
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/qaeisRXj.png",19. Filmbox Action
-http://162.212.179.32/akamaissh101/ssh101/actionbox/playlist.m3u8
+https://trox.cinemax6.com:3948/stream/play.m3u8
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/1TtRuz.png",20. Filmbox Vizyon
-http://162.212.179.32/akamaissh101/ssh101/vizyonbox/playlist.m3u8
+https://trox.cinemax6.com:3770/stream/play.m3u8
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/WaojR0zVxU.png",21. Filmbox Stars
-http://162.212.179.32/akamaissh101/ssh101/starbox/playlist.m3u8
+https://trox.cinemax6.com:3209/stream/play.m3u8
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/hTIPwsHGBEnv.png",26. Nova TV HD
 http://162.212.179.32/akamaissh101/ssh101/novatv/playlist.m3u8
@@ -87,9 +87,8 @@ http://162.212.179.32/akamaissh101/ssh101/planet_aksiyon1/playlist.m3u8
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/X5Q4nh.png",34. Planet Türk
 http://162.212.179.32/akamaissh101/ssh101/planet_turk2/chunks.m3u8
 
-#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/v5jRqL_D.png",35. Planet Süpermax
-http://162.212.179.32/akamaissh101/ssh101/teber_star/playlist.m3u8
-
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/v5jRqL_D.png",36. Planet Star
+http://162.212.179.32/akamaissh101/ssh101/planet_star/playlist.m3u8
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/9vT5ZIX-tr7d.png",40. Filmax Aksiyon
 http://ss.wancolonel.xyz:8080/Redear/gWFBhHX/385
@@ -201,6 +200,7 @@ http://vip99nx.xyz:80/live/msavustmakbule/a.29112020bas/846948.ts
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/rm-gk7q.png" ,136. Cine AZ
 https://tv191.radyotelekom.com.tr:3394/stream/play.m3u8
+
 
 
 
