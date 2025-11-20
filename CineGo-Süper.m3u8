@@ -21,8 +21,8 @@ https://mox10.cinemax6.com:3055/stream/play.m3u8
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/WaojR0zVxU.png",21. Filmbox Stars
 http://162.212.179.32/akamaissh101/ssh101/starbox/playlist.m3u8
 
-#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/KDQxX.png",27. TV Platformları
-https://box10.cinemax6.com:3838/stream/play.m3u8
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/WaojR0zVxU.png",21. Filmbox Stars
+https://trox.cinemax6.com:3209/stream/play.m3u8
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/wHE3Ru.png",29. Dizimax
 https://cdn18.yayin.com.tr/nowplay/tracks-v1a1/mono.m3u8
@@ -45,8 +45,14 @@ http://162.212.179.32/akamaissh101/ssh101/planet_aksiyon1/playlist.m3u8
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/X5Q4nh.png",35. Planet Türk
 http://162.212.179.32/akamaissh101/ssh101/planet_turk2/chunks.m3u8
 
-#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/v5jRqL_D.png",36. Planet Süpermax
-http://162.212.179.32/akamaissh101/ssh101/teber_star/playlist.m3u8
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/v5jRqL_D.png",36. Planet Star
+http://162.212.179.32/akamaissh101/ssh101/planet_star/playlist.m3u8
+
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/9rtGZv.png",37. Fırtına TV
+http://162.212.179.32/akamaissh101/ssh101/FIRTINA_TV/playlist.m3u8
+
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/jC0lzIsQUHBd.png",38. Teleon HD
+https://streams.uzunmuhalefet.com/stream/d9827983-64de-44e2-88de-3397016a304a.m3u8
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/JhZ4a.png",66. Play Sinema
 https://ip100.radyotelekomtv.com:3784/stream/play.m3u8
@@ -117,9 +123,6 @@ http://162.212.179.32/akamaissh101/ssh101/planet_ehlibeyt3/playlist.m3u8
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/7mVnKU902wO.png",117. Planet Belgesel 
 http://162.212.179.32/akamaissh101/ssh101/planet_safari5/playlist.m3u8
 
-#EXTINF:-1 group-title="Belgesel & Yaşam" tvg-logo="https://r.resimlink.com/OurzJP1hEwo.png",118. Living Belgesel
-http://12k-service.com/play/live.php?mac=00:1a:79:5a:dc:83&stream=314482&extension=ts
-
 #EXTINF:-1 group-title="Belgesel & Yaşam" tvg-logo="https://r.resimlink.com/DRC81axSlemZ.png",119. Docuax Wild
 http://ss.wancolonel.xyz:8080/Redear/gWFBhHX/219403
 
@@ -166,7 +169,7 @@ https://cdn4.yayin.com.tr/channel6tv/index.m3u8
 https://cdn-4turkpop.yayin.com.tr/4turkpop/4turkpop/playlist.m3u8
 
 #EXTINF:-1 group-title="Belgesel & Yaşam" tvg-logo="https://r.resimlink.com/NUdDtgI.png",273. Planet Müzik
-http://162.212.179.32/akamaissh101/ssh101/planet_tezene6/playlist.m3u8        
+http://162.212.179.32/akamaissh101/ssh101/planet_tezene6/playlist.m3u8            
 
 #EXTINF:-1 group-title="Müzik" tvg-logo="https://r.resimlink.com/yfqC3Hsi.png",274. Yansıma Müzik
 http://cdn4.yayin.com.tr/yansimamedyatv/video.m3u8
@@ -459,6 +462,7 @@ https://familyhls.persiana.live/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://r.resimlink.com/Hl9O5JKDd.jpg",573. Persina Science
 
 https://scihls.persiana.live/hls/stream.m3u8
+
 
 
 
