@@ -111,12 +111,6 @@ http://ss.wancolonel.xyz:8080/Redear/gWFBhHX/387
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/ZFpe1a.png",46. Filmax Yeşilçam
 http://ss.wancolonel.xyz:8080/Redear/gWFBhHX/586238
 
-#EXTINF:-1 xui-id="43682" tvg-id="" tvg-name="STAR ACTION" tvg-logo="https://r.resimlink.com/5xsoVHN9waF.png",47. Star Action
-http://hasaiptv.xyz:80/play/Z-sB805WyHM-SRZUxmSQetvsl23AWoDqOmGJrAvrTug
-
-#EXTINF:-1 xui-id="43688" tvg-id="" tvg-name="STAR PREMIER" tvg-logo="https://r.resimlink.com/K1i2xMbOq.png",48. Star Premier
-http://hasaiptv.xyz:80/play/Z-sB805WyHM-SRZUxmSQejRd4pQEhJt8wGMJ3dgJcFc
-
 #EXTINF:-1 xui-id="43688" tvg-id="" tvg-name="STAR PREMIER" tvg-logo="https://r.resimlink.com/dfxmG6YZVK.png",49. Cine Verse
 http://apk.beinbet.online:8080/live/cm1202/cm00xyy/181915.ts
 
@@ -139,7 +133,7 @@ https://live20.bozztv.com/akamaissh101/ssh101/TBRT7/playlist.m3u8
 http://cdn4.yayin.com.tr/tv36cinema/video.m3u8
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/Edry7VhCWiO.png",99. İsviçre TV
-https://tivi44.ozelip.com:3269/stream/play.m3u8
+https://i41.ozelip.com:3269/hybrid/play.m3u8
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/L5vszd.png",101. Cine 5
 https://host.onlineradyotv.net:8081/cine5tv/tracks-v1a1/mono.m3u8
@@ -200,6 +194,7 @@ http://vip99nx.xyz:80/live/msavustmakbule/a.29112020bas/846948.ts
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/rm-gk7q.png" ,136. Cine AZ
 https://tv191.radyotelekom.com.tr:3394/stream/play.m3u8
+
 
 
 
