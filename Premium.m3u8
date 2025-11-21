@@ -96,9 +96,6 @@ http://162.212.179.32/akamaissh101/ssh101/planet_star/playlist.m3u8
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/X5Q4nh.png",36. Planet Türk
 http://162.212.179.32/akamaissh101/ssh101/planet_turk2/chunks.m3u8
 
-#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/9rtGZv.png",37. Fırtına TV
-http://162.212.179.32/akamaissh101/ssh101/FIRTINA_TV/playlist.m3u8
-
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/jC0lzIsQUHBd.png",38. Teleon HD
 https://streams.uzunmuhalefet.com/stream/d9827983-64de-44e2-88de-3397016a304a.m3u8
 
@@ -308,6 +305,7 @@ https://familyhls.persiana.live/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://r.resimlink.com/Hl9O5JKDd.jpg",573. Persina Science
 https://scihls.persiana.live/hls/stream.m3u8
+
 
 
 
