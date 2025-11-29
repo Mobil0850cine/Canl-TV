@@ -1,33 +1,36 @@
 #EXTM3U
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/DQ5FbGyUXn.png",1. Cine 6
-https://mox4.cinemax6.com:3614/stream/play.m3u8
+https://stream41.radyotelekom.com.tr/stream/m3u8/123a7a1787b50111fe8b5e9ef076f802/123a7a1787b50111fe8b5e9ef076f802.m3u8
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/LeJmvbatdBx.png",2. Cine 6 Premier
-https://mox6.cinemax6.com:3118/stream/play.m3u8
+https://stream41.radyotelekom.com.tr/stream/m3u8/9c39ce10468545bc7c0e66cb3b082567/9c39ce10468545bc7c0e66cb3b082567.m3u8
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/M_qj5-K.png",5. Cine 6 Türk
-https://box3.cinemax6.com:3843/stream/play.m3u8
+https://stream41.radyotelekom.com.tr/stream/m3u8/1c5c5bcb020d82f55b10742f5bb658ec/1c5c5bcb020d82f55b10742f5bb658ec.m3u8
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/jRcTr3be.png",8. Vizon Gold
-https://box6.cinemax6.com:3516/stream/play.m3u8
+https://stream41.radyotelekom.com.tr/stream/m3u8/5f5e22256d4c1fa7092d59053d8d63b1/5f5e22256d4c1fa7092d59053d8d63b1.m3u8
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/bE0BSAH.png",12. Sine Yerli
-https://box1.cinemax6.com:3592/stream/play.m3u8
+https://stream41.radyotelekom.com.tr/stream/m3u8/c03a95fcbb68b7be35df95604e87c1c7/c03a95fcbb68b7be35df95604e87c1c7.m3u8
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/6wrZV3KT4n07.png",16. Filmclup Family
-https://mox8.cinemax6.com:3055/stream/play.m3u8
+https://stream41.radyotelekom.com.tr/stream/m3u8/6d842d6dc148251513698db30e54479b/6d842d6dc148251513698db30e54479b.m3u8
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/WaojR0zVxU.png",21. Filmbox Stars
-https://trox.cinemax6.com:3209/stream/play.m3u8
+https://stream41.radyotelekom.com.tr/stream/m3u8/1f099e4b3892563bb09eba3f915d00a5/1f099e4b3892563bb09eba3f915d00a5.m3u8
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/wHE3Ru.png",29. Dizimax
 https://cdn18.yayin.com.tr/nowplay/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 group-title="Yabancı" tvg-logo="https://r.resimlink.com/WuGCMFJYa4y.png",30. Test Yayın
+https://tv192.radyotelekom.com.tr:3121/stream/play.m3u8
+
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/w4I73ZqXJF.png",31. HBB TV
 http://162.212.179.32/akamaissh101/ssh101/hbb_tv/playlist.m3u8
 
-#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/KrPIM.png",32. Vizon HD
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/KrPIM.png",32. Teber ON 
 http://162.212.179.32/akamaissh101/ssh101/vizon_teber8/playlist.m3u8
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/RrDJ9fpgsA5G.png",33. Kral 6
@@ -37,7 +40,7 @@ http://162.212.179.32/akamaissh101/ssh101/turk6/playlist.m3u8
 http://162.212.179.32/akamaissh101/ssh101/planet_aksiyon1/playlist.m3u8
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/XLtpj9.png",35. Planet Star
-http://162.212.179.32/akamaissh101/ssh101/planet_star/playlist.m3u8
+http://162.212.179.32/akamaissh101/ssh101/planet_star_tv/playlist.m3u8
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/X5Q4nh.png",36. Planet Türk
 http://162.212.179.32/akamaissh101/ssh101/planet_turk2/chunks.m3u8
@@ -468,6 +471,7 @@ https://familyhls.persiana.live/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://r.resimlink.com/Hl9O5JKDd.jpg",573. Persina Science
 
 https://scihls.persiana.live/hls/stream.m3u8
+
 
 
 
