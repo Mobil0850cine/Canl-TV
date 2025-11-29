@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/DQ5FbGyUXn.png",1. Cine 6
-https://stream41.radyotelekom.com.tr/stream/m3u8/758458552ea5b4817dbf4fd9dc9f1173/758458552ea5b4817dbf4fd9dc9f1173.m3u8
+https://stream41.radyotelekom.com.tr/stream/m3u8/123a7a1787b50111fe8b5e9ef076f802/123a7a1787b50111fe8b5e9ef076f802.m3u8
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/LeJmvbatdBx.png",2. Cine 6 Premier
 https://stream41.radyotelekom.com.tr/stream/m3u8/e6edf5b238bea367f37d9e394e00cc69/e6edf5b238bea367f37d9e394e00cc69.m3u8
@@ -34,7 +34,7 @@ https://stream41.radyotelekom.com.tr/stream/m3u8/ce3c963a10fef10268209bcd03563b3
 https://stream41.radyotelekom.com.tr/stream/m3u8/72e55115b05d8ef90f1336fa8a633883/72e55115b05d8ef90f1336fa8a633883.m3u8
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/bE0BSAH.png",12. Sine Yerli
-https://stream41.radyotelekom.com.tr/stream/m3u8/163218b3940d7d943e8511bcd67697a4/163218b3940d7d943e8511bcd67697a4.m3u8
+https://stream41.radyotelekom.com.tr/stream/m3u8/b0417fd2822cebc28b138bda3bb8cf51/b0417fd2822cebc28b138bda3bb8cf51.m3u8
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/-GIevgXu2.png",13. Filmclup
 https://stream41.radyotelekom.com.tr/stream/m3u8/c178699c8d5a536b495c2d3556bc12b7/c178699c8d5a536b495c2d3556bc12b7.m3u8
@@ -314,6 +314,7 @@ https://familyhls.persiana.live/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://r.resimlink.com/Hl9O5JKDd.jpg",573. Persina Science
 https://scihls.persiana.live/hls/stream.m3u8
+
 
 
 
