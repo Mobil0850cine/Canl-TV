@@ -73,7 +73,7 @@ http://162.212.179.32/akamaissh101/ssh101/canmedya/playlist.m3u8
 https://stream41.radyotelekom.com.tr/stream/m3u8/9238caa3cd155df98025702865c6823d/9238caa3cd155df98025702865c6823d.m3u8
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/ro8Vw.png",28. Vizon Dizi
-https://stream41.radyotelekom.com.tr/stream/m3u8/342d587d0e852f04a4e42698f388fdeb/342d587d0e852f04a4e42698f388fdeb.m3u8
+https://stream41.radyotelekom.com.tr/stream/m3u8/30fafce715bef0fcf8b7a93fabfd09d1/30fafce715bef0fcf8b7a93fabfd09d1.m3u8
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/wHE3Ru.png",29. Dizimax
 https://cdn18.yayin.com.tr/nowplay/tracks-v1a1/mono.m3u8
@@ -314,6 +314,7 @@ https://familyhls.persiana.live/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://r.resimlink.com/Hl9O5JKDd.jpg",573. Persina Science
 https://scihls.persiana.live/hls/stream.m3u8
+
 
 
 
