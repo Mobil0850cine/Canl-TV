@@ -217,7 +217,7 @@ https://stream.tiviturk.de/live/tiviturk.m3u8
 https://live.artidijitalmedya.com/artidijital_worldturk/worldturk/chunks.m3u8
 
 #EXTINF:-1 group-title="Belgesel & Yaşam" tvg-logo="https://r.resimlink.com/N62XF-7eoU.png",159. Düzce TV
-https://stream41.radyotelekom.com.tr/stream/m3u8/16a4e11800ff8c6dce4617dc5bbc347e/16a4e11800ff8c6dce4617dc5bbc347e.m3u8
+https://yayin1.canlitv.fun/canlitv/duzcetv.stream/chunklist_w1942320281.m3u8?hash=b9883bd164449c90aced87a90ab2407a
 
 #EXTINF:-1 group-title="Çocuk" tvg-logo="https://r.resimlink.com/pJ0l6_koKFjX.png",250. Vizon Çocuk
 https://catcast.ismailturret.workers.dev/futurama.m3u8
@@ -302,6 +302,7 @@ https://familyhls.persiana.live/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://r.resimlink.com/Hl9O5JKDd.jpg",573. Persina Science
 https://scihls.persiana.live/hls/stream.m3u8
+
 
 
 
