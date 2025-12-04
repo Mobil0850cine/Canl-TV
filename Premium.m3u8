@@ -148,7 +148,7 @@ https://cdn-gzcspor.yayin.com.tr/gzcspor/gzcspor/playlist.m3u8
 http://74214be9.edemist.com/iptv/WUX6STDKBG73GKNYAF5U3KMF/2193/index.m3u8
 
 #EXTINF:-1 group-title="Spor" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/01/%C4%B0dman_TV_logo.png",80. İdman TV
-http://vizi.vizi.workers.dev/?ID=53
+https://cdn501.tv.vin/idmantv.m3u8
 
 #EXTINF:-1 group-title="Spor" tvg-logo="https://tvprofil.com/img/kanali-logo/Arena_Sport_1_BiH_BA_logo_v3.png?1737553095",91. Arena Sport 1
 http://74214be9.edemist.com/iptv/WUX6STDKBG73GKNYAF5U3KMF/7329/index.m3u8
@@ -247,10 +247,10 @@ https://yayin.slowkaradeniztv.com:3390/hybrid/play.m3u8
 https://amg01131-tracetv-tracelatina-glewed-vtnk7.amagi.tv/playlist1080P.m3u8
 
 #EXTINF:-1 group-title="Yabancı" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/34/AzTV_%282005-2009%29.png/revision/latest?cb=20170831053034",552. Az TV
-https://str.yodacdn.net/aztv/index.m3u8
+https://cdn504.canlitv.me/aztv.m3u8
 
 #EXTINF:-1 group-title="Yabancı" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/Ictimai_TV_yeni_logo_2019.png",553. İçtimal TV
-https://live.itv.az/itv.m3u8
+https://cdn505.tv.vin/ictimaitv.m3u8
 
 #EXTINF:-1 group-title="Yabancı" tvg-logo="https://ichef.bbci.co.uk/images/ic/1920xn/p09xtmrp.jpg",554. BBC Drama
 https://amg00793-amg00793c41-rakuten-it-5445.playouts.now.amagi.tv/1080p/index.m3u8
@@ -302,6 +302,7 @@ https://familyhls.persiana.live/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://r.resimlink.com/Hl9O5JKDd.jpg",573. Persina Science
 https://scihls.persiana.live/hls/stream.m3u8
+
 
 
 
