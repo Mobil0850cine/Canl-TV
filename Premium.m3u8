@@ -207,14 +207,8 @@ http://162.212.179.32/akamaissh101/ssh101/vanhd/playlist.m3u8
 #EXTINF:-1 group-title="Belgesel & Yaşam" tvg-logo="https://r.resimlink.com/1TbIra.png",156. Vangölü TV
 https://cdn1-vangolutv.yayin.com.tr/vangolutv/amlst:vangolutv/chunklist_w288609955_b1696000.m3u8
 
-#EXTINF:-1 group-title="Belgesel & Yaşam" tvg-logo="https://r.resimlink.com/a6f1xRnDN.png",157. Tivi Türk
-https://stream.tiviturk.de/live/tiviturk.m3u8
-
 #EXTINF:-1 group-title="Belgesel & Yaşam" tvg-logo="https://r.resimlink.com/q5aJIjAHYnv.png",158. World Türk
 https://live.artidijitalmedya.com/artidijital_worldturk/worldturk/chunks.m3u8
-
-#EXTINF:-1 group-title="Belgesel & Yaşam" tvg-logo="https://r.resimlink.com/N62XF-7eoU.png",159. Düzce TV
-https://yayin1.canlitv.fun/canlitv/duzcetv.stream/chunklist_w1942320281.m3u8?hash=b9883bd164449c90aced87a90ab2407a
 
 #EXTINF:-1 group-title="Belgesel & Yaşam" tvg-logo="https://r.resimlink.com/V8_Ijl3iGZ.png",160. Konya Olay TV
 http://olayhabertv42.ozelip.com:28008/olay/olay/playlist.m3u8
@@ -302,6 +296,7 @@ https://familyhls.persiana.live/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://r.resimlink.com/Hl9O5JKDd.jpg",573. Persina Science
 https://scihls.persiana.live/hls/stream.m3u8
+
 
 
 
