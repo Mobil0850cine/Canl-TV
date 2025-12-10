@@ -211,7 +211,7 @@ http://olayhabertv42.ozelip.com:28008/olay/olay/playlist.m3u8
 https://yayin11.sunucuodasi.com/hls/mtv/live.m3u8
 
 #EXTINF:-1 group-title="Belgesel & Yaşam" tvg-logo="https://r.resimlink.com/vdyWRK.png",180. Kanal 38
-https://yayin1.canlitv.fun/canlitv/kanal38.stream/chunklist_w46184899.m3u8
+https://yayin1.canlitv.fun/canlitv/tv38.stream/chunklist_w87608940.m3u8
 
 #EXTINF:-1 group-title="Çocuk" tvg-logo="https://r.resimlink.com/pJ0l6_koKFjX.png",250. Vizon Çocuk
 https://streams.uzunmuhalefet.com/stream/f18c5afc-97bb-4790-b124-dd17c70b6217.m3u8
@@ -302,6 +302,7 @@ https://familyhls.persiana.live/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://r.resimlink.com/Hl9O5JKDd.jpg",573. Persina Science
 https://scihls.persiana.live/hls/stream.m3u8
+
 
 
 
