@@ -204,6 +204,9 @@ https://cdn1-vangolutv.yayin.com.tr/vangolutv/amlst:vangolutv/chunklist_w2886099
 #EXTINF:-1 group-title="Belgesel & Yaşam" tvg-logo="https://r.resimlink.com/q5aJIjAHYnv.png",158. World Türk
 https://live.artidijitalmedya.com/artidijital_worldturk/worldturk/chunks.m3u8
 
+#EXTINF:-1 group-title="Belgesel & Yaşam" tvg-logo="https://r.resimlink.com/mv9se3.png",159. Muğla Türk
+https://clvd26.socialsmart.tv/muglaturk/bant1/chunks.m3u8?nimblesessionid=192087186
+
 #EXTINF:-1 group-title="Belgesel & Yaşam" tvg-logo="https://r.resimlink.com/V8_Ijl3iGZ.png",160. Konya Olay TV
 http://olayhabertv42.ozelip.com:28008/olay/olay/playlist.m3u8
 
@@ -302,6 +305,7 @@ https://familyhls.persiana.live/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://r.resimlink.com/Hl9O5JKDd.jpg",573. Persina Science
 https://scihls.persiana.live/hls/stream.m3u8
+
 
 
 
