@@ -210,6 +210,9 @@ https://live.artidijitalmedya.com/artidijital_worldturk/worldturk/chunks.m3u8
 #EXTINF:-1 group-title="Belgesel & Yaşam" tvg-logo="https://r.resimlink.com/V8_Ijl3iGZ.png",160. Konya Olay TV
 http://olayhabertv42.ozelip.com:28008/olay/olay/playlist.m3u8
 
+#EXTINF:-1 group-title="Belgesel & Yaşam" tvg-logo="https://r.resimlink.com/kj3LxgTUhCte.png",161. On Medya
+https://yayin11.sunucuodasi.com/hls/mtv/live-17856.ts
+
 #EXTINF:-1 group-title="Çocuk" tvg-logo="https://r.resimlink.com/pJ0l6_koKFjX.png",250. Vizon Çocuk
 https://streams.uzunmuhalefet.com/stream/f18c5afc-97bb-4790-b124-dd17c70b6217.m3u8
 
@@ -236,6 +239,9 @@ https://yayin.slowkaradeniztv.com:3390/hybrid/play.m3u8
 
 #EXTINF:-1 group-title="Belgesel & Yaşam" tvg-logo="https://r.resimlink.com/jOI2a.png",276. Tivi 16
 https://streams.uzunmuhalefet.com/stream/96ead36d-cf4a-43e0-a407-ce120932c95d.m3u8
+
+#EXTINF:-1 group-title="Belgesel & Yaşam" tvg-logo="https://r.resimlink.com/Dt_OGHNIY65.png",275. Güçlü TV
+https://yayin.santraltr.com/hls/zeynotv-41631.ts
 
 #EXTINF:-1 group-title="Çocuk" tvg-logo="https://r.resimlink.com/0ec2Y9ov.png",285. Trace Latına
 https://amg01131-tracetv-tracelatina-glewed-vtnk7.amagi.tv/playlist1080P.m3u8
@@ -296,6 +302,7 @@ https://familyhls.persiana.live/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://r.resimlink.com/Hl9O5JKDd.jpg",573. Persina Science
 https://scihls.persiana.live/hls/stream.m3u8
+
 
 
 
