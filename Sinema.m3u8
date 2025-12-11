@@ -68,25 +68,25 @@ https://stream41.radyotelekom.com.tr/stream/m3u8/b96f40eb77482ffb0a028bc284bb85b
 http://162.212.179.32/akamaissh101/ssh101/hbb_tv/playlist.m3u8
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/KrPIM.png",32. Teber ON 
-http://162.212.179.32/akamaissh101/ssh101/vizon_teber8/playlist.m3u8
+http://162.212.179.32/akamaissh101/ssh101/teber_won/playlist.m3u8
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/RrDJ9fpgsA5G.png",33. Kral 6
-http://162.212.179.32/akamaissh101/ssh101/turk6/playlist.m3u8
+http://162.212.179.32/akamaissh101/ssh101/kral6/playlist.m3u8
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/X5Q4nh.png",34. Planet Türk
-http://162.212.179.32/akamaissh101/ssh101/planet_turk2/chunks.m3u8
+http://162.212.179.32/akamaissh101/ssh101/planet_turk/chunks.m3u8
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/qiIYVPl.png",35. Planet Aksiyon
-http://162.212.179.32/akamaissh101/ssh101/planet_aksiyon1/playlist.m3u8
+http://162.212.179.32/akamaissh101/ssh101/planet_aksiyon/playlist.m3u8
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/8RgTKXFa9Cp.gif",36. Teber Star 1
-http://162.212.179.32/akamaissh101/ssh101/teber_star/playlist.m3u8
+http://162.212.179.32/akamaissh101/ssh101/teber_star1/playlist.m3u8
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/XLtpj9.png",37. Teber Star 2
 http://162.212.179.32/akamaissh101/ssh101/planet_star_tv/playlist.m3u8
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/4MokOhD.png",38. Shox Sinema
-http://162.212.179.32/akamaissh101/ssh101/teber_medya/playlist.m3u8
+http://162.212.179.32/akamaissh101/ssh101/teber_shox/playlist.m3u8
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/jC0lzIsQUHBd.png",39. Teleon HD
 https://streams.uzunmuhalefet.com/stream/d9827983-64de-44e2-88de-3397016a304a.m3u8
@@ -150,6 +150,7 @@ http://germanyqdnsx17.com:8080/enis11/enis1111/100918
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/rm-gk7q.png" ,136. Cine AZ
 https://tv191.radyotelekom.com.tr:3394/stream/play.m3u8
+
 
 
 
