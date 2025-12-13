@@ -52,7 +52,7 @@ https://stream41.radyotelekom.com.tr/stream/m3u8/75795c572928f84986d82a77f3a4821
 https://stream41.radyotelekom.com.tr/stream/m3u8/ba74c7c0874f2757d39a9c1f296309d5/ba74c7c0874f2757d39a9c1f296309d5.m3u8
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/wPW39.png",18. Fil TV
-hhttps://stream41.radyotelekom.com.tr/stream/m3u8/a9f380b994215d482bcd38697d14cb06/a9f380b994215d482bcd38697d14cb06.m3u8
+https://stream41.radyotelekom.com.tr/stream/m3u8/a9f380b994215d482bcd38697d14cb06/a9f380b994215d482bcd38697d14cb06.m3u8
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/qaeisRXj.png",19. Filmbox Action
 https://stream41.radyotelekom.com.tr/stream/m3u8/6d31f1a86690ba23ae1e81295368d9e3/6d31f1a86690ba23ae1e81295368d9e3.m3u8
@@ -329,6 +329,7 @@ https://familyhls.persiana.live/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://r.resimlink.com/Hl9O5JKDd.jpg",573. Persina Science
 https://scihls.persiana.live/hls/stream.m3u8
+
 
 
 
