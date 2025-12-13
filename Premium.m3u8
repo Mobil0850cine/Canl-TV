@@ -222,6 +222,9 @@ https://clvd26.socialsmart.tv/oncurtv/bant1/chunks.m3u8?nimblesessionid=19291607
 #EXTINF:-1 group-title="Belgesel & Yaşam" tvg-logo="https://r.resimlink.com/-QkxUzIW8ZH.png",171. Bussines Türk
 https://streams.uzunmuhalefet.com/stream/24c7fb3e-e0b5-4d69-8e4d-4c4a1d5fb08f.m3u8
 
+#EXTINF:-1 group-title="Belgesel & Yaşam" tvg-logo="https://r.resimlink.com/x5yf-3.png",172. Merkez TV
+https://ip100.radyotelekomtv.com:3689/stream/play.m3u8
+
 #EXTINF:-1 group-title="Belgesel & Yaşam" tvg-logo="https://r.resimlink.com/gfNaLVwJpU.png",184. Kanal 9
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1765496234/ei/SgE7aZHuFKrn6dsPgtmakAw/ip/109.228.241.17/id/vgxi2zodtwc.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51539830/txs/51539830%2C51539831/hfr/1/force_finished/1/maudio/1/bui/AYUSA3DB9wkR6J7IHdDxMUKM1IxEbsyFS6ftNa6HICvpi_jkhctwl-SfFx14LGWprO6G9mq4iLG1Q6oA/spc/wH4Qq8nODSNiTI-KCpiGvwmL0lnQx7CIBNWry3Vjj5nYkuhktK7nh31d/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565116%2C51565681%2C51580968/dover/11/itag/0/playlist_type/CLEAN/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cforce_finished%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAMU4Tw0KhO9yi3CiBLjap46KkBo0kWYe8_kuBG1LsWVnAiBybBzTAP6tt89GvybLTCwtSNmtpZZKN8WZfzEfvTF09g%3D%3D/file/index.m3u8
 
@@ -329,6 +332,7 @@ https://familyhls.persiana.live/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://r.resimlink.com/Hl9O5JKDd.jpg",573. Persina Science
 https://scihls.persiana.live/hls/stream.m3u8
+
 
 
 
