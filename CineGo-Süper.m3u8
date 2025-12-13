@@ -141,14 +141,17 @@ https://edge1.socialsmart.tv/muglaturk/bant1/playlist.m3u8
 #EXTINF:-1 group-title="Belgesel & Yaşam" tvg-logo="https://r.resimlink.com/bpsInN8cqWY.png",152. Rize Türk TV
 https://yayin.rizeturk.com:3777/hybrid/play.m3u8
 
-#EXTINF:-1 group-title="Belgesel & Yaşam" tvg-logo="https://r.resimlink.com/X8YcZE2_w5D.png",153. Life TV
-https://live.artidijitalmedya.com/artidijital_lifetv/lifetv/chunks.m3u8
+#EXTINF:-1 group-title="Belgesel & Yaşam" tvg-logo="https://r.resimlink.com/ENYRfqZo0cJd.png",153. Haber Rize
+https://cdn4.yayin.com.tr/haberrize/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="Belgesel & Yaşam" tvg-logo="https://r.resimlink.com/Df0hC8P-o.png",154. Van HD
 http://162.212.179.32/akamaissh101/ssh101/vanhd/playlist.m3u8
 
 #EXTINF:-1 group-title="Belgesel & Yaşam" tvg-logo="https://r.resimlink.com/1TbIra.png",156. Vangölü TV
 https://cdn1-vangolutv.yayin.com.tr/vangolutv/amlst:vangolutv/chunklist_w288609955_b1696000.m3u8
+
+#EXTINF:-1 group-title="Belgesel & Yaşam" tvg-logo="https://r.resimlink.com/X8YcZE2_w5D.png",157. Life TV
+https://live.artidijitalmedya.com/artidijital_lifetv/lifetv/chunks.m3u8
 
 #EXTINF:-1 group-title="Belgesel & Yaşam" tvg-logo="https://r.resimlink.com/q5aJIjAHYnv.png",158. World Türk
 https://live.artidijitalmedya.com/artidijital_worldturk/worldturk/chunks.m3u8
@@ -162,11 +165,20 @@ http://olayhabertv42.ozelip.com:28008/olay/olay/playlist.m3u8
 #EXTINF:-1 group-title="Belgesel & Yaşam" tvg-logo="https://r.resimlink.com/kj3LxgTUhCte.png",161. On Medya
 https://yayin11.sunucuodasi.com/hls/mtv/live.m3u8
 
-#EXTINF:-1 group-title="Belgesel & Yaşam" tvg-logo="https://r.resimlink.com/Xk42T.png",162. Öncü TV
+#EXTINF:-1 group-title="Belgesel & Yaşam" tvg-logo="https://r.resimlink.com/sUWQBq5jzc.png",162. Kay TV
+https://live.artidijitalmedya.com/artidijital_kaytv/kaytv1/chunks.m3u8
+
+#EXTINF:-1 group-title="Belgesel & Yaşam" tvg-logo="https://r.resimlink.com/Xk42T.png",170. Öncü TV
 https://clvd26.socialsmart.tv/oncurtv/bant1/chunks.m3u8?nimblesessionid=192916070
 
-#EXTINF:-1 group-title="Belgesel & Yaşam" tvg-logo="https://r.resimlink.com/-QkxUzIW8ZH.png",163. Bussines Türk
+#EXTINF:-1 group-title="Belgesel & Yaşam" tvg-logo="https://r.resimlink.com/-QkxUzIW8ZH.png",171. Bussines Türk
 https://streams.uzunmuhalefet.com/stream/24c7fb3e-e0b5-4d69-8e4d-4c4a1d5fb08f.m3u8
+
+#EXTINF:-1 group-title="Belgesel & Yaşam" tvg-logo="https://r.resimlink.com/x5yf-3.png",172. Merkez TV
+https://ip100.radyotelekomtv.com:3689/stream/play.m3u8
+
+#EXTINF:-1 group-title="Belgesel & Yaşam" tvg-logo="https://r.resimlink.com/uRdpTqwl.png",173. Aras TV
+https://2.rtmp.org/tv217/yayin.stream/chunklist_w93444513.m3u8
 
 #EXTINF:-1 group-title="Belgesel & Yaşam" tvg-logo="https://r.resimlink.com/gfNaLVwJpU.png",184. Kanal 9
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1765496234/ei/SgE7aZHuFKrn6dsPgtmakAw/ip/109.228.241.17/id/vgxi2zodtwc.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51539830/txs/51539830%2C51539831/hfr/1/force_finished/1/maudio/1/bui/AYUSA3DB9wkR6J7IHdDxMUKM1IxEbsyFS6ftNa6HICvpi_jkhctwl-SfFx14LGWprO6G9mq4iLG1Q6oA/spc/wH4Qq8nODSNiTI-KCpiGvwmL0lnQx7CIBNWry3Vjj5nYkuhktK7nh31d/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565116%2C51565681%2C51580968/dover/11/itag/0/playlist_type/CLEAN/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cforce_finished%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAMU4Tw0KhO9yi3CiBLjap46KkBo0kWYe8_kuBG1LsWVnAiBybBzTAP6tt89GvybLTCwtSNmtpZZKN8WZfzEfvTF09g%3D%3D/file/index.m3u8
@@ -182,9 +194,6 @@ https://kanal53.ozelip.com:3448/hybrid/play.m3u8
 
 #EXTINF:-1 group-title="Belgesel & Yaşam" tvg-logo="https://r.resimlink.com/dILl6.png",214. Kanal 54 
 https://streams.uzunmuhalefet.com/stream/aaccf423-9c8d-433e-a1cf-6913431b4f7e.m3u8
-
-#EXTINF:-1 group-title="Belgesel & Yaşam" tvg-logo="https://r.resimlink.com/vpme4CXj.png",289. Başka TV 
-https://streams.uzunmuhalefet.com/stream/ad9354e2-2403-488d-a708-59e84822b6ae.m3u8
 
 #EXTINF:-1 group-title="Belgesel & Yaşam" tvg-logo="https://r.resimlink.com/oMjlud.png",290. Kuzey Kıbrıs TV 
 http://old.kuzeykibris.tv/m3u8/kktv.m3u8
@@ -278,6 +287,7 @@ https://familyhls.persiana.live/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://r.resimlink.com/Hl9O5JKDd.jpg",573. Persina Science
 https://scihls.persiana.live/hls/stream.m3u8
+
 
 
 
