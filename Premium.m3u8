@@ -102,6 +102,9 @@ https://ip100.radyotelekomtv.com:3784/stream/play.m3u8
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/Uq3mY5NGfI.png",36. Artı Sinema
 http://cdn4.yayin.com.tr/arti/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/MEHj6.png",37. Teleon TV
+https://1a-1791.com/live/r31jzt5k/live-hls/uwt0-zgpt/chunklist_i1_DVR.m3u8
+
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://www.sdmvideo.com/upload/photos/2025/02/Ihhn9QYN6jn2BW5tL8Jz_08_bb9fd41790386666b1c32ce49a3b1b2c_image.png",39. SDM Sinema
 https://host.onlineradyotv.net:8081/sdmtv/tracks-v1a1/mono.m3u8
 
@@ -216,12 +219,6 @@ https://yayin11.sunucuodasi.com/hls/mtv/live.m3u8
 #EXTINF:-1 group-title="Belgesel & Yaşam" tvg-logo="https://r.resimlink.com/sUWQBq5jzc.png",162. Kay TV
 https://live.artidijitalmedya.com/artidijital_kaytv/kaytv1/chunks.m3u8
 
-#EXTINF:-1 group-title="Belgesel & Yaşam" tvg-logo="https://r.resimlink.com/Xk42T.png",170. Öncü TV
-https://clvd26.socialsmart.tv/oncurtv/bant1/chunks.m3u8?nimblesessionid=192916070
-
-#EXTINF:-1 group-title="Belgesel & Yaşam" tvg-logo="https://r.resimlink.com/-QkxUzIW8ZH.png",171. Bussines Türk
-https://streams.uzunmuhalefet.com/stream/24c7fb3e-e0b5-4d69-8e4d-4c4a1d5fb08f.m3u8
-
 #EXTINF:-1 group-title="Belgesel & Yaşam" tvg-logo="https://r.resimlink.com/x5yf-3.png",172. Merkez TV
 https://ip100.radyotelekomtv.com:3689/stream/play.m3u8
 
@@ -335,6 +332,7 @@ https://familyhls.persiana.live/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://r.resimlink.com/Hl9O5JKDd.jpg",573. Persina Science
 https://scihls.persiana.live/hls/stream.m3u8
+
 
 
 
