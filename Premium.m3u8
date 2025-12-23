@@ -72,17 +72,17 @@ https://stream41.radyotelekom.com.tr/stream/m3u8/d8737463695703405faf2b751d2ab1b
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/w4I73ZqXJF.png",26. HBB TV
 http://162.212.179.32/akamaissh101/ssh101/hbb_tv/playlist.m3u8
 
-#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/e0YzH.png",27. Tele ON 
-http://162.212.179.32/akamaissh101/ssh101/tele_on/playlist.m3u8
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/e0YzH.png",27. Teve ON 
+http://162.212.179.32/akamaissh101/ssh101/teber_on/playlist.m3u8
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/RrDJ9fpgsA5G.png",28. Kral 6
 http://162.212.179.32/akamaissh101/ssh101/kral6/playlist.m3u8
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/X5Q4nh.png",29. Planet Türk
-http://162.212.179.32/akamaissh101/ssh101/planet_turk/chunks.m3u8
+http://162.212.179.32/akamaissh101/ssh101/inter_star/playlist.m3u8
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/qiIYVPl.png",30. Planet Aksiyon
-http://162.212.179.32/akamaissh101/ssh101/planet_aksiyon/playlist.m3u8
+http://162.212.179.32/akamaissh101/ssh101/axion_star/playlist.m3u8
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/N1H7Tb.gif",31. Teber Star 1
 http://162.212.179.32/akamaissh101/ssh101/teber_star1/playlist.m3u8
@@ -175,7 +175,7 @@ https://stream41.radyotelekom.com.tr/stream/m3u8/3dd87b8169ba12b11a768f0c77696be
 http://104.238.23.182/yt1/s/NatureTime.m3u8
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/7mVnKU902wO.png",117. Planet Belgesel 
-http://162.212.179.32/akamaissh101/ssh101/planet_safari/playlist.m3u8
+http://162.212.179.32/akamaissh101/ssh101/safari_star/playlist.m3u8
 
 #EXTINF:0 user-agent="Firefox" tvg-id="VIASAT EXPLORE" tvg-name="TR: VIASAT EXPLORER" tvg-logo="https://logo.multicms.info/tvlogo/viasatexplore.png" group-title="TR-BELGESEL",TR: 125. Viasat Explore
 http://4k.nxdns6.com:8080/Talhakucuk0512/QRFVUTu4PqqX/155501
@@ -259,7 +259,7 @@ https://cdn4.yayin.com.tr/channel6tv/index.m3u8
 https://cdn-4turkpop.yayin.com.tr/4turkpop/4turkpop/playlist.m3u8
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/bNpjnQ.gif",333. Shox Müzik
-http://162.212.179.32/akamaissh101/ssh101/teber_shox/playlist.m3u8              
+http://162.212.179.32/akamaissh101/ssh101/teber_muzik/playlist.m3u8             
 
 #EXTINF:-1 group-title="Müzik" tvg-logo="https://r.resimlink.com/yfqC3Hsi.png",334. Yansıma Müzik
 http://162.212.179.32/akamaissh101/ssh101/planet_tezene/playlist.m3u8
@@ -332,6 +332,7 @@ https://familyhls.persiana.live/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://r.resimlink.com/Hl9O5JKDd.jpg",573. Persina Science
 https://scihls.persiana.live/hls/stream.m3u8
+
 
 
 
