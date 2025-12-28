@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/DQ5FbGyUXn.png",1. Cine 6
-https://stream41.radyotelekom.com.tr/stream/m3u8/7dc417a0e463297cecc749293e7958a3/7dc417a0e463297cecc749293e7958a3.m3u8
+https://stream41.radyotelekom.com.tr/stream/m3u8/40064b4c7de89ad45477688d1cb25935/40064b4c7de89ad45477688d1cb25935.m3u8
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/LeJmvbatdBx.png",2. Cine 6 Premier
 https://stream41.radyotelekom.com.tr/stream/m3u8/7dfb0aad7ac254fd4aead7acc365c3ef/7dfb0aad7ac254fd4aead7acc365c3ef.m3u8
@@ -338,6 +338,7 @@ https://familyhls.persiana.live/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://r.resimlink.com/Hl9O5JKDd.jpg",573. Persina Science
 https://scihls.persiana.live/hls/stream.m3u8
+
 
 
 
