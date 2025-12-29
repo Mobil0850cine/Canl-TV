@@ -199,6 +199,9 @@ https://kanal53.ozelip.com:3448/hybrid/play.m3u8
 #EXTINF:-1 group-title="Belgesel & Yaşam" tvg-logo="https://r.resimlink.com/dILl6.png",214. Kanal 54 
 https://streams.uzunmuhalefet.com/stream/aaccf423-9c8d-433e-a1cf-6913431b4f7e.m3u8
 
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/muV1jdk.png",225. Kanal 65
+https://a8.radyotelekom.com.tr:3063/stream/play.m3u8
+
 #EXTINF:-1 group-title="Belgesel & Yaşam" tvg-logo="https://r.resimlink.com/oMjlud.png",290. Kuzey Kıbrıs TV 
 http://old.kuzeykibris.tv/m3u8/kktv.m3u8
 
@@ -291,6 +294,7 @@ https://familyhls.persiana.live/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://r.resimlink.com/Hl9O5JKDd.jpg",573. Persina Science
 https://scihls.persiana.live/hls/stream.m3u8
+
 
 
 
