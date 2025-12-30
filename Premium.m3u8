@@ -63,8 +63,8 @@ https://stream41.radyotelekom.com.tr/stream/m3u8/ef3ca2d85b4d9901223c28e1dd0b83d
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/WaojR0zVxU.png",21. Filmbox Stars
 https://stream41.radyotelekom.com.tr/stream/m3u8/2c7317bab4730f190b796ebe55c70d32/2c7317bab4730f190b796ebe55c70d32.m3u8
 
-#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/KDQxX.png",22. DizBox
-https://stream41.radyotelekom.com.tr/stream/m3u8/d35dcecf17b2deafe06abca23f29a620/d35dcecf17b2deafe06abca23f29a620.m3u8
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/DIHrxMFfoTJ4.png",22. DizBox
+https://stream41.radyotelekom.com.tr/stream/m3u8/db1b5cbc952c0d6bf9452e93b5999ae3/db1b5cbc952c0d6bf9452e93b5999ae3.m3u8
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/ro8Vw.png",23. Vizon Dizi
 https://stream41.radyotelekom.com.tr/stream/m3u8/d8737463695703405faf2b751d2ab1bc/d8737463695703405faf2b751d2ab1bc.m3u8
@@ -335,6 +335,7 @@ https://familyhls.persiana.live/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://r.resimlink.com/Hl9O5JKDd.jpg",573. Persina Science
 https://scihls.persiana.live/hls/stream.m3u8
+
 
 
 
