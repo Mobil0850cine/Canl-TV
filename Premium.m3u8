@@ -159,8 +159,11 @@ http://74214be9.edemist.com/iptv/WUX6STDKBG73GKNYAF5U3KMF/7333/index.m3u8
 #EXTINF:-1 group-title="Spor" tvg-logo="https://epg.pw/media/images/epg/2024/11/28/20241128022430237756_40.png",96. Arena Sport 6
 http://74214be9.edemist.com/iptv/WUX6STDKBG73GKNYAF5U3KMF/7334/index.m3u8
 
-#EXTINF:-1 group-title="Spor" tvg-logo="https://r.resimlink.com/4mf0hVJHjwzs.jpg",97. Solh Sports
-https://solhtvhls.wns.live/hls/stream.m3u8
+#EXTINF:-1 group-title="Spor" tvg-logo="https://r.resimlink.com/_eV9jWsF.png",97. TNT Spor
+http://cb286df8.rossteleccom.net/iptv/ZCWPCL9K3LR827/6566/index.m3u8
+
+#EXTINF:-1 group-title="Spor" tvg-logo="https://r.resimlink.com/rnZ2OyH.png",98. TNT Spor 2
+http://cb286df8.rossteleccom.net/iptv/ZCWPCL9K3LR827/2506/index.m3u8
 
 #EXTINF:-1 group-title="Spor" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/TraceSSLogo.png/1200px-TraceSSLogo.png",107. Trace Sports
 https://trace-sportstars-samsungnz.amagi.tv/playlist.m3u8
@@ -341,6 +344,7 @@ http://cb286df8.rossteleccom.net/iptv/ZCWPCL9K3LR827/31437/index.m3u8
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://img.favpng.com/2/3/25/universal-channel-television-channel-logo-universal-tv-png-favpng-62Ppqz9qJuQk0EPhzn0RaHa5C.jpg",557. Universal HD
 http://cb286df8.rossteleccom.net/iptv/ZCWPCL9K3LR827/6094/index.m3u8
+
 
 
 
