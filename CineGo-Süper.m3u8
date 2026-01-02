@@ -178,11 +178,11 @@ https://yayin11.sunucuodasi.com/hls/mtv/live.m3u8
 #EXTINF:-1 group-title="Belgesel & Yaşam" tvg-logo="https://r.resimlink.com/sUWQBq5jzc.png",162. Kay TV
 https://live.artidijitalmedya.com/artidijital_kaytv/kaytv1/chunks.m3u8
 
-#EXTINF:-1 group-title="Belgesel & Yaşam" tvg-logo="https://r.resimlink.com/Xk42T.png",170. Öncü TV
-https://clvd26.socialsmart.tv/oncurtv/bant1/chunks.m3u8?nimblesessionid=192916070
+#EXTINF:-1 group-title="Belgesel & Yaşam" tvg-logo="https://r.resimlink.com/G7YLclKx.png",163. Egemax TV
+http://egemaxtv.radyotelekom.com.tr:29010/egemaxtv/egemaxtv/playlist.m3u8
 
-#EXTINF:-1 group-title="Belgesel & Yaşam" tvg-logo="https://r.resimlink.com/-QkxUzIW8ZH.png",171. Bussines Türk
-https://streams.uzunmuhalefet.com/stream/24c7fb3e-e0b5-4d69-8e4d-4c4a1d5fb08f.m3u8
+#EXTINF:-1 group-title="Belgesel & Yaşam" tvg-logo="https://r.resimlink.com/n7wqz.png",171. İçel TV
+https://clvd26.socialsmart.tv/iceltv/bant1/chunks.m3u8
 
 #EXTINF:-1 group-title="Belgesel & Yaşam" tvg-logo="https://r.resimlink.com/x5yf-3.png",172. Merkez TV
 https://ip100.radyotelekomtv.com:3689/stream/play.m3u8
@@ -300,6 +300,7 @@ https://familyhls.persiana.live/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://r.resimlink.com/Hl9O5JKDd.jpg",573. Persina Science
 https://scihls.persiana.live/hls/stream.m3u8
+
 
 
 
