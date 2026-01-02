@@ -246,9 +246,6 @@ https://edge.kuzeykibrissmart.tv/brt1hd/bant1/chunks.m3u8
 #EXTINF:-1 group-title="Belgesel & Yaşam" tvg-logo="https://r.resimlink.com/Hil7kdj.png",292. BRT 2 HD
 https://edge.kuzeykibrissmart.tv/brt2hd/bant1/chunks.m3u8
 
-#EXTINF:-1 group-title="Belgesel & Yaşam" tvg-logo="https://r.resimlink.com/eKLvkzR.png",294. Kanal T
-https://edge.kuzeykibrissmart.tv/kanalt/bant1/chunks.m3u8
-
 #EXTINF:-1 group-title="Çocuk" tvg-logo="https://r.resimlink.com/pJ0l6_koKFjX.png",300. Vizon Çocuk
 https://streams.uzunmuhalefet.com/stream/f18c5afc-97bb-4790-b124-dd17c70b6217.m3u8
 
@@ -335,6 +332,7 @@ https://familyhls.persiana.live/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://r.resimlink.com/Hl9O5JKDd.jpg",573. Persina Science
 https://scihls.persiana.live/hls/stream.m3u8
+
 
 
 
