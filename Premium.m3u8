@@ -196,7 +196,7 @@ https://yayin.rizeturk.com:3777/hybrid/play.m3u8
 https://cdn4.yayin.com.tr/haberrize/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="Belgesel & Yaşam" tvg-logo="https://r.resimlink.com/Df0hC8P-o.png",154. Van HD
-http://162.212.179.32/akamaissh101/ssh101/vanhd/playlist.m3u8
+https://live.artidijitalmedya.com/artidijital_ort/ort/chunks.m3u8
 
 #EXTINF:-1 group-title="Belgesel & Yaşam" tvg-logo="https://r.resimlink.com/1TbIra.png",156. Vangölü TV
 https://cdn1-vangolutv.yayin.com.tr/vangolutv/amlst:vangolutv/chunklist_w288609955_b1696000.m3u8
@@ -221,6 +221,9 @@ https://live.artidijitalmedya.com/artidijital_kaytv/kaytv1/chunks.m3u8
 
 #EXTINF:-1 group-title="Belgesel & Yaşam" tvg-logo="https://r.resimlink.com/G7YLclKx.png",163. Egemax TV
 http://egemaxtv.radyotelekom.com.tr:29010/egemaxtv/egemaxtv/playlist.m3u8
+
+#EXTINF:-1 group-title="Belgesel & Yaşam" tvg-logo="https://r.resimlink.com/rwa0nMkVX.png",164. Ort TV
+https://clvd26.socialsmart.tv/orttv/bant1/chunks.m3u8
 
 #EXTINF:-1 group-title="Belgesel & Yaşam" tvg-logo="https://r.resimlink.com/n7wqz.png",171. İçel TV
 https://clvd26.socialsmart.tv/iceltv/bant1/chunks.m3u8
@@ -344,6 +347,7 @@ http://cb286df8.rossteleccom.net/iptv/ZCWPCL9K3LR827/31437/index.m3u8
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://img.favpng.com/2/3/25/universal-channel-television-channel-logo-universal-tv-png-favpng-62Ppqz9qJuQk0EPhzn0RaHa5C.jpg",557. Universal HD
 http://cb286df8.rossteleccom.net/iptv/ZCWPCL9K3LR827/6094/index.m3u8
+
 
 
 
