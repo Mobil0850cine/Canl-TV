@@ -13,16 +13,16 @@ https://stream41.radyotelekom.com.tr/stream/m3u8/fb3aa06286fb8f596f90a10dcb92f73
 https://stream41.radyotelekom.com.tr/stream/m3u8/875a1ac61f2efd29e7235e01871162a8/875a1ac61f2efd29e7235e01871162a8.m3u8
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/bE0BSAH.png",12. Sine Yerli
-https://stream41.radyotelekom.com.tr/stream/m3u8/5f0f3e483e9b4c6ee0cc85ff5081800c/5f0f3e483e9b4c6ee0cc85ff5081800c.m3u8
+https://stream41.radyotelekom.com.tr/stream/m3u8/e6fc240342eea62400cfe63976273a21/e6fc240342eea62400cfe63976273a21.m3u8
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/2Ey73OcxeVbR.png",16. Filmclup Family
-https://stream41.radyotelekom.com.tr/stream/m3u8/a76109efa4f4235fe1662b4ca77840c0/a76109efa4f4235fe1662b4ca77840c0.m3u8
+https://stream41.radyotelekom.com.tr/stream/m3u8/bdaa09eb3a37a00eb52cd88c2d042109/bdaa09eb3a37a00eb52cd88c2d042109.m3u8
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/WaojR0zVxU.png",21. Filmbox Stars
 https://stream41.radyotelekom.com.tr/stream/m3u8/2c7317bab4730f190b796ebe55c70d32/2c7317bab4730f190b796ebe55c70d32.m3u8
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/DIHrxMFfoTJ4.png",22. DizBox
-https://stream41.radyotelekom.com.tr/stream/m3u8/26d44f0a8da2147931be9f11c3070399/26d44f0a8da2147931be9f11c3070399.m3u8
+https://stream41.radyotelekom.com.tr/stream/m3u8/2dd09b258a3d095f21e74042675bc33a/2dd09b258a3d095f21e74042675bc33a.m3u8
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/w4I73ZqXJF.png",26. HBB TV
 http://162.212.179.32/akamaissh101/ssh101/hbb_tv/playlist.m3u8
@@ -99,18 +99,17 @@ https://clvd26.socialsmart.tv/caytv/bant1/chunks.m3u8
 #EXTINF:-1 group-title="Belgesel & Yaşam" tvg-logo="https://r.resimlink.com/BZdmCzFQAS24.png",75. Telenews
 https://cdn-telenews.yayin.com.tr/telenews/tracks-v1a1/mono.m3u8
 
-
 #EXTINF:-1 group-title="Spor" tvg-logo="https://r.resimlink.com/-6jkfev4.png",77. Vizon Spor
-http://162.212.179.32/akamaissh101/ssh101/vizspor/playlist.m3u8
+http://162.212.179.32/akamaissh101/ssh101/sporviz/playlist.m3u8
 
 #EXTINF:-1 group-title="Spor" tvg-logo="https://r.resimlink.com/p8BVryq620C.png",78. TR Spor
 https://cdn-gzcspor.yayin.com.tr/gzcspor/gzcspor/playlist.m3u8
 
 #EXTINF:-1 group-title="Spor" tvg-logo="https://upload.wikimedia.org/wikipedia/az/0/04/CBC_Sport_TV_loqo.png",79. CBC Sport
-http://vizi.vizi.workers.dev/?ID=52 
+http://74214be9.edemist.com/iptv/WUX6STDKBG73GKNYAF5U3KMF/2193/index.m3u8
 
 #EXTINF:-1 group-title="Spor" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/01/%C4%B0dman_TV_logo.png",80. İdman TV
-http://vizi.vizi.workers.dev/?ID=53
+http://str.yodacdn.net/idmantele/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 group-title="Spor" tvg-logo="https://tvprofil.com/img/kanali-logo/Arena_Sport_1_BiH_BA_logo_v3.png?1737553095",91. Arena Sport 1
 http://74214be9.edemist.com/iptv/WUX6STDKBG73GKNYAF5U3KMF/7329/index.m3u8
@@ -118,7 +117,7 @@ http://74214be9.edemist.com/iptv/WUX6STDKBG73GKNYAF5U3KMF/7329/index.m3u8
 #EXTINF:-1 group-title="Spor" tvg-logo="https://epg.pw/media/images/epg/2024/09/30/20240930020915077572_54.png",92. Arena Sport 2
 http://74214be9.edemist.com/iptv/WUX6STDKBG73GKNYAF5U3KMF/7330/index.m3u8
 
-EXTINF:-1 group-title="Spor" tvg-logo="https://epg.pw/media/images/epg/2024/09/30/20240930021242784769_92.png",93. Arena Sport 3
+#EXTINF:-1 group-title="Spor" tvg-logo="https://r.resimlink.com/L8vIjmaSeYuB.png,92. Arena Sport 3
 http://74214be9.edemist.com/iptv/WUX6STDKBG73GKNYAF5U3KMF/7331/index.m3u8
 
 #EXTINF:-1 group-title="Spor" tvg-logo="https://www.tvarenasport.si/uploads/web/arenasport4.png",94. Arena Sport 4
@@ -130,20 +129,23 @@ http://74214be9.edemist.com/iptv/WUX6STDKBG73GKNYAF5U3KMF/7333/index.m3u8
 #EXTINF:-1 group-title="Spor" tvg-logo="https://epg.pw/media/images/epg/2024/11/28/20241128022430237756_40.png",96. Arena Sport 6
 http://74214be9.edemist.com/iptv/WUX6STDKBG73GKNYAF5U3KMF/7334/index.m3u8
 
-#EXTINF:-1 group-title="Spor" tvg-logo="https://r.resimlink.com/4mf0hVJHjwzs.jpg",97. Solh Sports
-https://solhtvhls.wns.live/hls/stream.m3u8
+#EXTINF:-1 group-title="Spor" tvg-logo="https://r.resimlink.com/_eV9jWsF.png",97. TNT Spor
+http://cb286df8.rossteleccom.net/iptv/ZCWPCL9K3LR827/6566/index.m3u8
+
+#EXTINF:-1 group-title="Spor" tvg-logo="https://r.resimlink.com/rnZ2OyH.png",98. TNT Spor 2
+http://cb286df8.rossteleccom.net/iptv/ZCWPCL9K3LR827/2506/index.m3u8
 
 #EXTINF:-1 group-title="Spor" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/TraceSSLogo.png/1200px-TraceSSLogo.png",107. Trace Sports
 https://trace-sportstars-samsungnz.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 group-title="Yabancı" tvg-logo="https://r.resimlink.com/2njJqkwxl.png",113. Planet Ehlibeyt
-http://162.212.179.32/akamaissh101/ssh101/planet_ehlibeyt/playlist.m3u8
+#EXTINF:-1 group-title="Belgesel & Yaşam" tvg-logo="https://r.resimlink.com/vj83I.png",114. Vizon Wild
+https://stream41.radyotelekom.com.tr/stream/m3u8/33fdb510591d32824f3c943bd7a3b1f3/33fdb510591d32824f3c943bd7a3b1f3.m3u8
 
-#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/7mVnKU902wO.png",117. Planet Belgesel 
+#EXTINF:-1 group-title="Belgesel & Yaşam" tvg-logo="https://r.resimlink.com/IwOQJ71nbqCc.png",115. Vizon Nature
+http://104.238.23.182/yt1/s/NatureTime.m3u8
+
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/QCeL83xnHd.png",117. Star Belgesel 
 http://162.212.179.32/akamaissh101/ssh101/safari_star/playlist.m3u8
-
-#EXTINF:0 user-agent="Firefox" tvg-id="VIASAT EXPLORE" tvg-name="TR: VIASAT EXPLORER" tvg-logo="https://logo.multicms.info/tvlogo/viasatexplore.png" group-title="TR-BELGESEL",TR: 125. Viasat Explore
-http://4k.nxdns6.com:8080/Talhakucuk0512/QRFVUTu4PqqX/155501
 
 #EXTINF:-1 group-title="Belgesel & Yaşam" tvg-logo="https://naturetimetv.com/wp-content/uploads/2023/09/NatureTime_Primary-Logo.png",143. Nature Time
 https://amg00090-blueantmedia-naturetime-samsungfr-yakbf.amagi.tv/playlist/amg00090-blueantmedia-naturetime-samsungfr/playlist.m3u8
@@ -164,7 +166,7 @@ https://yayin.rizeturk.com:3777/hybrid/play.m3u8
 https://cdn4.yayin.com.tr/haberrize/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="Belgesel & Yaşam" tvg-logo="https://r.resimlink.com/Df0hC8P-o.png",154. Van HD
-http://162.212.179.32/akamaissh101/ssh101/vanhd/playlist.m3u8
+https://live.artidijitalmedya.com/artidijital_ort/ort/chunks.m3u8
 
 #EXTINF:-1 group-title="Belgesel & Yaşam" tvg-logo="https://r.resimlink.com/1TbIra.png",156. Vangölü TV
 https://cdn1-vangolutv.yayin.com.tr/vangolutv/amlst:vangolutv/chunklist_w288609955_b1696000.m3u8
@@ -190,6 +192,9 @@ https://live.artidijitalmedya.com/artidijital_kaytv/kaytv1/chunks.m3u8
 #EXTINF:-1 group-title="Belgesel & Yaşam" tvg-logo="https://r.resimlink.com/G7YLclKx.png",163. Egemax TV
 http://egemaxtv.radyotelekom.com.tr:29010/egemaxtv/egemaxtv/playlist.m3u8
 
+#EXTINF:-1 group-title="Belgesel & Yaşam" tvg-logo="https://r.resimlink.com/rwa0nMkVX.png",164. Ort TV
+https://clvd26.socialsmart.tv/orttv/bant1/chunks.m3u8
+
 #EXTINF:-1 group-title="Belgesel & Yaşam" tvg-logo="https://r.resimlink.com/n7wqz.png",171. İçel TV
 https://clvd26.socialsmart.tv/iceltv/bant1/chunks.m3u8
 
@@ -214,14 +219,14 @@ https://ajansplay.com:5443/LiveApp/streams/tv48.m3u8
 #EXTINF:-1 group-title="Belgesel & Yaşam" tvg-logo="https://r.resimlink.com/6tC23.png",213. Kanal 53 
 https://kanal53.ozelip.com:3448/hybrid/play.m3u8
 
-#EXTINF:-1 group-title="Belgesel & Yaşam" tvg-logo="https://r.resimlink.com/dILl6.png",214. Kanal 54 
-https://streams.uzunmuhalefet.com/stream/aaccf423-9c8d-433e-a1cf-6913431b4f7e.m3u8
-
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/muV1jdk.png",225. Kanal 65
 https://a8.radyotelekom.com.tr:3063/stream/play.m3u8
 
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/AUu13Yli.png",299. STV
+http://cdn-stv.yayin.com.tr/stv/stv/playlist.m3u8
+
 #EXTINF:-1 group-title="Çocuk" tvg-logo="https://r.resimlink.com/pJ0l6_koKFjX.png",300. Vizon Çocuk
-https://streams.uzunmuhalefet.com/stream/f18c5afc-97bb-4790-b124-dd17c70b6217.m3u8
+https://streams.uzunmuhalefet.com/stream/f18c5afc-97bb-4790-b124-dd17c70b6217.m3u88
 
 #EXTINF:-1 group-title="Çocuk" tvg-logo="https://r.resimlink.com/bLJBC4.png",301. Planet Çocuk
 http://162.212.179.32/akamaissh101/ssh101/planet_cocuk/playlist.m3u8
@@ -306,6 +311,7 @@ https://familyhls.persiana.live/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://r.resimlink.com/Hl9O5JKDd.jpg",573. Persina Science
 https://scihls.persiana.live/hls/stream.m3u8
+
 
 
 
