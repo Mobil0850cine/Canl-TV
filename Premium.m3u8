@@ -85,7 +85,7 @@ https://lucky-morning-99df.tebermedya.workers.dev/hbb_tv/playlist.m3u8
 https://lucky-morning-99df.tebermedya.workers.dev/teber_on/playlist.m3u8
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/RrDJ9fpgsA5G.png",31. Kral 6
-http://208.79.153.42/akamaissh101/ssh101/kral6/playlist.m3u8
+https://lucky-morning-99df.tebermedya.workers.dev/kral6/playlist.m3u8
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/4i8wp.png",32. Teber Star 1
 https://lucky-morning-99df.tebermedya.workers.dev/teber_star1/playlist.m3u8
@@ -94,13 +94,13 @@ https://lucky-morning-99df.tebermedya.workers.dev/teber_star1/playlist.m3u8
 https://lucky-morning-99df.tebermedya.workers.dev/teber_star2/playlist.m3u8
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/wZyU6lINf.png",34. Teber Star 3
-https://lucky-morning-99df.tebermedya.workers.dev/teber_star3/playlist.m3u
+https://lucky-morning-99df.tebermedya.workers.dev/teber_star3/playlist.m3u8
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/wZyU6lINf.png",35. Teber Star 4
-https://lucky-morning-99df.tebermedya.workers.dev/teber_star4/playlist.m3u
+https://lucky-morning-99df.tebermedya.workers.dev/teber_star4/playlist.m3u8
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/wDKPRjpGh.png",36. Star Aksiyon
-https://lucky-morning-99df.tebermedya.workers.dev/aksion_star/playlist.m3u
+https://lucky-morning-99df.tebermedya.workers.dev/aksion_star/playlist.m3u8
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/W24Opj8qe.png",37. İnter Star
 https://lucky-morning-99df.tebermedya.workers.dev/inter_star/playlist.m3u8
@@ -368,6 +368,7 @@ http://cb286df8.rossteleccom.net/iptv/ZCWPCL9K3LR827/31437/index.m3u8
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://img.favpng.com/2/3/25/universal-channel-television-channel-logo-universal-tv-png-favpng-62Ppqz9qJuQk0EPhzn0RaHa5C.jpg",577. Universal HD
 http://cb286df8.rossteleccom.net/iptv/ZCWPCL9K3LR827/6094/index.m3u8
+
 
 
 
