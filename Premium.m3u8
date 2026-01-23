@@ -79,10 +79,10 @@ https://stream41.radyotelekom.com.tr/stream/m3u8/0da87a89f765ddfac52cd89f7dab235
 https://1a-1791.com/live/kd32s8ur/live-hls/fz4h-qo9a/chunklist_i1_DVR.m3u8
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/w4I73ZqXJF.png",29. HBB TV
-http://162.212.179.32/akamaissh101/ssh101/hbb_tv/playlist.m3u8
+https://lucky-morning-99df.tebermedya.workers.dev/hbb_tv/playlist.m3u8
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/e0YzH.png",30. Teve ON 
-http://162.212.179.32/akamaissh101/ssh101/teber_on/playlist.m3u8
+https://lucky-morning-99df.tebermedya.workers.dev/teber_on/playlist.m3u8
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/RrDJ9fpgsA5G.png",31. Kral 6
 http://208.79.153.42/akamaissh101/ssh101/kral6/playlist.m3u8
@@ -93,26 +93,29 @@ https://lucky-morning-99df.tebermedya.workers.dev/teber_star1/playlist.m3u8
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/wZyU6lINf.png",33. Teber Star 2
 https://lucky-morning-99df.tebermedya.workers.dev/teber_star2/playlist.m3u8
 
-#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/wDKPRjpGh.png",34. Star Aksiyon
-http://208.79.153.42/akamaissh101/ssh101/aksion_star/playlist.m3u8
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/wZyU6lINf.png",34. Teber Star 3
+https://lucky-morning-99df.tebermedya.workers.dev/teber_star3/playlist.m3u
 
-#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/W24Opj8qe.png",35. İnter Star
-http://162.212.179.32/akamaissh101/ssh101/inter_star/playlist.m3u8
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/wZyU6lINf.png",35. Teber Star 4
+https://lucky-morning-99df.tebermedya.workers.dev/teber_star4/playlist.m3u
 
-#EXTINF:-1 group-title="Çocuk" tvg-logo="https://r.resimlink.com/3oySZ9-q.png",36. Star Vatan
-https://lucky-morning-99df.tebermedya.workers.dev/teber_tv/playlist.m3u8
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/wDKPRjpGh.png",36. Star Aksiyon
+https://lucky-morning-99df.tebermedya.workers.dev/aksion_star/playlist.m3u
 
-#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/9NO6M.png",37. Yansıma Sinema
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/W24Opj8qe.png",37. İnter Star
+https://lucky-morning-99df.tebermedya.workers.dev/inter_star/playlist.m3u8
+
+#EXTINF:-1 group-title="Çocuk" tvg-logo="https://r.resimlink.com/3oySZ9-q.png",38. Star Genç
+https://lucky-morning-99df.tebermedya.workers.dev/genç_star/playlist.m3u8
+
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/9NO6M.png",39. Yansıma Sinema
 http://cdn4.yayin.com.tr/yansimasinematv/video.m3u8
 
-#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/JhZ4a.png",38. Play Sinema
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/JhZ4a.png",40. Play Sinema
 https://ip100.radyotelekomtv.com:3784/stream/play.m3u8
 
-#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/W2ArFJGZV.png",39. Sinema 7 TV
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/W2ArFJGZV.png",41. Sinema 7 TV
 http://cdn4.yayin.com.tr/arti/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/R09dG4vnxp3.png",40. Cine 19
-http://162.212.179.32/akamaissh101/ssh101/teber_19/playlist.m3u8
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/C6O1dEvxw.png",43. SDM Sinema
 https://host.onlineradyotv.net:8081/sdmtv/tracks-v1a1/mono.m3u8
@@ -365,6 +368,7 @@ http://cb286df8.rossteleccom.net/iptv/ZCWPCL9K3LR827/31437/index.m3u8
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://img.favpng.com/2/3/25/universal-channel-television-channel-logo-universal-tv-png-favpng-62Ppqz9qJuQk0EPhzn0RaHa5C.jpg",577. Universal HD
 http://cb286df8.rossteleccom.net/iptv/ZCWPCL9K3LR827/6094/index.m3u8
+
 
 
 
