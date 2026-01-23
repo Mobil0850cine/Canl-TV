@@ -100,7 +100,7 @@ http://208.79.153.42/akamaissh101/ssh101/aksion_star/playlist.m3u8
 http://162.212.179.32/akamaissh101/ssh101/inter_star/playlist.m3u8
 
 #EXTINF:-1 group-title="Çocuk" tvg-logo="https://r.resimlink.com/3oySZ9-q.png",36. Star Vatan
-http://162.212.179.32/akamaissh101/ssh101/star_vatan/playlist.m3u8
+https://lucky-morning-99df.tebermedya.workers.dev/teber_tv/playlist.m3u8
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/9NO6M.png",37. Yansıma Sinema
 http://cdn4.yayin.com.tr/yansimasinematv/video.m3u8
@@ -365,6 +365,7 @@ http://cb286df8.rossteleccom.net/iptv/ZCWPCL9K3LR827/31437/index.m3u8
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://img.favpng.com/2/3/25/universal-channel-television-channel-logo-universal-tv-png-favpng-62Ppqz9qJuQk0EPhzn0RaHa5C.jpg",577. Universal HD
 http://cb286df8.rossteleccom.net/iptv/ZCWPCL9K3LR827/6094/index.m3u8
+
 
 
 
