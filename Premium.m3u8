@@ -120,9 +120,6 @@ https://host.onlineradyotv.net:8081/sdmtv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://i.imgur.com/Mm8hdfx.png",44. Deniz Sinema
 https://live.artidijitalmedya.com/artidijital_denizpostasi/denizpostasi/chunks.m3u8
 
-#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/M3ndB_jt4Xi2.png",46. Fusion 2
-https://a8.radyotelekom.com.tr:3976/stream/play.m3u8
-
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/aNoxG.png",50. Kuzey Max HD
 http://75.119.144.48/KUZEYMAXHD_STREAM/index.m3u8
 
@@ -294,6 +291,9 @@ https://streams.uzunmuhalefet.com/stream/96ead36d-cf4a-43e0-a407-ce120932c95d.m3
 #EXTINF:-1 group-title="Belgesel & Yaşam" tvg-logo="https://r.resimlink.com/oLQd79ml.png",337. Metro Türk
 https://metroturk.castpin.com/hls/metroturk/1_2/index.m3u8
 
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/Kpac42tX1LJ.png",338. Müzik TV
+https://a8.radyotelekom.com.tr:3976/stream/play.m3u8
+
 #EXTINF:-1 group-title="Çocuk" tvg-logo="https://r.resimlink.com/0ec2Y9ov.png",345. Trace Latına
 https://amg01131-tracetv-tracelatina-glewed-vtnk7.amagi.tv/playlist1080P.m3u8
 
@@ -365,6 +365,7 @@ http://cb286df8.rossteleccom.net/iptv/ZCWPCL9K3LR827/31437/index.m3u8
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://img.favpng.com/2/3/25/universal-channel-television-channel-logo-universal-tv-png-favpng-62Ppqz9qJuQk0EPhzn0RaHa5C.jpg",577. Universal HD
 http://cb286df8.rossteleccom.net/iptv/ZCWPCL9K3LR827/6094/index.m3u8
+
 
 
 
