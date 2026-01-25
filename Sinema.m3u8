@@ -108,9 +108,6 @@ https://lucky-morning-99df.tebermedya.workers.dev/teber_tv/playlist.m3u8
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/9NO6M.png",40. Yansıma Sinema
 http://cdn4.yayin.com.tr/yansimasinematv/video.m3u8
 
-#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/JhZ4a.png",41. Play Sinema
-https://ip100.radyotelekomtv.com:3784/stream/play.m3u8
-
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/W2ArFJGZV.png",42. Sinema 7 TV
 http://cdn4.yayin.com.tr/arti/tracks-v1a1/mono.m3u8
 
@@ -293,6 +290,7 @@ http://atlszar12.online:8080/ergun11/Ts96uFAKwE/191118
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/69PIJAMO.png", 130. FH Cinema 3
 http://atlszar12.online:8080/ergun11/Ts96uFAKwE/191117
+
 
 
 
