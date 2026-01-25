@@ -303,17 +303,20 @@ https://a8.radyotelekom.com.tr:3976/stream/play.m3u8
 #EXTINF:-1 group-title="Çocuk" tvg-logo="https://r.resimlink.com/0ec2Y9ov.png",345. Trace Latına
 https://amg01131-tracetv-tracelatina-glewed-vtnk7.amagi.tv/playlist1080P.m3u8
 
-#EXTINF:-1 group-title="Yabancı" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/34/AzTV_%282005-2009%29.png/revision/latest?cb=20170831053034",552. Az TV
+#EXTINF:-1 group-title="Çocuk" tvg-logo="https://r.resimlink.com/wVzqXfSt79E2.png",549. Show Plus
+https://rtmp.showplus.tv/hls/myshow.m3u8
+
+#EXTINF:-1 group-title="Yabancı" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/34/AzTV_%282005-2009%29.png/revision/latest?cb=20170831053034",550. Az TV
 https://cdn504.canlitv.me/aztv.m3u8
 
-#EXTINF:-1 group-title="Yabancı" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/Ictimai_TV_yeni_logo_2019.png",553. İçtimal TV
+#EXTINF:-1 group-title="Yabancı" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/Ictimai_TV_yeni_logo_2019.png",551. İçtimal TV
 https://cdn505.tv.vin/ictimaitv.m3u8
 
-#EXTINF:-1 group-title="Yabancı" tvg-logo="https://ichef.bbci.co.uk/images/ic/1920xn/p09xtmrp.jpg",554. BBC Drama
+#EXTINF:-1 group-title="Yabancı" tvg-logo="https://r.resimlink.com/X4u_oUF.png",552. BBC Drama
 https://amg00793-amg00793c41-rakuten-it-5445.playouts.now.amagi.tv/1080p/index.m3u8
 
-#EXTINF:-1 group-title="Çocuk" tvg-logo="https://r.resimlink.com/wVzqXfSt79E2.png",555. Show Plus
-https://rtmp.showplus.tv/hls/myshow.m3u8
+#EXTINF:-1 group-title="Yabancı" tvg-logo="https://r.resimlink.com/TCf4G.png",553. Sony Chennal
+http://45.164.151.197:8000/play/a0hp/index.m3u8
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/hPX1YA.png",556. Movies Actıon
 https://shls-live-enc.edgenextcdn.net/out/v1/46079e838e65490c8299f902a7731168/index.m3u8
@@ -322,13 +325,16 @@ https://shls-live-enc.edgenextcdn.net/out/v1/46079e838e65490c8299f902a7731168/in
 https://amg00711-zylo-amg00711c10-rakuten-fr-6731.playouts.now.amagi.tv/playlist1080p.m3u8
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/2560px-HBO_logo.svg.png",558. HBO 1
-http://74214be9.edemist.com/iptv/WUX6STDKBG73GKNYAF5U3KMF/6986/index.m3u8
+http://45.164.151.197:8000/play/a0l2/index.m3u8
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/HBO2_logo.svg/1280px-HBO2_logo.svg.png",559. HBO 2
-http://74214be9.edemist.com/iptv/WUX6STDKBG73GKNYAF5U3KMF/7005/index.m3u8
+http://45.164.151.197:8000/play/a00c/index.m3u8
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/18/HBO3_gradient.PNG",560. HBO 3
 http://74214be9.edemist.com/iptv/WUX6STDKBG73GKNYAF5U3KMF/7013/index.m3u8
+
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/-fquzmA6ObV.png",560. HBO Xtreme
+http://45.164.151.197:8000/play/a0l6/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://r.resimlink.com/oCm24hIejP.png",561. FX Movies
 https://fxtvhls.wns.live/hls/stream.m3u8
@@ -371,6 +377,7 @@ http://cb286df8.rossteleccom.net/iptv/ZCWPCL9K3LR827/31437/index.m3u8
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://img.favpng.com/2/3/25/universal-channel-television-channel-logo-universal-tv-png-favpng-62Ppqz9qJuQk0EPhzn0RaHa5C.jpg",577. Universal HD
 http://cb286df8.rossteleccom.net/iptv/ZCWPCL9K3LR827/6094/index.m3u8
+
 
 
 
