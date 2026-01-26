@@ -153,14 +153,14 @@ https://tv.ismailturret.workers.dev/euro90tvglobal.m3u8
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://cdn.imagevisit.com/2026/01/26/tv-platformlari-200-x-200-piksel-11.png",64. Boncuk TV
 http://104.238.23.221:82/boncuktv/Depo/live/out.m3u8
 
-#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://cdn.imagevisit.com/2026/01/26/tv-platformlari-200-x-200-piksel-13.png",65. Pofidix Sinema
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://cdn.imagevisit.com/2026/01/26/tv-platformlari-200-x-200-piksel-16.png",65. Pofidix Sinema
 http://5.178.103.239:82/d/live/out.m3u8
 
-#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://cdn.imagevisit.com/2026/01/26/tv-platformlari-200-x-200-piksel-13.png",66. Pofidix Sinema 3
-http://104.238.23.182/d/live/out.m3u8
-
-#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://cdn.imagevisit.com/2026/01/26/tv-platformlari-200-x-200-piksel-14.png",66. Pofidix Yerli
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://cdn.imagevisit.com/2026/01/26/tv-platformlari-200-x-200-piksel-14.png",66. Pofidix Sinema 2
 http://104.238.23.216/d/live/out.m3u8
+
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://cdn.imagevisit.com/2026/01/26/tv-platformlari-200-x-200-piksel-13.png",67. Pofidix Sinema 3
+http://104.238.23.182/d/live/out.m3u8
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/69PIJAMO.png", 80. Filmbox Premier
 http://mag.senpay25.com:80/play/live.php?mac=00:1A:79:BA:01:3E&stream=1395474&extension=ts&play_token=9j1daaYw8g
@@ -191,6 +191,7 @@ http://mag.senpay25.com:80/play/live.php?mac=00:1A:79:BA:01:3E&stream=1395483&ex
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/69PIJAMO.png", 90. Filmbox Yeşilçam
 http://mag.senpay25.com:80/play/live.php?mac=00:1A:79:BA:01:3E&stream=1395484&extension=ts&play_token=0YqVbbJcF9
+
 
 
 
