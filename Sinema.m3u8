@@ -150,6 +150,9 @@ https://live.artidijitalmedya.com/artidijital_denizpostasi/denizpostasi/chunks.m
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/bmLaf9Kdne.png",63. TV 90
 https://tv.ismailturret.workers.dev/euro90tvglobal.m3u8
 
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://cdn.imagevisit.com/2026/01/26/tv-platformlari-200-x-200-piksel-11.png",64. Boncuk TV
+http://104.238.23.221:82/boncuktv/Depo/live/out.m3u8 
+
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/69PIJAMO.png", 80. Filmbox Premier
 http://mag.senpay25.com:80/play/live.php?mac=00:1A:79:BA:01:3E&stream=1395474&extension=ts&play_token=9j1daaYw8g
 
@@ -179,6 +182,7 @@ http://mag.senpay25.com:80/play/live.php?mac=00:1A:79:BA:01:3E&stream=1395483&ex
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/69PIJAMO.png", 90. Filmbox Yeşilçam
 http://mag.senpay25.com:80/play/live.php?mac=00:1A:79:BA:01:3E&stream=1395484&extension=ts&play_token=0YqVbbJcF9
+
 
 
 
