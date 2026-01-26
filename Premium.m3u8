@@ -279,6 +279,9 @@ http://cdn-stv.yayin.com.tr/stv/stv/playlist.m3u8
 #EXTINF:-1 group-title="Çocuk" tvg-logo="https://r.resimlink.com/pJ0l6_koKFjX.png",300. Vizon Çocuk
 https://streams.uzunmuhalefet.com/stream/f18c5afc-97bb-4790-b124-dd17c70b6217.m3u8
 
+#EXTINF:-1 group-title="Çocuk" tvg-logo="https://cdn.imagevisit.com/2026/01/26/Zz1jNzhlZTI2NGNlNzcxMWVkYmMwNmVlMDZjYWM2NDI3Ng.png",305. Baby First
+http://45.164.151.197:8000/play/a03i/index.m3u8
+
 #EXTINF:-1 group-title="Diğer" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Canal_6_TCS.png/250px-Canal_6_TCS.png",331. Chennal 6
 https://cdn4.yayin.com.tr/channel6tv/index.m3u8
 
@@ -354,16 +357,16 @@ https://ilglobotv-live.akamaized.net/channels/RAIPremium/events(1000)/RAIPremium
 #EXTINF:-1 group-title="Yabancı" tvg-logo="https://r.resimlink.com/sJE5XVMo7v.png",564. Star Channel
 http://45.164.151.197:8000/play/a0hn/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://r.resimlink.com/Nl3cJTOsCvz-.jpg",570. Persina Türkiye
+#EXTINF:-1 tvg-logo="https://cdn.imagevisit.com/2026/01/26/tv-platformlari-200-x-200-piksel-7.png",570. Persina Türkiye
 https://turkhls.persiana.live/hls/stream.m3u8
 
-#EXTINF:-1 tvg-logo="https://r.resimlink.com/Vt8z3hkXOUyc.jpg",571. Persina Cinama
+#EXTINF:-1 tvg-logo="https://cdn.imagevisit.com/2026/01/26/tv-platformlari-200-x-200-piksel-6.png",571. Persina Cinama
 https://cinehls.persiana.live/hls/stream.m3u8
 
-#EXTINF:-1 tvg-logo="https://r.resimlink.com/Kr9apLd.jpg",572. Persina Family
+#EXTINF:-1 tvg-logo="https://cdn.imagevisit.com/2026/01/26/tv-platformlari-200-x-200-piksel-8.png",572. Persina Family
 https://familyhls.persiana.live/hls/stream.m3u8
 
-#EXTINF:-1 tvg-logo="https://r.resimlink.com/Hl9O5JKDd.jpg",573. Persina Science
+#EXTINF:-1 tvg-logo="https://cdn.imagevisit.com/2026/01/26/tv-platformlari-200-x-200-piksel-9.png",573. Persina Science
 https://scihls.persiana.live/hls/stream.m3u8
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/50/Sky_Atlantic_logo_2020.png",574. Sky Atlantic
@@ -375,8 +378,9 @@ http://cb286df8.rossteleccom.net/iptv/ZCWPCL9K3LR827/6111/index.m3u8
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://cdn.broadbandtvnews.com/wp-content/uploads/2023/12/07100555/wedotv_PLATFORM_LOGO-BLACK-TYPW.png",576. Movies HD
 http://cb286df8.rossteleccom.net/iptv/ZCWPCL9K3LR827/31437/index.m3u8
 
-#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://img.favpng.com/2/3/25/universal-channel-television-channel-logo-universal-tv-png-favpng-62Ppqz9qJuQk0EPhzn0RaHa5C.jpg",577. Universal HD
-http://cb286df8.rossteleccom.net/iptv/ZCWPCL9K3LR827/6094/index.m3u8
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://cdn.imagevisit.com/2026/01/26/images-2.png",577. Universal HD
+http://45.164.151.197:8000/play/a065/index.m3u8
+
 
 
 
