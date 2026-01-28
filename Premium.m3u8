@@ -151,7 +151,7 @@ https://cdn-gzcspor.yayin.com.tr/gzcspor/gzcspor/playlist.m3u8
 http://74214be9.edemist.com/iptv/WUX6STDKBG73GKNYAF5U3KMF/2193/index.m3u8
 
 #EXTINF:-1 group-title="Spor" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/01/%C4%B0dman_TV_logo.png",80. İdman TV
-http://str.yodacdn.net/idmantele/tracks-v1a1/mono.ts.m3u8
+https://str.yodacdn.net/idmantele/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="Spor" tvg-logo="https://tvprofil.com/img/kanali-logo/Arena_Sport_1_BiH_BA_logo_v3.png?1737553095",91. Arena Sport 1
 http://74214be9.edemist.com/iptv/WUX6STDKBG73GKNYAF5U3KMF/7329/index.m3u8
@@ -383,6 +383,7 @@ http://45.164.151.197:8000/play/a065/index.m3u8
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://cdn.imagevisit.com/2026/01/26/tv-platformlari-200-x-200-piksel-10.png",579. Universal Comedy
 http://45.164.151.197:8000/play/a0i5/index.m3u8
+
 
 
 
