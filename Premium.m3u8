@@ -30,13 +30,13 @@ https://stream41.radyotelekom.com.tr/stream/m3u8/0da87a89f765ddfac52cd89f7dab235
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/i8XP-MU.png",10. Sineon
 https://stream41.radyotelekom.com.tr/stream/m3u8/68bbd5381c3a53aed6a048dbbab09ee2/68bbd5381c3a53aed6a048dbbab09ee2.m3u8
 
-#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://ibb.co/ksTWCxY9",11. Sine Adrenalin
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://i.imgyukle.com/2026/01/28/SEsJRS.png",11. Sine Adrenalin
 https://stream41.radyotelekom.com.tr/stream/m3u8/23251eb5600b7f951ffdaf922e3590b9/23251eb5600b7f951ffdaf922e3590b9.m3u8
 
-#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://ibb.co/353wW3yZ",12. Sine Premıum
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://i.imgyukle.com/2026/01/28/SEsVlG.png",12. Sine Premıum
 https://stream41.radyotelekom.com.tr/stream/m3u8/e0ff5c35d76f2ac4e726dc7843786250/e0ff5c35d76f2ac4e726dc7843786250.m3u8
 
-#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://ibb.co/TBsvsF5Q",13. Sine Yerli
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://i.imgyukle.com/2026/01/28/SEsQNb.png",13. Sine Yerli
 https://stream41.radyotelekom.com.tr/stream/m3u8/78fe058860bd8c67f9af2665a933cfc1/78fe058860bd8c67f9af2665a933cfc1.m3u8
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/uOld_H.png",14. Filmclup
@@ -383,6 +383,7 @@ http://45.164.151.197:8000/play/a065/index.m3u8
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://cdn.imagevisit.com/2026/01/26/tv-platformlari-200-x-200-piksel-10.png",579. Universal Comedy
 http://45.164.151.197:8000/play/a0i5/index.m3u8
+
 
 
 
